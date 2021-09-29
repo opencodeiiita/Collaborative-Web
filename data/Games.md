@@ -1,8 +1,0 @@
-1. [blaze-assault](https://blaze-assault.github.io/game/color.html)
-2. [sggts04](https://shreyasgupta.in/SquareJumper/)
-3. [manish-kumar-2000] (https://manish-kumar-2000.github.io/MathMinder/)
-4. [griffy06](https://griffy06.github.io/lame-game/start.html)
-4. [Rohini13](https://rohini13.github.io/Tic-Tac-Toe/)
-5. [pradhuman1](https://pradhuman1.github.io/tic-tac-toe/game)
-6. [prince-7](https://prince-7.github.io/)
-7. [sarthakm21](https://sarthakm21.github.io/Snake/)
