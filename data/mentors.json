@@ -1,0 +1,19 @@
+var mentorDetails = [
+    {
+
+        "name" : "Ekansh Bansal",
+        "imageurl" : "https://avatars1.githubusercontent.com/u/34866483?s=400&v=4",
+        "about" : "Lead Organiser",
+        "facebook" : "",
+        "github" : "https://github.com/Ace-Bansal",
+        "twitter" : ""
+     }    
+]
+
+
+
+
+
+
+
+
