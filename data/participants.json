@@ -11,7 +11,18 @@
         "twitter" : "https://twitter.com/prajit2806",
         "referral" : "None"
      }
- 
+     ,
+     {
+
+        "name" : "Naman Yadav",
+        "imageurl" : "https://avatars.githubusercontent.com/u/75947060?v=4",
+        "about" : "Hello I'm a web developer",
+        "college" : "IIIT A",
+        "facebook" : "",
+        "github" : "https://github.com/Naman-11",
+        "twitter" : "",
+        "referral" : "geekhaven iiita"
+     }
     
 ]
 
