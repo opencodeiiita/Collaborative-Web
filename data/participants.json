@@ -115,6 +115,16 @@
        "github" : "https://github.com/saloni33",
        "twitter" : "",
        "referral" : "By seniors of our college"
-    }
+    },{
+
+        "name" : "Shantanu",
+        "imageurl" : "https://avatars.githubusercontent.com/u/76626284?v=4",
+        "about" : "Hello I'm a web developer",
+        "college" : "IIIT Allahabad",
+        "facebook" : "",
+        "github" : "https://github.com/underoot-iota",
+        "twitter" : "",
+        "referral" : "via college"
+     }
 
 ]
