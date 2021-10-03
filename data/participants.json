@@ -1,6 +1,17 @@
 [
     
-    
+    {
+
+        "name" : "Name",
+        "imageurl" : "contestant/avatar.jpg",
+        "about" : "Hello I'm a web developer",
+        "college" : "IIITA",
+        "facebook" : "",
+        "github" : "https://github.com/jalanprakhar",
+        "twitter" : "",
+        "referral" : ""
+     }
+ 
     
 ]
 
