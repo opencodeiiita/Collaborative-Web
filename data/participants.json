@@ -27,7 +27,23 @@
         "github" : "https://github.com/BlaZe-001",
         "twitter" : "",
         "referral" : "via college"
-     },{
+
+     },
+
+     
+
+    {
+
+       "name" : "Kirti",
+       "imageurl" : "https://avatars.githubusercontent.com/u/76592673?v=4",
+       "about" : "Hello I'm a web developer",
+       "college" : "IIIT ALLAHABAD",
+       "facebook" : "https://www.facebook.com/kirti.singla.54738",
+       "github" : "https://github.com/codesanta142",
+       "twitter" : "@KirtiSi15288647",
+       "referral" : "via college"
+    },
+   {
       "name" : "Pratyush Ranjan",
       "imageurl" : "https://avatars.githubusercontent.com/u/76619629?s=400&u=a7c25d7ea693b3117300312b9add670b33c2ae51&v=4",
       "about" : "Hello I'm a keen developer with basic knowledge of html css",
@@ -36,6 +52,9 @@
       "github" : "https://github.com/Pratyush7901",
       "twitter" : "",
       "referral" : "Student of IIITA"
-   }
+    }
+ 
+    
+
 
 ]
