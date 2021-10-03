@@ -1,11 +1,22 @@
-{
-
-    "name" : "Vimal Vinayak",
-    "imageurl" : "https://avatars.githubusercontent.com/u/76625113?v=4",
-    "about" : "Hello I'm a web developer",
-    "college" : "IIIT Allahabad",
-    "facebook" : "",
-    "github" : "https://github.com/BlaZe-001",
-    "twitter" : "",
-    "referral" : "via college"
- }
+[
+  {
+    "name": "Vimal Vinayak",
+    "imageurl": "https://avatars.githubusercontent.com/u/76625113?v=4",
+    "about": "Hello I'm a web developer",
+    "college": "IIIT Allahabad",
+    "facebook": "",
+    "github": "https://github.com/BlaZe-001",
+    "twitter": "",
+    "referral": "via college"
+  },
+  {
+    "name": "Amitvikram Dwivedi",
+    "imageurl": "https://i.ibb.co/L57Y5m9/photo-square.jpg",
+    "about": "Hey there am into Web-Development React and Node.js are what is use.",
+    "college": "Indian Institute of Information Technology Vadodara",
+    "facebook": "https://www.facebook.com/Amitbatflarrow/",
+    "github": "https://github.com/batflarrow",
+    "twitter": "https://twitter.com/amitbatflarrow",
+    "referral": "None"
+  }
+]
