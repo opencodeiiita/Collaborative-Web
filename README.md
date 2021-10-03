@@ -14,7 +14,6 @@ Like us on [Facebook](https://www.facebook.com/opencodeiiita/)
 
 - GitHub Account
 - Git
-
 #### Setting up git:
 
 - [Download and install the latest version of Git.](https://git-scm.com/downloads)
