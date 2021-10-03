@@ -30,6 +30,7 @@
         "github" : "https://github.com/BlaZe-001",
         "twitter" : "",
         "referral" : "via college"
+
      },{
         "name" : "Palak Ahuja",
         "imageurl" : "https://avatars.githubusercontent.com/u/76587145?v=4",
@@ -59,8 +60,7 @@
        "github" : "github.com/diyawaghmare",
        "twitter" : "",
        "referral" : "Geekhaven"
-     },
-      {
+     },{
        "name" : "Saloni Doshi",
        "imageurl" : "https://avatars.githubusercontent.com/u/76587223?v=4",
        "about" : "Hello I am a Android developer",
@@ -79,7 +79,7 @@
        "twitter" : "",
        "referral" : "Friends"
     },
-   {
+{
       "name" : "Abhay Parihar",
       "imageurl" : "https://avatars.githubusercontent.com/u/64008676?v=4",
       "about" : "I'm into CC and Web Dev. Frontend is my best part.",
@@ -88,7 +88,14 @@
       "github" : "https://github.com/A-Spiral-Forge",
       "twitter" : "https://twitter.com/SpiralForge_",
       "referral" : "None"
-   }
- 
-    
+   },{
+      "name" : "Ashutosh Verma",
+      "imageurl" : "https://avatars.githubusercontent.com/u/75844019?s=400&u=297a678caf6c669635911b0ec2d27fb6b44e4c68&v=4",
+      "about" :  "Hi! I am web Developer ",
+      "college" : "Indian Institute of Information Technology Allahabad",
+      "facebook" : "https://www.facebook.com/profile.php?id=100010372082428",
+      "github" : "https://github.com/ashutosh3027",
+      "twitter" : "NULL",
+      "referral" : "None"
+      }   
 ]
