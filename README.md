@@ -122,4 +122,4 @@ Please help us follow the best practice to make it easy for the reviewer as well
 
 - Communicate: Whether you are working on a new feature or facing a doubt please feel free to ask us on our slack channel. We will be happy to help you out.
 
-### Happy Coding :v:
+### Happy Coding
