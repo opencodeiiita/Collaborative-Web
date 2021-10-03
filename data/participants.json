@@ -27,7 +27,16 @@
         "github" : "https://github.com/BlaZe-001",
         "twitter" : "",
         "referral" : "via college"
-     }
+     },{
+      "name" : "Agrim Vemra",
+      "imageurl" : "https://avatars.githubusercontent.com/u/911344684?s=400&u=3e0ab0d735213ab04053aef3c1ae6f1cb2255ec3&v=4",
+      "about" : "Hello I'm a web developer",
+      "college" : "IIIT Allahabad",
+      "facebook" : "",
+      "github" : "https://github.com/AgrimVerma",
+      "twitter" : "",
+      "referral" : "via college"
+   },
 
     {
 
