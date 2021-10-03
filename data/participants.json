@@ -1,3 +1,4 @@
+
 [
     
     {
@@ -11,7 +12,18 @@
         "twitter" : "https://twitter.com/prajit2806",
         "referral" : "None"
      },
-     
+     {
+
+    "name" : "Vimal Vinayak",
+    "imageurl" : "https://avatars.githubusercontent.com/u/76625113?v=4",
+    "about" : "Hello I'm a web developer",
+    "college" : "IIIT Allahabad",
+    "facebook" : "",
+    "github" : "https://github.com/BlaZe-001",
+    "twitter" : "",
+    "referral" : "via college"
+ },
+
      {
 
         "name" : "Aashita Chouhan",
@@ -25,11 +37,4 @@
      }
     
 ]
-
-
-
-
-
-
-
 

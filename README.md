@@ -61,10 +61,7 @@ To add yourself to student section you need to open the file `participants.json`
 ```
 IMPORTANT:
 
-- All images must be optimized before uploaded to the repo via commit or PR.
-- The images should be of square resolution.
 - If you do not want to include social media accounts, leave the field empty `"facebook":""`.
-
 - While working with JSON, check the file using [JSON Lint](https://jsonlint.com/) before opening pull request
 
 ## Contributing
