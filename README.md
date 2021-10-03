@@ -9,7 +9,6 @@ Like us on [Facebook](https://www.facebook.com/opencodeiiita/)
 ## About us
 
 [OpenCode](https://opencodeiiita.github.io/) is a month long open source program organised by [GeekHaven IIIT Allahabad](https://geekhaven.iiita.ac.in). OpenCode attracts talent from all over the world. People contribute to various open source projects. We welcome everyone to experience the awesome event and win exciting prizes.
-
 ## Requirements:
 
 - GitHub Account
