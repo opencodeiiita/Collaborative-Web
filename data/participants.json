@@ -21,6 +21,17 @@
         "twitter" : "Nil",
         "referral" : "Already a student of IIITA"
      }   
+
+     {
+        "name" : "Anushtha Bageria",
+        "imageurl" : "https://avatars.githubusercontent.com/u/76680350?s=40&v=4",
+        "about" : "hello! I am a beginner in web development",
+        "college" : "IIIT-Allahabad",
+        "facebook" : "https://www.facebook.com/anushtha.bageria/",
+        "github" : "https://github.com/anu-phoenix",
+        "twitter" : "Nil",
+        "referral" : "Already a student of IIITA"
+     } 
 ]
 
 
