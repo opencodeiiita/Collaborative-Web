@@ -46,7 +46,7 @@
        "github" : "https://github.com/codesanta142",
        "twitter" : "@KirtiSi15288647",
        "referral" : "via college"
-  },{
+     },{
        "name" : "Diya Waghmare",
        "imageurl" : "https://avatars.githubusercontent.com/u/56413380?s=400&u=0abc24ddde94f200e3087e81594d65762e77ef10&v=4",
        "about" : "Hello I'm a web developer",
@@ -55,8 +55,16 @@
        "github" : "github.com/diyawaghmare",
        "twitter" : "",
        "referral" : "Geekhaven"
-     }
- },{
+     },{
+       "name" : "Saloni Doshi",
+       "imageurl" : "https://avatars.githubusercontent.com/u/76587223?v=4",
+       "about" : "Hello I am a Android developer",
+       "college" : "IIIT Allahabad",
+       "facebook" : "",
+       "github" : "https://github.com/saloni33",
+       "twitter" : "",
+       "referral" : "By seniors of IIITA"
+    },{
        "name" : Raghav Goel,
        "imageurl" : https://avatars.githubusercontent.com/u/75788719?s=400&u=571f037673cdef8d39cd4dfca96b8e8cd1cde04a&v=4
        "about" : Hello I'm a web developer
@@ -65,5 +73,7 @@
        "github" : https://github.com/raghavgoel25
        "twitter" :
        "referral" : Geekhaven
-  } 
-]
+     }
+ 
+    ]
+
