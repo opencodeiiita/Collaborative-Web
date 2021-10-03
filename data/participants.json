@@ -56,7 +56,18 @@
        "github" : "github.com/diyawaghmare",
        "twitter" : "",
        "referral" : "Geekhaven"
-     },   {
+     },
+
+     }, {
+       "name" : "Saloni Doshi",
+       "imageurl" : "https://avatars.githubusercontent.com/u/76587223?v=4",
+       "about" : "Hello I am a Android developer",
+       "college" : "IIIT Allahabad",
+       "facebook" : "",
+       "github" : "https://github.com/saloni33",
+       "twitter" : "",
+       "referral" : "By seniors of IIITA"
+    },   {
 
        "name" : "Yash Chaurasia",
        "imageurl" : "https://avatars.githubusercontent.com/u/76608547?v=4",
