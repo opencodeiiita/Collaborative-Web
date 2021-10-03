@@ -1,5 +1,5 @@
 [
-    
+        
     {
 
         "name" : "Prajit Sengupta",
@@ -10,30 +10,55 @@
         "github" : "https://github.com/Prajit-Sengupta",
         "twitter" : "https://twitter.com/prajit2806",
         "referral" : "None"
-     }
+     },{
+        "name" : "Divyansh",
+        "imageurl" : "https://avatars.githubusercontent.com/u/76586767?s=400&u=68f61bcff5a27f79f0753fa574394639cc04dd33&v=4",
+        "about" : "Hey there! I'm an Enthusiastic developer with keen interest in web and app development",
+        "college" : "IIIT-Allahabad",
+        "facebook" : "https://www.facebook.com/divyansh.gupta.3958914/",
+        "github" : "https://github.com/The-Divyansh",
+        "twitter" : "Nil",
+        "referral" : "Already a student of IIITA"
+
+     },{
+        "name" : "Vimal Vinayak",
+        "imageurl" : "https://avatars.githubusercontent.com/u/76625113?v=4",
+        "about" : "Hello I'm a web developer",
+        "college" : "IIIT Allahabad",
+        "facebook" : "",
+        "github" : "https://github.com/BlaZe-001",
+        "twitter" : "",
+        "referral" : "via college"
+     },{
+
+       "name" : "Kirti",
+       "imageurl" : "https://avatars.githubusercontent.com/u/76592673?v=4",
+       "about" : "Hello I'm a web developer",
+       "college" : "IIIT ALLAHABAD",
+       "facebook" : "https://www.facebook.com/kirti.singla.54738",
+       "github" : "https://github.com/codesanta142",
+       "twitter" : "@KirtiSi15288647",
+       "referral" : "via college"
+    },{
+       "name" : "Diya Waghmare",
+       "imageurl" : "https://avatars.githubusercontent.com/u/56413380?s=400&u=0abc24ddde94f200e3087e81594d65762e77ef10&v=4",
+       "about" : "Hello I'm a web developer",
+       "college" : "IIIT Allahabad",
+       "facebook" : "",
+       "github" : "github.com/diyawaghmare",
+       "twitter" : "",
+       "referral" : "Geekhaven"
+     },{  
+           "name" : "Baljot Singh",      
+           "imageurl" : "https://avatars.githubusercontent.com/u/91846360?s=40&v=4",        
+           "about" : "Hello I'm a web developer & competetive programer",         
+           "college" : "IIITA",         
+           "facebook" : "",         
+           "github" : "https://github.com/Perry0107",         
+           "twitter" : "",         
+           "referral" : ""     
+    }
  
 
     
 ]
-
-[
-    {          "name" : "Baljot Singh",      
-               "imageurl" : "https://avatars.githubusercontent.com/u/91846360?s=40&v=4",        
-               "about" : "Hello I'm a web developer & competetive programer",         
-               "college" : "IIITA",         
-               "facebook" : "",         
-               "github" : "https://github.com/Perry0107",         
-               "twitter" : "",         
-               "referral" : ""     
-    }
-  
- ]
-
-
-
-
-
-
-
-
-
