@@ -20,7 +20,19 @@
         "github" : "https://github.com/The-Divyansh",
         "twitter" : "Nil",
         "referral" : "Already a student of IIITA"
-     }   
+     }
+     
+     {
+
+        "name" : "Manpreet Singh",
+        "imageurl" : "https://ibb.co/ThQ4KwB",
+        "about" : "Hello I'm a web developer",
+        "college" : "IIT A",
+        "facebook" : "",
+        "github" : "https://github.com/AshuZ-dot",
+        "twitter" : "",
+        "referral" : "IIITA"
+    }   
 ]
 
 
