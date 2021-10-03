@@ -10,8 +10,21 @@
         "github" : "https://github.com/Prajit-Sengupta",
         "twitter" : "https://twitter.com/prajit2806",
         "referral" : "None"
-     }
- 
+     
+    },
+    {
+
+        "name" : "James Thomas",
+        "imageurl" : "https://avatars.githubusercontent.com/u/87705437?v=4",
+        "about" : "I am a web developer",
+        "college" : "Indian Institute of Technology , Varanasi",
+        "facebook" : "",
+        "github" : "https://github.com/james3gh",
+        "twitter" : "",
+        "referral" :"college"
+
+    }
+     
     
 ]
 
