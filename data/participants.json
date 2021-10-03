@@ -41,6 +41,17 @@
        "referral" : "via college"
     }
  
+   {
+
+       "name" : "Shantanu",
+       "imageurl" : "https://avatars.githubusercontent.com/u/76626284?s=96&v=4",
+       "about" : "Hello I'm a web developer",
+       "college" : "IIIT Allahabad",
+       "facebook" : "https://www.facebook.com/shantanu.chaudhary.129357/",
+       "github" : "https://github.com/underoot-iota",
+       "twitter" : "",
+       "referral" : "via college"
+    }
     
 
 ]
