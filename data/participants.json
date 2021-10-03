@@ -1,7 +1,6 @@
 [
         
     {
-
         "name" : "Prajit Sengupta",
         "imageurl" : "https://avatars.githubusercontent.com/u/71543838?s=400&u=0aac22efe11b5464f98bef5e885a6ca7d4264d76&v=4",
         "about" : "Hey am into Web-Development. React and Django is my forte. Also am into Debating.",
@@ -30,6 +29,15 @@
         "twitter" : "",
         "referral" : "via college"
      },{
+        "name" : "Palak Ahuja",
+        "imageurl" : "https://avatars.githubusercontent.com/u/76587145?v=4",
+        "about" : "Hello I'm a web developer",
+        "college" : "IIIT Allahabad",
+        "facebook" : "",
+        "github" : "https://github.com/Palak-2109",
+        "twitter" : "",
+        "referral" : "through seniors of the college"
+     }, {
 
        "name" : "Kirti",
        "imageurl" : "https://avatars.githubusercontent.com/u/76592673?v=4",
@@ -48,17 +56,16 @@
        "github" : "github.com/diyawaghmare",
        "twitter" : "",
        "referral" : "Geekhaven"
-     },{  
-           "name" : "Baljot Singh",      
-           "imageurl" : "https://avatars.githubusercontent.com/u/91846360?s=40&v=4",        
-           "about" : "Hello I'm a web developer & competetive programer",         
-           "college" : "IIITA",         
-           "facebook" : "",         
-           "github" : "https://github.com/Perry0107",         
-           "twitter" : "",         
-           "referral" : ""     
+     },{ 
+        "name" : "Baljot Singh",
+        "imageurl" : "https://avatars.githubusercontent.com/u/91846360?s=40&v=4",
+        "about" : "Hello I'm a web developer & competetive programer",
+        "college" : "IIIT Allahabad",
+        "facebook" : "",
+        "github" : "https://github.com/Perry0107",
+        "twitter" : "",
+        "referral" : "Geekhaven"       
     }
- 
 
-    
 ]
+
