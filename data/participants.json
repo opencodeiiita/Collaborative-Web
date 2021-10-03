@@ -57,8 +57,16 @@
        "github" : "github.com/diyawaghmare",
        "twitter" : "",
        "referral" : "Geekhaven"
-     },
-     {
+     },{
+       "name" : "Saloni Doshi",
+       "imageurl" : "https://avatars.githubusercontent.com/u/76587223?v=4",
+       "about" : "Hello I am a Android developer",
+       "college" : "IIIT Allahabad",
+       "facebook" : "",
+       "github" : "https://github.com/saloni33",
+       "twitter" : "",
+       "referral" : "By seniors of IIITA"
+    },{
       "name" : "Ashutosh Verma",
       "imageurl" : "https://avatars.githubusercontent.com/u/75844019?s=400&u=297a678caf6c669635911b0ec2d27fb6b44e4c68&v=4",
       "about" :  "Hi! I am web Developer ",
@@ -68,4 +76,6 @@
       "twitter" : "NULL",
       "referral" : "None"
       }
-]
+ 
+    ]
+
