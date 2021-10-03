@@ -1,13 +1,17 @@
 
+[
+        
+    {
+        "name" : "Prajit Sengupta",
+        "imageurl" : "https://avatars.githubusercontent.com/u/71543838?s=400&u=0aac22efe11b5464f98bef5e885a6ca7d4264d76&v=4",
+        "about" : "Hey am into Web-Development. React and Django is my forte. Also am into Debating.",
+        "college" : "Thapar Institute of Engineering and Technology ",
+        "facebook" : "Null",
+        "github" : "https://github.com/Prajit-Sengupta",
+        "twitter" : "https://twitter.com/prajit2806",
+        "referral" : "None"
+     },{
 
-
-
-
-
-
-
-
-   },  {
         "name" : "Divyansh",
         "imageurl" : "https://avatars.githubusercontent.com/u/76586767?s=400&u=68f61bcff5a27f79f0753fa574394639cc04dd33&v=4",
         "about" : "Hey there! I'm an Enthusiastic developer with keen interest in web and app development",
@@ -28,6 +32,15 @@
         "twitter" : "",
         "referral" : "via college"
      },{
+        "name" : "Palak Ahuja",
+        "imageurl" : "https://avatars.githubusercontent.com/u/76587145?v=4",
+        "about" : "Hello I'm a web developer",
+        "college" : "IIIT Allahabad",
+        "facebook" : "",
+        "github" : "https://github.com/Palak-2109",
+        "twitter" : "",
+        "referral" : "through seniors of the college"
+     }, {
 
        "name" : "Kirti",
        "imageurl" : "https://avatars.githubusercontent.com/u/76592673?v=4",
@@ -46,9 +59,17 @@
        "github" : "github.com/diyawaghmare",
        "twitter" : "",
        "referral" : "Geekhaven"
-    }{
 
-    },{
+     }, {
+       "name" : "Saloni Doshi",
+       "imageurl" : "https://avatars.githubusercontent.com/u/76587223?v=4",
+       "about" : "Hello I am a Android developer",
+       "college" : "IIIT Allahabad",
+       "facebook" : "",
+       "github" : "https://github.com/saloni33",
+       "twitter" : "",
+       "referral" : "By seniors of IIITA"
+ },{
        "name" : "Mantraraj Gotecha",
        "imageurl" : "https://avatars.githubusercontent.com/u/76609411?v=4",
        "about" : "Hello I'm a web developer",
@@ -58,3 +79,7 @@
        "twitter" : "",
        "referral" : "Already a student of IIITA"
      }
+    ]
+       
+
+
