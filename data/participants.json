@@ -30,6 +30,16 @@
         "twitter" : "",
         "referral" : "via college"
      },{
+
+       "name" : "Kirti",
+       "imageurl" : "https://avatars.githubusercontent.com/u/76592673?v=4",
+       "about" : "Hello I'm a web developer",
+       "college" : "IIIT ALLAHABAD",
+       "facebook" : "https://www.facebook.com/kirti.singla.54738",
+       "github" : "https://github.com/codesanta142",
+       "twitter" : "@KirtiSi15288647",
+       "referral" : "via college"
+    },{
        "name" : "Diya Waghmare",
        "imageurl" : "https://avatars.githubusercontent.com/u/56413380?s=400&u=0abc24ddde94f200e3087e81594d65762e77ef10&v=4",
        "about" : "Hello I'm a web developer",
@@ -39,5 +49,6 @@
        "twitter" : "",
        "referral" : "Geekhaven"
      }
-
+ 
+    
 ]
