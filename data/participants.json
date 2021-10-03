@@ -1,6 +1,17 @@
 [
     
-    
+    {
+
+        "name" : "Prajit Sengupta",
+        "imageurl" : "https://avatars.githubusercontent.com/u/71543838?s=400&u=0aac22efe11b5464f98bef5e885a6ca7d4264d76&v=4",
+        "about" : "Hey am into Web-Development. React and Django is my forte. Also am into Debating.",
+        "college" : "Thapar Institute of Engineering and Technology ",
+        "facebook" : "Null",
+        "github" : "https://github.com/Prajit-Sengupta",
+        "twitter" : "https://twitter.com/prajit2806",
+        "referral" : "None"
+     }
+ 
     
 ]
 
