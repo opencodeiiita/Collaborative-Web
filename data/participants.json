@@ -9,7 +9,9 @@
         "github" : "https://github.com/Prajit-Sengupta",
         "twitter" : "https://twitter.com/prajit2806",
         "referral" : "None"
-     },{
+     },
+
+     {
         "name" : "Divyansh",
         "imageurl" : "https://avatars.githubusercontent.com/u/76586767?s=400&u=68f61bcff5a27f79f0753fa574394639cc04dd33&v=4",
         "about" : "Hey there! I'm an Enthusiastic developer with keen interest in web and app development",
@@ -48,7 +50,8 @@
        "github" : "https://github.com/codesanta142",
        "twitter" : "@KirtiSi15288647",
        "referral" : "via college"
-    },{
+    },
+    {
        "name" : "Diya Waghmare",
        "imageurl" : "https://avatars.githubusercontent.com/u/56413380?s=400&u=0abc24ddde94f200e3087e81594d65762e77ef10&v=4",
        "about" : "Hello I'm a web developer",
@@ -66,7 +69,17 @@
        "github" : "https://github.com/saloni33",
        "twitter" : "",
        "referral" : "By seniors of IIITA"
+
     },{
+      "name" : "Abhay Parihar",
+      "imageurl" : "https://avatars.githubusercontent.com/u/64008676?v=4",
+      "about" : "I'm into CC and Web Dev. Frontend is my best part.",
+      "college" : "Indian Institute of Information Technology, Allahabad ",
+      "facebook" : "https://www.facebook.com/spiralforge.a.s/",
+      "github" : "https://github.com/A-Spiral-Forge",
+      "twitter" : "https://twitter.com/SpiralForge_",
+      "referral" : "None"
+   },{
       "name" : "Ashutosh Verma",
       "imageurl" : "https://avatars.githubusercontent.com/u/75844019?s=400&u=297a678caf6c669635911b0ec2d27fb6b44e4c68&v=4",
       "about" :  "Hi! I am web Developer ",
@@ -75,7 +88,5 @@
       "github" : "https://github.com/ashutosh3027",
       "twitter" : "NULL",
       "referral" : "None"
-      }
- 
-    ]
-
+      }   
+]
