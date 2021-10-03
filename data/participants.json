@@ -1,4 +1,5 @@
 [
+        
     {
         "name" : "Prajit Sengupta",
         "imageurl" : "https://avatars.githubusercontent.com/u/71543838?s=400&u=0aac22efe11b5464f98bef5e885a6ca7d4264d76&v=4",
@@ -17,6 +18,7 @@
         "github" : "https://github.com/The-Divyansh",
         "twitter" : "Nil",
         "referral" : "Already a student of IIITA"
+
      },{
         "name" : "Vimal Vinayak",
         "imageurl" : "https://avatars.githubusercontent.com/u/76625113?v=4",
@@ -45,4 +47,15 @@
        "github" : "https://github.com/codesanta142",
        "twitter" : "@KirtiSi15288647",
        "referral" : "via college"
-    }
+    },{
+       "name" : "Diya Waghmare",
+       "imageurl" : "https://avatars.githubusercontent.com/u/56413380?s=400&u=0abc24ddde94f200e3087e81594d65762e77ef10&v=4",
+       "about" : "Hello I'm a web developer",
+       "college" : "IIIT Allahabad",
+       "facebook" : "",
+       "github" : "github.com/diyawaghmare",
+       "twitter" : "",
+       "referral" : "Geekhaven"
+     }
+ 
+    ]
