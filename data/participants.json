@@ -50,6 +50,7 @@
        "github" : "https://github.com/codesanta142",
        "twitter" : "@KirtiSi15288647",
        "referral" : "via college"
+
     },
     {
        "name" : "Diya Waghmare",
@@ -96,6 +97,31 @@
       "github" : "https://github.com/ashutosh3027",
       "twitter" : "NULL",
       "referral" : "None"
-      }
+      },{
+
+       "name" : "Saloni Doshi",
+       "imageurl" : "https://avatars.githubusercontent.com/u/76587223?v=4",
+       "about" : "Hello I'm a App developer",
+       "college" : "IIIT A",
+       "facebook" : "",
+       "github" : "https://github.com/saloni33",
+       "twitter" : "",
+       "referral" : "By seniors of our college"
+    },
+    {
+
+      "name" : "Hardik Arora",
+      "imageurl" : "https://avatars.githubusercontent.com/u/76592673?v=4",
+      "about" : "Hi I'm a fervent web developer",
+      "college" : "IIIT ALLAHABAD",
+      "facebook" : "",
+      "github" : "https://github.com/hardikarora2",
+      "twitter" : "",
+      "referral" : "via college"
+ 
+    
+    }
+      
+
 
 ]
