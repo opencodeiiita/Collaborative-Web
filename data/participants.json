@@ -1,5 +1,15 @@
 [
-    
+    {
+
+       "name" : "Aditya Tyagi",
+       "imageurl" : "https://github.com/adityagi02.png",
+       "about" : "Hello, I'm a sophomore in Computer Science & Engineering at Indian Institute of Information Technology, Kottayam who is interested in every field of CS and love to contribute in Open Source",
+       "college" : "Indian Institute of Information Technology, Kottayam",
+       "facebook" : "",
+       "github" : "https://github.com/adityagi02",
+       "twitter" : "https://twitter.com/AdityaT68049011",
+       "referral" : "Head of Technical Club of my College"
+    }
     
     
 ]
