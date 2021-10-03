@@ -20,7 +20,18 @@
         "github" : "https://github.com/The-Divyansh",
         "twitter" : "Nil",
         "referral" : "Already a student of IIITA"
-     }   
+     }
+     
+    {
+        "name" : "Mallik Prabhanjan",
+        "imageurl" : "https://avatars.githubusercontent.com/u/75822078?s=400&v=4",
+        "about" : "I am interested in Competitive Programming. I am also learning Web-Development.",
+        "college" : "Indian Institute of Information Technology Allahabad",
+        "facebook" : "https://www.facebook.com/vemulapandu/",
+        "github" : "https://github.com/vemulapandu",
+        "twitter" : "https://twitter.com/mallikv3",
+        "referral" : "None"
+    }
 ]
 
 
