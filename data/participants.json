@@ -27,7 +27,20 @@
         "github" : "https://github.com/BlaZe-001",
         "twitter" : "",
         "referral" : "via college"
-     },{
+     },
+
+    {
+
+       "name" : "Kirti",
+       "imageurl" : "https://avatars.githubusercontent.com/u/76592673?v=4",
+       "about" : "Hello I'm a web developer",
+       "college" : "IIIT ALLAHABAD",
+       "facebook" : "https://www.facebook.com/kirti.singla.54738",
+       "github" : "https://github.com/codesanta142",
+       "twitter" : "@KirtiSi15288647",
+       "referral" : "via college"
+    },
+  {
        "name" : "Tanushree",
        "imageurl" : "https://imgur.com/B382k5K",
        "about" : "Hello I'm a technophile with major interest in App development domain",
@@ -37,5 +50,6 @@
        "twitter" : "",
        "referral" : "via college"
      }
+
 
 ]
