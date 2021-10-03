@@ -30,7 +30,20 @@
         "twitter" : "",
         "referral" : "via college"
      },
-     {
+
+    {
+
+       "name" : "Kirti",
+       "imageurl" : "https://avatars.githubusercontent.com/u/76592673?v=4",
+       "about" : "Hello I'm a web developer",
+       "college" : "IIIT ALLAHABAD",
+       "facebook" : "https://www.facebook.com/kirti.singla.54738",
+       "github" : "https://github.com/codesanta142",
+       "twitter" : "@KirtiSi15288647",
+       "referral" : "via college"
+    },
+
+    {
       "name" : "Abhay Parihar",
       "imageurl" : "https://avatars.githubusercontent.com/u/64008676?v=4",
       "about" : "I'm into CC and Web Dev. Frontend is my best part.",
@@ -40,4 +53,6 @@
       "twitter" : "https://twitter.com/SpiralForge_",
       "referral" : "None"
    }
+ 
+    
 ]
