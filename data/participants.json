@@ -10,8 +10,19 @@
         "github" : "https://github.com/Prajit-Sengupta",
         "twitter" : "https://twitter.com/prajit2806",
         "referral" : "None"
+     },
+     
+     {
+
+        "name" : "Aashita Chouhan",
+        "imageurl" : "https://avatars.githubusercontent.com/u/76626364?v=4",
+        "about" : "Hey,I am a Web developer.",
+        "college" : "IIIT Allahabad",
+        "facebook" : "https://www.facebook.com/shyam.ji.5201",
+        "github" : "https://github.com/aashitachouhan",
+        "twitter" : "NIL",
+        "referral" : "via college"
      }
- 
     
 ]
 
