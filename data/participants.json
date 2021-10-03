@@ -36,5 +36,14 @@
         "github" : "https://github.com/Palak-2109",
         "twitter" : "",
         "referral" : "through seniors of the college"
-     }
-]
+     }, {
+
+       "name" : "Kirti",
+       "imageurl" : "https://avatars.githubusercontent.com/u/76592673?v=4",
+       "about" : "Hello I'm a web developer",
+       "college" : "IIIT ALLAHABAD",
+       "facebook" : "https://www.facebook.com/kirti.singla.54738",
+       "github" : "https://github.com/codesanta142",
+       "twitter" : "@KirtiSi15288647",
+       "referral" : "via college"
+    }
