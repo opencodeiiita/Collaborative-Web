@@ -55,7 +55,6 @@
       "github" : "https://github.com/AgrimVerma",
       "twitter" : "",
       "referral" : "via college"
-
      },{
         "name" : "Palak Ahuja",
         "imageurl" : "https://avatars.githubusercontent.com/u/76587145?v=4",
@@ -74,7 +73,16 @@
        "github" : "https://github.com/codesanta142",
        "twitter" : "@KirtiSi15288647",
        "referral" : "via college"
-
+    },
+   {
+      "name" : "Pratyush Ranjan",
+      "imageurl" : "https://avatars.githubusercontent.com/u/76619629?s=400&u=a7c25d7ea693b3117300312b9add670b33c2ae51&v=4",
+      "about" : "Hello I'm a keen developer with basic knowledge of html css",
+      "college" : "IIIT Allahabad",
+      "facebook" : "https://www.facebook.com/pratyush.ranjan.5895/",
+      "github" : "https://github.com/Pratyush7901",
+      "twitter" : "",
+      "referral" : "Student of IIITA"
     }, {
        "name" : "Diya Waghmare",
        "imageurl" : "https://avatars.githubusercontent.com/u/56413380?s=400&u=0abc24ddde94f200e3087e81594d65762e77ef10&v=4",
