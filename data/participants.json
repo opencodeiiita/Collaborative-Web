@@ -1,4 +1,4 @@
-[{
+ [{
 
        "name" : "Ritwik Rajput",
        "imageurl" : "https://avatars.githubusercontent.com/u/76650941?v=4",
@@ -10,7 +10,6 @@
        "referral" : "Via College",
     },
     {
-
         "name" : "Himanshu Yadav",
         "imageurl" : "https://drive.google.com/file/d/1ch4NSpIwsAMh38Y1f4oFdLgRjplcqkWd/view?usp=sharing",
         "about" : "Hello I'm a web developer",
@@ -241,5 +240,15 @@
     "github": "https://github.com/Nikita9344",
     "twitter": "",
     "referral": "Through the same college"
-  }
+  },{
+
+       "name" : "Suraj Sarmah Pathak",
+       "imageurl" : "https://avatars.githubusercontent.com/u/76035351?v=4",
+       "about" : "Hello I'm a web developer and passionate about Blockchain and Bitcoin technology",
+       "college" : "Indian Institute of Information Technology, Allahabad",
+       "facebook" : " ",
+       "github" : "https://github.com/the-grignard-reagent",
+       "twitter" : " ",
+       "referral" : "Abhay Singh"
+    }
 ]
