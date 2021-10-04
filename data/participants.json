@@ -29,7 +29,7 @@
         "twitter" : "https://twitter.com/Shubhajeet12",
         "referral" : "None"
     },
-    {
+  {
         "name" : "Himanshu Yadav",
         "imageurl" : "https://drive.google.com/file/d/1ch4NSpIwsAMh38Y1f4oFdLgRjplcqkWd/view?usp=sharing",
         "about" : "Hello I'm a web developer",
@@ -51,9 +51,7 @@
         "facebook" : "Null",
         "github" : "https://github.com/rajpranav63",
         "twitter" : "https://twitter.com/",
-        "referral" : "None"
-
-     },
+}  ,
      {
 
     "name" : "Vimal Vinayak",
@@ -459,7 +457,17 @@
         "college" : "Indian Institute Of Information Technology, Allahabad",
         "facebook" : "Null",
         "github" : "https://github.com/Abhijeet452",
-        "twitter" : "Null",}
+        "twitter" : "Null",},{
+        "name" : "Vipul Ranjan Sahu",
+        "imageurl" : "https://avatars.githubusercontent.com/u/76658379?s=40&v=4",
+        "about" : "Hey am into App Development and Competitive Coding",
+        "college" : "Indian Institute of Information Technology Allahabad",
+        "facebook" : "Null",
+        "github" : "https://github.com/vipulranjansahu",
+        "twitter" : "Null",     
+  "referral" : "None"
+
+     }
 ]
 
    
