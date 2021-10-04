@@ -1318,7 +1318,17 @@
 		"twitter": "",
 		"referral": "college"
 	},
-	{
+  {
+         "name" : "YASH JAIN",
+	       "imageurl" : "https://avatars.githubusercontent.com/u/76126720?s=400&v=4",
+	       "about" : "Hello I'm a CC",
+	       "college" : "IIITA",
+	       "facebook" : "https://www.facebook.com/yash.jain.1401933/",
+	       "github" : "https://github.com/osho-20",
+	       "twitter" : "",
+	       "referral" : "Seniors of IIITA"
+       },
+  {
        "name" : "Sarthak",
        "imageurl" : "https://avatars.githubusercontent.com/u/75336745?v=4",
        "about" : "Hello I'm a web developer",
@@ -1328,4 +1338,5 @@
        "twitter" : "",
        "referral" : "via college"
     }
+
 ]
