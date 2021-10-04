@@ -50,7 +50,6 @@
         "github" : "https://github.com/rajpranav63",
         "twitter" : "https://twitter.com/",
         "referral" : "None"
-
      },{
         "name" : "Naman Yadav",
         "imageurl" : "https://avatars.githubusercontent.com/u/75947060?v=4",
@@ -415,5 +414,12 @@
         "github" : "https://github.com/Puja-Saraf",
         "twitter" : "",
         "referral" : "None"
-     }
+     },{
+     "name" : "Abhi Singh",
+        "imageurl" : "https://avatars.githubusercontent.com/u/75411997?v=4",
+        "about" : "Hey am into Web-Development. React and Competitive Coding is my forte. Also I am Enthusiastic Tech Learner.",
+        "college" : "Indian Institute Of Information Technology, Allahabad",
+        "facebook" : "Null",
+        "github" : "https://github.com/Abhijeet452",
+        "twitter" : "Null",}
 ]
