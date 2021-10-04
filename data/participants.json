@@ -459,7 +459,18 @@
         "college" : "Indian Institute Of Information Technology, Allahabad",
         "facebook" : "Null",
         "github" : "https://github.com/Abhijeet452",
-        "twitter" : "Null",}
+        "twitter" : "Null"
+      },{
+         "name": "Abhishek Kumar",
+         "imageurl": "https://avatars.githubusercontent.com/u/81900610?v=4",
+         "about": "Hello I'm a beginner in web development with good knowledge of HTMl, CSS and a beginner in Javscript",
+         "college": "NIT Jalandhar",
+         "facebook": "",
+         "github": "https://github.com/abhirv08-1",
+         "twitter": "",
+         "referral": "via college"
+       }
+       
 ]
 
    
