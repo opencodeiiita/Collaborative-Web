@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Collaborative-Web",
+    "description": "Opencode 21 Collaborative website!",
+    "repo-url": "https://github.com/opencodeiiita/Collaborative-Web/"
+  },
+  {
+    "name": "GoGit",
+    "description": "A project to learn the basics of Git and GitHub.",
+    "repo-url": "https://github.com/opencodeiiita/GoGit"
+  },
+  {
+    "name": "Code Trouble",
+    "description": "Competitive Programming",
+    "repo-url": "https://github.com/opencodeiiita/Code-Trouble"
+  },
+  {
+    "name": "Shopping Cart",
+    "description": "Opencode 21 Collaborative website!",
+    "repo-url": "https://github.com/opencodeiiita/Shopping-Cart"
+  },
+  {
+    "name": "Contest Countdown",
+    "description": "Contest Countdown is an Gnome/Chrome extension that shows a countdown to the next contest and lists all upcoming contests.",
+    "repo-url": "https://github.com/opencodeiiita/Contest-Countdown"
+  },
+  {
+    "name": "Warriors",
+    "description": "Warriors is a Web3 MMO Game built on Polygon. Generate your warriors and fight against the world!",
+    "repo-url": "https://github.com/opencodeiiita/Warriors"
+  },
+  {
+    "name": "Leaderboard Frontend",
+    "description": "Live leaderboard for Opencode'21 contributors.",
+    "repo-url": "https://github.com/opencodeiiita/Leaderboard-Frontend"
+  },
+  {
+    "name": "Collaborative App",
+    "description": "Opencode 21 Collaborative Android App",
+    "repo-url": "https://github.com/opencodeiiita/Collaborative-App/"
+  },
+  {
+    "name": "GeekChat",
+    "description": "GeekChat is a simple bi-directional communication app where users can join rooms and have live text messaging with other users present in the room.",
+    "repo-url": "https://github.com/opencodeiiita/Geek-Chat/"
+  },
+  {
+    "name": "Coder Queen",
+    "description": "A project which displays curated hot news, and tweets as per the user's interests. ",
+    "repo-url": "https://github.com/opencodeiiita/Coder-Queen"
+  },
+  {
+    "name": "Numismatics",
+    "description": "This App would help you manage all your expenses as well as earnings",
+    "repo-url": "https://github.com/opencodeiiita/Numismatics/"
+  },
+  {
+    "name": "Geek Editor Frontend",
+    "description": "Geek Editor is basically an online compiler, somewhat like a codepenn for C, C++, Java, Python",
+    "repo-url": "https://github.com/opencodeiiita/Geek-Editor-Frontend"
+  },
+  {
+    "name": "Geek Editor Backend",
+    "description": "Geek Editor is basically an online compiler, somewhat like a codepenn for C, C++, Java, Python",
+    "repo-url": "https://github.com/opencodeiiita/Geek-Editor-Backend"
+  },
+  {
+    "name": "Auction DApp",
+    "description": "A decentralized application for bidding on Ethereum blockchain.",
+    "repo-url": "https://github.com/opencodeiiita/Auction-DApp"
+  },
+  {
+    "name": "PanoViewer",
+    "description": "OpenGL based Image Viewer for 360 degrees Panoramic Images.",
+    "repo-url": "https://github.com/opencodeiiita/PanoViewer"
+  },
+  {
+    "name": "Find My Roomie",
+    "description": "UI/UX Design for concept app",
+    "repo-url": "https://github.com/opencodeiiita/Find-My-Roomie/"
+  },
+  {
+    "name": "AskUs Frontend",
+    "description": "AskUs is a discussion forum designed for the students of IIITA to ask questions, share their experiences and to know what their peeps are up to.",
+    "repo-url": "https://github.com/opencodeiiita/Ask-Us-Frontend"
+  },
+  {
+    "name": "AskUs Backend",
+    "description": "AskUs is a discussion forum designed for the students of IIITA to ask questions, share their experiences and to know what their peeps are up to.Opencode 21 Collaborative website!",
+    "repo-url": "https://github.com/opencodeiiita/Ask-Us-Backend"
+  },
+  {
+    "name": "ProductivityTracker",
+    "description": "Application where we can track our day to day Work Progress, with the help of interesting imagery like Graphs and charts which will motivate us be productive.",
+    "repo-url": "https://github.com/opencodeiiita/Productivity-Tracker/"
+  },
+  {
+    "name": "Information Chest",
+    "description": "A Flutter application for reading facts and information, just like a digital encyclopedia.",
+    "repo-url": "https://github.com/opencodeiiita/information-chest/"
+  },
+  {
+    "name": "PhotoStore",
+    "description": "A buggy web application to store and share your photos",
+    "repo-url": "https://github.com/opencodeiiita/PhotoStore"
+  },
+  {
+    "name": "LiblessML",
+    "description": "Machine Learning using just Pandas & Numpy",
+    "repo-url": "https://github.com/opencodeiiita/LiblessML"
+  },
+  {
+    "name": "OpenCode Revamp",
+    "description": "OpenCode Website Redesign",
+    "repo-url": "https://github.com/opencodeiiita/OpenCode-Revamp"
+  },
+  {
+    "name": "Let's Design 2.0",
+    "description": "Graphic Design Repository",
+    "repo-url": "https://github.com/opencodeiiita/Lets-Design-2.0"
+  }
+]
