@@ -564,7 +564,6 @@
     "twitter": "",
     "referral": "Via College"
   },
-
   {
 
     "name" : "Ramanpreet Singh",
@@ -575,6 +574,16 @@
     "github" : "https://github.com/raman5911",
     "twitter" : "",
     "referral" : "none"
+ },
+ {
+   "name": "Vijay Karanjkar",
+   "imageurl": "https://avatars.githubusercontent.com/u/75903092?s=400&v=4",
+   "about": "I am a MERN Stack Developer.",
+   "college":"Indian Institute of Information Technology Vadodara",
+   "facebook": "",
+   "github": "https://github.com/Vijay-K-2003",
+   "twitter": "https://twitter.com/Vijay3Karanjkar",
+   "referral": "none"
  }
 
 ]
