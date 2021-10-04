@@ -272,6 +272,7 @@
         "github" : "https://github.com/underoot-iota",
         "twitter" : "",
         "referral" : "via college"
+      
       }  ,
    {
        "name" : "Tanushree",
@@ -481,5 +482,14 @@
       "github" : "https://github.com/AshokMalhotra23",
       "twitter" : "",
       "referral" : "college"
-   }
+   },{
+         "name" : "Md Atif",
+         "imageurl" : "https://avatars.githubusercontent.com/u/64218887?v=4",
+         "about" : "Hey I'm into Web-Development and Open Source Enthusiast.",
+         "college" : "Kalinga Institute of Industrial Technology",
+         "facebook" : "Null",
+         "github" : "https://github.com/Atif0604",
+         "twitter" : "https://twitter.com/Atif0604",
+         "referral" : "None"
+      }   
 ]
