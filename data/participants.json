@@ -541,7 +541,16 @@
     "github": "https://github.com/shadaanhussain",
     "twitter": "",
     "referral": "Geekhaven"
-    
+  },
+  {
+    "name" : "Pratik Raghuvanshi",
+    "imageurl" : "https://avatars.githubusercontent.com/u/78345693?v=4",
+    "about" : "Machine Learning Enthusiast | Competitive Programmer",
+    "college" : "MITS Gwalior",
+    "facebook" : "https://www.facebook.com/pratik.raghuwanshi.184/",
+    "github" : "https://github.com/prxtikk-18",
+    "twitter" : "https://twitter.com/Prxtikk",
+    "referral" : "Sir Ashutosh Verma"
   },
   {
    "name": "Deepika Kumari",
@@ -553,6 +562,18 @@
     "twitter": "https://twitter.com/Deepika69174799?s=08",
     "referral": ""
   },
+
+   {
+    "name": "Pranavi Tadivalasa",
+    "imageurl": "https://avatars.githubusercontent.com/u/76587467?v=4",
+    "about": "Hello I'm a web developer",
+    "college": "IIITA",
+    "facebook": "",
+    "github": "https://github.com/Ms-Error",
+    "twitter": "",
+    "referral": "Via College"
+  },
+
   {
     "name" : "Ramanpreet Singh",
     "imageurl" : "https://avatars.githubusercontent.com/u/65950878?v=4",
