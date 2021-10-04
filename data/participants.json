@@ -521,5 +521,25 @@
     "github": "https://github.com/gudelakshmi",
     "twitter": "",
     "referral": "college"
+  },
+  {
+    "name" : "Shailesh Tiwari",
+    "imageurl" : "https://avatars.githubusercontent.com/u/76761060?v=4",
+    "about" : "Hello",
+    "college" : "IIIT Allahabad",
+    "facebook" : "https://m.facebook.com/shailesh.tiwari.106",
+    "github" : "https://github.com/shlesh",
+    "twitter" : "",
+    "referral" : "Garvit sir OP"
+  },
+  {
+   "name": "Shadaan Hussain",
+    "imageurl": "https://avatars.githubusercontent.com/u/75877797?v=4",
+    "about": "I'm a web developer and a graphic designer.",
+    "college": "IIIT Allahabad",
+    "facebook": "https://www.facebook.com/profile.php?id=100057670099287",
+    "github": "https://github.com/shadaanhussain",
+    "twitter": "",
+    "referral": "Geekhaven"
   }
 ]
