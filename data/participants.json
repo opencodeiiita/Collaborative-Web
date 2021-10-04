@@ -1,5 +1,6 @@
 
 [
+  
   {
     "name": "Vimal Vinayak",
     "imageurl": "https://avatars.githubusercontent.com/u/76625113?v=4",
@@ -544,7 +545,6 @@
     "referral": "Geekhaven"
   },
   {
-
    "name": "Nitheesh",
     "imageurl": "https://avatars.githubusercontent.com/u/76743080?s=400&v=4",
     "about": "I'm a Flutter developer.",
@@ -573,6 +573,26 @@
     "github": "https://github.com/deep-ika",
     "twitter": "https://twitter.com/Deepika69174799?s=08",
     "referral": ""
+  },
+  {
+   "name": "Sravya Kaviti",
+   "imageurl": "https://avatars.githubusercontent.com/u/91270882?v=4",
+   "about": "Hey, I'm a web developer",
+   "college": "IIIT Allahabad",
+   "facebook": "https://www.facebook.com/sravya.kaviti.75",
+   "github": "https://github.com/sravyakaviti",
+   "twitter": "NULL",
+   "referral": "NULL"
+  },
+  {
+       "name" : "Shubhi Pandey",
+       "imageurl" : "https://avatars.githubusercontent.com/u/75926582?s=400&u=e2a8d4bb5a592aa230ca0b2ba5e54c24b5167db6&v=4",
+       "about" : "Hello I'm a web developer",
+       "college" : "Indian Institute Of Information Technology, Allahabad",
+       "facebook" : "",
+       "github" : "https://github.com/Shubhi2002",
+       "twitter" : "",
+       "referral" : ""
   },
   {
    "name": "Amiyanshu",
@@ -1319,8 +1339,7 @@
 		"referral": "college"
 	},
 	{
-
-               "name" : "YASH JAIN",
+        "name" : "YASH JAIN",
 	       "imageurl" : "https://avatars.githubusercontent.com/u/76126720?s=400&v=4",
 	       "about" : "Hello I'm a CC",
 	       "college" : "IIITA",
@@ -1360,6 +1379,7 @@
 	       "college" : "IIITA",
 	       "facebook" : "",
 	       "github" : "https://github.com/shivansh2741"
+
        },
 	
 	{
@@ -1372,5 +1392,6 @@
 	    "twitter": "",
 	    "referral": "via college"
 	  },
+
 
 ]
