@@ -87,6 +87,16 @@
       "github" : "https://github.com/A-Spiral-Forge",
       "twitter" : "https://twitter.com/SpiralForge_",
       "referral" : "None"
+   }, {
+
+       "name" : "Yash Chaurasia",
+       "imageurl" : "https://avatars.githubusercontent.com/u/76608547?v=4",
+       "about" : "Hello I'm a web developer",
+       "college" : "IIIT Allahabad",
+       "facebook" : "",
+       "github" : "https://github.com/Yash091",
+       "twitter" : "",
+       "referral" : "Through seniors of IIIT Allahabad"
    }, { "name" : "Prakhar Jalan",
         "imageurl" : "https://avatars.githubusercontent.com/u/75791114?v=4",
         "about" : "Hello I'm a web developer",
@@ -105,7 +115,6 @@
       "twitter" : "NULL",
       "referral" : "None"
       }, {
-
       "name" : "Hardik Arora",
       "imageurl" : "https://avatars.githubusercontent.com/u/76592673?v=4",
       "about" : "Hi I'm a fervent web developer",
