@@ -1360,6 +1360,17 @@
 	       "college" : "IIITA",
 	       "facebook" : "",
 	       "github" : "https://github.com/shivansh2741"
-       }
+       },
+	
+	{
+	    "name": "Ashwini Patel",
+	    "imageurl": "https://drive.google.com/file/d/1-IVmoKgmpiGZFO1tgtMAaT9zTVRZKtaw/view?usp=sharing",
+	    "about": "I am a Conpititive Programmer with a keen interest in Front-end Web Development",
+	    "college": "NIT Raipur",
+	    "facebook": "",
+	    "github": "https://github.com/strangestroad",
+	    "twitter": "",
+	    "referral": "via college"
+	  },
 
 ]
