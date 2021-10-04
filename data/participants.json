@@ -1480,4 +1480,15 @@
      "twitter": "https://twitter.com/rajraman786",
      "referral": "via college"
    }
+   ,{
+
+    "name" : "Parv Choudhary",
+    "imageurl" : "https://avatars.githubusercontent.com/Parvchoudhary",
+    "about" : "Hi, I am into Web-Development and work on frontend development (reactJS) and currently learning backend as well.",
+    "college" : "IIIT Allahabad ",
+    "facebook" : "https://www.facebook.com/parv.choudhary.904/",
+    "github" : "https://github.com/Parvchoudhary",
+    "twitter" : "https://twitter.com/ParvCho87769875",
+    "referral" : "None"
+ }
 ]
