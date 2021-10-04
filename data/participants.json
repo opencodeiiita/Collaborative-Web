@@ -1,5 +1,4 @@
  [{
-
        "name" : "Ritwik Rajput",
        "imageurl" : "https://avatars.githubusercontent.com/u/76650941?v=4",
        "about" : "Hello I'm a web developer",
@@ -317,5 +316,14 @@
 
        "name" : "Anushka Kalwale",
        "imageurl" : "",
- }
+ }, {
+    "name": "Shivanshu Singh",
+    "imageurl": "https://avatars.githubusercontent.com/u/62894515?s=400&u=f6ca0cdfedef1c246291c31930d2acf1d07a592a&v=4",
+    "about": "Hey am into Web-Development. I am currently a frontend developer and am aiming to become a Full-Stack Developer.",
+    "college": "Shri Mata Vaishno Devi University ",
+    "facebook": "Null",
+    "github": "https://github.com/Shivanshu97i",
+    "twitter": "Null",
+    "referral": "None"
+  }
 ]
