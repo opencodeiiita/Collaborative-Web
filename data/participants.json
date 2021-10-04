@@ -1,5 +1,3 @@
-
-    
 [
   {
     "name": "Vimal Vinayak",
@@ -466,8 +464,15 @@
         "github" : "https://github.com/vipulranjansahu",
         "twitter" : "Null",     
   "referral" : "None"
+     }, {
 
+        "name" : "Pranav Sahu",
+        "imageurl" : "https://avatars.githubusercontent.com/u/74313051?s=400&v=4",
+        "about" : "Hey am into Web-Development and ai. I am also a webd enthusiast . Also am into Debating.",
+        "college" : "Indian Institute of Information Technology Allahabad ",
+        "facebook" : "Null",
+        "github" : "https://github.com/Pranav-22-aditya",
+        "twitter" : "Null",
+        "referral" : "None"
      }
 ]
-
-   
