@@ -10,6 +10,17 @@
        "referral" : "Via College"
     },
     {
+
+        "name" : "Himanshu Yadav",
+        "imageurl" : "https://drive.google.com/file/d/1ch4NSpIwsAMh38Y1f4oFdLgRjplcqkWd/view?usp=sharing",
+        "about" : "Hello I'm a web developer",
+        "college" : "IIIT Allahabad",
+        "facebook" : "",
+        "github" : "https://github.com/SeriousConjurer",
+        "twitter" : "",
+        "referral" : "via college"
+    },{
+
         "name" : "Prajit Sengupta",
         "imageurl" : "https://avatars.githubusercontent.com/u/71543838?s=400&u=0aac22efe11b5464f98bef5e885a6ca7d4264d76&v=4",
         "about" : "Hey am into Web-Development. React and Django is my forte. Also am into Debating.",
@@ -135,6 +146,7 @@
       "github" : "https://github.com/A-Spiral-Forge",
       "twitter" : "https://twitter.com/SpiralForge_",
       "referral" : "None"
+
    }, {
 
        "name" : "Yash Chaurasia",
@@ -145,7 +157,8 @@
        "github" : "https://github.com/Yash091",
        "twitter" : "",
        "referral" : "Through seniors of IIIT Allahabad"
-   }, { "name" : "Prakhar Jalan",
+   }, 
+  { "name" : "Prakhar Jalan",
         "imageurl" : "https://avatars.githubusercontent.com/u/75791114?v=4",
         "about" : "Hello I'm a web developer",
         "college" : "IIITA",
@@ -162,7 +175,7 @@
       "github" : "https://github.com/ashutosh3027",
       "twitter" : "NULL",
       "referral" : "None"
-      }, {
+    },{
       "name" : "Hardik Arora",
       "imageurl" : "https://avatars.githubusercontent.com/u/76592673?v=4",
       "about" : "Hi I'm a fervent web developer",
