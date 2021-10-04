@@ -19,7 +19,6 @@
         "twitter" : "",
         "referral" : "via college"
     },{
-
         "name" : "Prajit Sengupta",
         "imageurl" : "https://avatars.githubusercontent.com/u/71543838?s=400&u=0aac22efe11b5464f98bef5e885a6ca7d4264d76&v=4",
         "about" : "Hey am into Web-Development. React and Django is my forte. Also am into Debating.",
@@ -250,5 +249,15 @@
        "github" : "https://github.com/the-grignard-reagent",
        "twitter" : " ",
        "referral" : "Abhay Singh"
-    }
+    },{
+
+        "name" : "Medha Tiwari",
+        "imageurl" : "https://i.imgur.com/ht3hso7.png",
+        "about" : "Hey, I am a Sophomore at IIIT Allahabad. I have some experience in front-end devolopment and currently learning Security basics.",
+        "college" : "Indian Institute of Information Technology Allahabad",
+        "facebook" : "https://www.facebook.com/medha.tiwari.777",
+        "github" : "github.com/medhatiwari",
+        "twitter" : "https://twitter.com/medha_tiwari1",
+        "referral" : ""
+     }
 ]
