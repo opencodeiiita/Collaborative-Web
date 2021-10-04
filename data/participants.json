@@ -268,5 +268,16 @@
        "github" : "https://github.com/Sneh16Shah",
        "twitter" : "",
        "referral" : "Via college"
-}
+},{
+        "name" : "Aneesh Tickoo",
+        "imageurl" : "https://avatars.githubusercontent.com/Aneesh02",
+        "about" : "Hey there everyone! I am a sophomore at IIT Bhilai. I am interested in Web Development.",
+        "college" : "IIT Bhilai",
+        "facebook" : "",
+        "github" : "https://github.com/Aneesh02",
+        "twitter" : "",
+        "referral" : ""
+
+
+     }
 ]
