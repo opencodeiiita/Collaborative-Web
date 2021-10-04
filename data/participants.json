@@ -1,6 +1,7 @@
 [
         
     {
+
         "name" : "Prajit Sengupta",
         "imageurl" : "https://avatars.githubusercontent.com/u/71543838?s=400&u=0aac22efe11b5464f98bef5e885a6ca7d4264d76&v=4",
         "about" : "Hey am into Web-Development. React and Django is my forte. Also am into Debating.",
@@ -9,9 +10,7 @@
         "github" : "https://github.com/Prajit-Sengupta",
         "twitter" : "https://twitter.com/prajit2806",
         "referral" : "None"
-     },
-
-     {
+    }, {
         "name" : "Divyansh",
         "imageurl" : "https://avatars.githubusercontent.com/u/76586767?s=400&u=68f61bcff5a27f79f0753fa574394639cc04dd33&v=4",
         "about" : "Hey there! I'm an Enthusiastic developer with keen interest in web and app development",
@@ -88,6 +87,14 @@
       "github" : "https://github.com/A-Spiral-Forge",
       "twitter" : "https://twitter.com/SpiralForge_",
       "referral" : "None"
+   }, { "name" : "Prakhar Jalan",
+        "imageurl" : "https://avatars.githubusercontent.com/u/75791114?v=4",
+        "about" : "Hello I'm a web developer",
+        "college" : "IIITA",
+        "facebook" : "",
+        "github" : "https://github.com/jalanprakhar",
+        "twitter" : "",
+        "referral" : "None"
    },{
       "name" : "Ashutosh Verma",
       "imageurl" : "https://avatars.githubusercontent.com/u/75844019?s=400&u=297a678caf6c669635911b0ec2d27fb6b44e4c68&v=4",
@@ -97,8 +104,7 @@
       "github" : "https://github.com/ashutosh3027",
       "twitter" : "NULL",
       "referral" : "None"
-      },
-    {
+      }, {
 
       "name" : "Hardik Arora",
       "imageurl" : "https://avatars.githubusercontent.com/u/76592673?v=4",
@@ -117,8 +123,7 @@
         "github" : "https://github.com/underoot-iota",
         "twitter" : "",
         "referral" : "via college"
-      },
-    {
+      }, {
          "name" : "Aditi Yadav",
          "imageurl" : "https://avatars.githubusercontent.com/u/87179624?s=400&u=240c7c00075f9b3c714860efd39cbd3e7afc15de&v=4",
          "about" : "Hi! I'm a Web Developer & Competitive Coder.",
@@ -127,5 +132,15 @@
          "github" : "https://github.com/adtoria",
          "twitter" : "https://twitter.com/adtoriaaa",
          "referral" : "GeekHaven"
-    }    
+      }, {
+
+         "name" : "Anjali Sahu",
+         "imageurl" : "https://avatars.githubusercontent.com/u/76684182?v=4",
+         "about" : "Hello! I am into Web-Development and Competitive Coding .. Also love painting.",
+         "college" : "IIIT Allahabad ",
+         "facebook" : "",
+         "github" : "https://github.com/99anjali",
+         "twitter" : "",
+         "referral" : "via college"
+      } 
 ]
