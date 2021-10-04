@@ -10,6 +10,16 @@
        "referral" : "Via College",
     },
     {
+        "name" : "Shubhajeet Pradhan",
+        "imageurl" : "https://avatars.githubusercontent.com/u/76960580?v=4",
+        "about" : "Hey I'm a Web-Development Sophomore. Flask is my proficient part. I'm a UI/UX designer too.",
+        "college" : "Indian Institute of Information Technology and Management Gwalior.",
+        "facebook" : "https://www.facebook.com/shubhojeet.pradhan",
+        "github" : "https://github.com/shubhajeet1207",
+        "twitter" : "https://twitter.com/Shubhajeet12",
+        "referral" : "None"
+    },
+    {
         "name" : "Prajit Sengupta",
         "imageurl" : "https://avatars.githubusercontent.com/u/71543838?s=400&u=0aac22efe11b5464f98bef5e885a6ca7d4264d76&v=4",
         "about" : "Hey am into Web-Development. React and Django is my forte. Also am into Debating.",
