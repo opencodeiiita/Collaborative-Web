@@ -1,6 +1,16 @@
 
 [
   {
+	"name": "Vaibhav Sahu",
+	"imageurl": "https://avatars.githubusercontent.com/u/45689747?v=4",
+	"about": "Hello I'm a Software Developer. I know technologies like PHP, Flutter, C++.",
+	"college": "Chhatrapati Shivaji Institute Of Technology, Durg",
+	"facebook": "",
+	"github": "https://github.com/vaibhavsahu342",
+	"twitter": "https://twitter.com/vaibhav_sahu_",
+	"referral": "via LinkedIn"
+  },
+  {
     "name": "Vimal Vinayak",
     "imageurl": "https://avatars.githubusercontent.com/u/76625113?v=4",
     "about": "Hello I'm a web developer",
