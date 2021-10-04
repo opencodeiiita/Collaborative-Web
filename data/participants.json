@@ -513,16 +513,6 @@
     "referral": "None"
   },
   {
-    "name": "Gude Lakshmi",
-    "imageurl": "https://avatars.githubusercontent.com/u/76594886?s=400&v=4",
-    "about": "Hello I'm a web developer",
-    "college": "IIIT Allahabad",
-    "facebook": "",
-    "github": "https://github.com/gudelakshmi",
-    "twitter": "",
-    "referral": "college"
-  },
-  {
     "name" : "Shailesh Tiwari",
     "imageurl" : "https://avatars.githubusercontent.com/u/76761060?v=4",
     "about" : "Hello",
@@ -531,8 +521,7 @@
     "github" : "https://github.com/shlesh",
     "twitter" : "",
     "referral" : "Garvit sir OP"
-  },
-  {
+  },{
    "name": "Shadaan Hussain",
     "imageurl": "https://avatars.githubusercontent.com/u/75877797?v=4",
     "about": "I'm a web developer and a graphic designer.",
@@ -552,5 +541,15 @@
     "github": "https://github.com/deep-ika",
     "twitter": "https://twitter.com/Deepika69174799?s=08",
     "referral": ""
+  },
+  {
+    "name": "Mayank Bharati",
+    "imageurl": "https://avatars.githubusercontent.com/u/75744167?s=400&v=4",
+    "about": "Hey, The Business, experimenting code",
+    "college": "IIIT Allahabad",
+    "facebook": "https://www.facebook.com/mayank.bharati.35/",
+    "github": "https://github.com/MayankBharati",
+    "twitter": "https://twitter.com/MayankBharati3",
+    "referral": "Geekheaven OP"
   }
 ]
