@@ -83,17 +83,15 @@
         "twitter" : "Nil",
         "referral" : "Already a student of IIITA"
      },{
-      "name" : "Vimal Vinayak",
-      "imageurl" : "https://avatars.githubusercontent.com/u/76625113?v=4",
-      "about" : "Hello I'm a web developer",
-      "college" : "IIIT Allahabad",
-      "facebook" : "",
-      "github" : "https://github.com/BlaZe-001",
-      "twitter" : "",
-      "referral" : "via college"
-   },
-
-     {
+        "name" : "Mallik Prabhanjan",
+        "imageurl" : "https://avatars.githubusercontent.com/u/75822078?s=400&v=4",
+        "about" : "I am interested in Competitive Programming. I am also learning Web-Development.",
+        "college" : "Indian Institute of Information Technology Allahabad",
+        "facebook" : "https://www.facebook.com/vemulapandu/",
+        "github" : "https://github.com/vemulapandu",
+        "twitter" : "https://twitter.com/mallikv3",
+        "referral" : "IIITA"
+     },{
         "name" : "Anushtha Bageria",
         "imageurl" : "https://avatars.githubusercontent.com/u/76680350?s=40&v=4",
         "about" : "hello! I am a beginner in web development",
