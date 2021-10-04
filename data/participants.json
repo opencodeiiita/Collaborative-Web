@@ -1157,6 +1157,7 @@
 		"twitter": "",
 		"referral": "college"
 	},
+	
 	{
 		"name": "Shailesh Tiwari",
 		"imageurl": "https://avatars.githubusercontent.com/u/76761060?v=4",
@@ -1297,6 +1298,7 @@
 		"twitter": "",
 		"referral": ""
 	},
+
    {
     "name": "Neha Singh",
     "imageurl": "https://avatars.githubusercontent.com/u/78967830?v=4",
@@ -1308,7 +1310,28 @@
     "referral": "via college"
   },
 	
-  {
+	{
+	         "name": "Neha Singh",
+	    	 "imageurl": "https://avatars.githubusercontent.com/u/78967830?v=4",
+		 "about": "Hello I'm a web developer",
+		 "college": "IIIT Allahabad",
+		 "facebook": "",
+		 "github": "https://github.com/neha3001-singh",
+		 "twitter": "",
+		 "referral": "via college"
+	},
+	{
+		"name": "Divakar singh",
+		"imageurl": "https://avatars.githubusercontent.com/u/76587303?v=4",
+		"about": "Hello I'm a web developer",
+		"college": "IIIT Allahabad",
+		"facebook": "",
+		"github": "https://github.com/divakar932",
+		"twitter": "",
+		"referral": "college"
+	},
+  
+{
     "name": "Vishesh Jain",
     "imageurl": "https://avatars.githubusercontent.com/u/75686843?s=400&v=4",
     "about": "Interested in c++",
@@ -1317,5 +1340,6 @@
     "github": "https://github.com/visheshjain01",
     "twitter": "",
     "referral": "via college"
-  },
+  }
+
 ]
