@@ -1319,6 +1319,7 @@
 		"referral": "college"
 	},
 	{
+
 	        "name": "aayoushee",
 		"imageurl": "https://avatars.githubusercontent.com/u/75840618?v=4",
 		"about": "hy i am a iiita ece student",
@@ -1329,3 +1330,16 @@
 		"referral": "myself"
 	}
 	]
+
+
+               "name" : "YASH JAIN",
+	       "imageurl" : "https://avatars.githubusercontent.com/u/76126720?s=400&v=4",
+	       "about" : "Hello I'm a CC",
+	       "college" : "IIITA",
+	       "facebook" : "https://www.facebook.com/yash.jain.1401933/",
+	       "github" : "https://github.com/osho-20",
+	       "twitter" : "",
+	       "referral" : "Seniors of IIITA"
+       }
+]
+
