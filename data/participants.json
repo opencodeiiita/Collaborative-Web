@@ -1,7 +1,5 @@
-
-
-
-     {
+[
+	{
         "name" : "Sourav Dey",
         "imageurl" : "https://avatars.githubusercontent.com/u/74491716?v=4",
         "about" : "Hey i am a Python developer and backend developer",
@@ -10,11 +8,8 @@
         "github" : "https://github.com/souvenger",
         "twitter" : "https://twitter.com/souravd9546",
         "referral" : "None"
-     },
 
- 
- 
-
+    },
    {
     "name": "Neha Singh",
     "imageurl": "https://avatars.githubusercontent.com/u/78967830?v=4",
@@ -688,4 +683,4 @@
 		"twitter": "",
 		"referral": ""
 	}
-
+]
