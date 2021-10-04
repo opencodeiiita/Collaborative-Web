@@ -1,4 +1,7 @@
 
+
+     
+     
 [
   {
     "name" : "Sourav Dey",
@@ -1357,6 +1360,9 @@
 		"twitter": "",
 		"referral": ""
 	},
+
+  
+
 	{
 		 "name": "Neha Singh",
 		 "imageurl": "https://avatars.githubusercontent.com/u/78967830?v=4",
@@ -1376,7 +1382,11 @@
 		"github": "https://github.com/divakar932",
 		"twitter": "",
 		"referral": "college"
-	},
+	}
+,
+
+
+	
 	{
 		"name" : "YASH JAIN",
 		 "imageurl" : "https://avatars.githubusercontent.com/u/76126720?s=400&v=4",
@@ -1490,6 +1500,17 @@
     "github" : "https://github.com/vikagupta",
     "twitter" : "https://twitter.com/VikasGu72677212",
     "referral" : "via college"
- }
+ },
 
+  {
+
+        "name" : "Saurav Chandawad",
+        "imageurl" : "https://avatars.githubusercontent.com/u/76427228?s=400&u=e1f553eb441f10c7304da50c39087e6b6f5c1e9e&v=4",
+        "about" : "Hey am into Design and Web-Development. React,Figma and Illustrator are my forte. Also am into football.",
+        "college" : "Indian Institute Of Information and Technology ",
+        "facebook" : "Null",
+        "github" : "https://github.com/schandu-eng",
+        "twitter" : "https://twitter.com/SauravChandawa1",
+        "referral" : "Geekhaven"
+     }
 ]
