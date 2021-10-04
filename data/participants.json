@@ -50,6 +50,7 @@
         "github" : "https://github.com/rajpranav63",
         "twitter" : "https://twitter.com/",
         "referral" : "None"
+
      },{
         "name" : "Naman Yadav",
         "imageurl" : "https://avatars.githubusercontent.com/u/75947060?v=4",
@@ -69,9 +70,7 @@
         "github" : "https://github.com/The-Divyansh",
         "twitter" : "Nil",
         "referral" : "Already a student of IIITA"
-     },
-     
-     {
+     },{
       "name" : "Vimal Vinayak",
       "imageurl" : "https://avatars.githubusercontent.com/u/76625113?v=4",
       "about" : "Hello I'm a web developer",
@@ -407,6 +406,14 @@
          "github" : "https://github.com/rohanbabbar04",
          "twitter" : "null",
          "referral" : "Via Linkeldn"
-
+     },{
+        "name" : "  Puja Saraf",
+        "imageurl" : "https://avatars.githubusercontent.com/u/75802818?v=4",
+        "about" : "I am into Web Development",
+        "college" : "Indian Institute of Information Technology, Allahabad",
+        "facebook" : "https://www.facebook.com/puja.saraf.505960/",
+        "github" : "https://github.com/Puja-Saraf",
+        "twitter" : "",
+        "referral" : "None"
      }
 ]
