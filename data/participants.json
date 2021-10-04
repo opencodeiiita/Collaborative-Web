@@ -541,5 +541,15 @@
     "github": "https://github.com/deep-ika",
     "twitter": "https://twitter.com/Deepika69174799?s=08",
     "referral": ""
-  }
+  },
+  {
+    "name": "Aditya Kumar Singh",
+     "imageurl": "https://avatars.githubusercontent.com/u/76389639?v=4",
+     "about": "Hey, I'm a competitive programmer and learning web development.",
+     "college": "IIT Patna",
+     "facebook": "",
+     "github": "https://github.com/Code-Aditya-14",
+     "twitter": "",
+     "referral": "college"
+   }
 ]
