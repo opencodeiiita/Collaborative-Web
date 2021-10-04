@@ -1479,5 +1479,17 @@
      "github": "https://github.com/rajraman786",
      "twitter": "https://twitter.com/rajraman786",
      "referral": "via college"
-   }
+   },
+   {
+
+    "name" : "Vikas gupta",
+    "imageurl" : "https://avatars.githubusercontent.com/u/76587415?s=400&v=4",
+    "about" : "Hello I'm a web developer",
+    "college" : "IIIT ALLAHABAD",
+    "facebook" : "url",
+    "github" : "https://github.com/vikagupta",
+    "twitter" : "https://twitter.com/VikasGu72677212",
+    "referral" : "via college"
+ }
+
 ]
