@@ -1,6 +1,7 @@
+
 [
+  
   {
-    
     "name": "Vimal Vinayak",
     "imageurl": "https://avatars.githubusercontent.com/u/76625113?v=4",
     "about": "Hello I'm a web developer",
@@ -514,6 +515,16 @@
     "referral": "None"
   },
   {
+    "name": "Gude Lakshmi",
+    "imageurl": "https://avatars.githubusercontent.com/u/76594886?s=400&v=4",
+    "about": "Hello I'm a web developer",
+    "college": "IIIT Allahabad",
+    "facebook": "",
+    "github": "https://github.com/gudelakshmi",
+    "twitter": "",
+    "referral": "college"
+  },
+  {
     "name" : "Shailesh Tiwari",
     "imageurl" : "https://avatars.githubusercontent.com/u/76761060?v=4",
     "about" : "Hello",
@@ -522,7 +533,8 @@
     "github" : "https://github.com/shlesh",
     "twitter" : "",
     "referral" : "Garvit sir OP"
-  },{
+  },
+  {
    "name": "Shadaan Hussain",
     "imageurl": "https://avatars.githubusercontent.com/u/75877797?v=4",
     "about": "I'm a web developer and a graphic designer.",
@@ -531,7 +543,26 @@
     "github": "https://github.com/shadaanhussain",
     "twitter": "",
     "referral": "Geekhaven"
-    
+  },
+  {
+   "name": "Nitheesh",
+    "imageurl": "https://avatars.githubusercontent.com/u/76743080?s=400&v=4",
+    "about": "I'm a Flutter developer.",
+    "college": "IIIT Allahabad",
+    "facebook": "",
+    "github": "https://github.com/nitheesh96",
+    "twitter": "",
+    "referral": "Geekheaven"
+  },
+  {
+    "name" : "Pratik Raghuvanshi",
+    "imageurl" : "https://avatars.githubusercontent.com/u/78345693?v=4",
+    "about" : "Machine Learning Enthusiast | Competitive Programmer",
+    "college" : "MITS Gwalior",
+    "facebook" : "https://www.facebook.com/pratik.raghuwanshi.184/",
+    "github" : "https://github.com/prxtikk-18",
+    "twitter" : "https://twitter.com/Prxtikk",
+    "referral" : "Sir Ashutosh Verma"
   },
   {
    "name": "Deepika Kumari",
@@ -543,7 +574,6 @@
     "twitter": "https://twitter.com/Deepika69174799?s=08",
     "referral": ""
   },
-  
   {
    "name": "Sravya Kaviti",
    "imageurl": "https://avatars.githubusercontent.com/u/91270882?v=4",
@@ -554,7 +584,6 @@
    "twitter": "NULL",
    "referral": "NULL"
   },
-  
   {
        "name" : "Shubhi Pandey",
        "imageurl" : "https://avatars.githubusercontent.com/u/75926582?s=400&u=e2a8d4bb5a592aa230ca0b2ba5e54c24b5167db6&v=4",
@@ -564,7 +593,77 @@
        "github" : "https://github.com/Shubhi2002",
        "twitter" : "",
        "referral" : ""
-    },
+  },
+  {
+   "name": "Amiyanshu",
+    "imageurl": "https://avatars.githubusercontent.com/u/59080551?v=4",
+    "about": "Hello,I am Amiyanshu.Based in India. Front End Web Developer. ",
+    "college": "IIT BHU,Varanasi",
+    "facebook": "",
+    "github": "https://github.com/Amiyanshu-web",
+    "twitter": "",
+    "referral": ""
+  },
+  {
+    "name": "sai sumanth kumar",
+    "imageurl": "https://avatars.githubusercontent.com/u/74057515?v=4",
+    "about": "open source is ❤️",
+    "college": "Banaras Hindu University",
+    "facebook": "",
+    "github": "https://github.com/saisumanthkumar",
+    "twitter": "",
+    "referral": "None"
+  },
+   {
+    "name": "Pranavi Tadivalasa",
+    "imageurl": "https://avatars.githubusercontent.com/u/76587467?v=4",
+    "about": "Hello I'm a web developer",
+    "college": "IIITA",
+    "facebook": "",
+    "github": "https://github.com/Ms-Error",
+    "twitter": "",
+    "referral": "Via College"
+  },
+  {
+    "name" : "Ramanpreet Singh",
+    "imageurl" : "https://avatars.githubusercontent.com/u/65950878?v=4",
+    "about" : "Hi, I am a MERN Stack developer who loves to create websites and web applications.",
+    "college" : "Bhagwan Mahaveer College of Engineering and Management, Sonipat",
+    "facebook" : "",
+    "github" : "https://github.com/raman5911",
+    "twitter" : "",
+    "referral" : "none"
+  },
+  {
+    "name": "Rahul Singh",
+    "imageurl": "https://avatars.githubusercontent.com/u/76691609?s=400&u=7dab68887d8b923bc67e3f0e0ee422d6466452ec&v=4",
+    "about": "I am currently learning backend development and android development.",
+    "college": "IIIT Allahabad",
+    "facebook": "https://www.facebook.com/profile.php?id=100056575987844",
+    "github": "https://github.com/rahulsingh-20",
+    "twitter": "",
+    "referral": "GeekHaven"
+  },
+  {
+    "name": "Neeraj Gupta",
+    "imageurl": "https://avatars.githubusercontent.com/u/76960580?v=4",
+    "about": "Hey I'm a Web-Development Sophomore and coding enthusiast",
+    "college": "Indian Institute of Information Technology Allahabad.",
+    "facebook": "https://www.facebook.com/profile.php?id=100011777383268",
+    "github": "https://github.com/codelord09",
+    "twitter": "https://twitter.com/NeerajGupta0912",
+    "referral": "GeekHaven"
+  },
+  {
+    "name" : "Shubhi Pandey",
+    "imageurl" : "https://avatars.githubusercontent.com/u/75926582?s=400&u=e2a8d4bb5a592aa230ca0b2ba5e54c24b5167db6&v=4",
+    "about" : "Hello I'm a web developer",
+    "college" : "Indian Institute Of Information Technology, Allahabad",
+    "facebook" : "",
+    "github" : "https://github.com/Shubhi2002",
+    "twitter" : "",
+    "referral" : ""
+  },
 	{
 		"name": "Vimal Vinayak",
 		"imageurl": "https://avatars.githubusercontent.com/u/76625113?v=4",
@@ -1078,6 +1177,7 @@
 		"twitter": "",
 		"referral": "college"
 	},
+	
 	{
 		"name": "Shailesh Tiwari",
 		"imageurl": "https://avatars.githubusercontent.com/u/76761060?v=4",
@@ -1217,6 +1317,26 @@
 		"github": "https://github.com/VineethKumarM",
 		"twitter": "",
 		"referral": ""
+	},
+	{
+	         "name": "Neha Singh",
+	    	 "imageurl": "https://avatars.githubusercontent.com/u/78967830?v=4",
+		 "about": "Hello I'm a web developer",
+		 "college": "IIIT Allahabad",
+		 "facebook": "",
+		 "github": "https://github.com/neha3001-singh",
+		 "twitter": "",
+		 "referral": "via college"
+	},
+	{
+		"name": "Divakar singh",
+		"imageurl": "https://avatars.githubusercontent.com/u/76587303?v=4",
+		"about": "Hello I'm a web developer",
+		"college": "IIIT Allahabad",
+		"facebook": "",
+		"github": "https://github.com/divakar932",
+		"twitter": "",
+		"referral": "college"
 	}
 
 ]
