@@ -117,5 +117,16 @@
         "github" : "https://github.com/underoot-iota",
         "twitter" : "",
         "referral" : "via college"
-      }    
+      },
+      {
+
+         "name" : "Anjali Sahu",
+         "imageurl" : "https://avatars.githubusercontent.com/u/76684182?v=4",
+         "about" : "Hello! I am into Web-Development and Competitive Coding .. Also love painting.",
+         "college" : "IIIT Allahabad ",
+         "facebook" : "",
+         "github" : "https://github.com/99anjali",
+         "twitter" : "",
+         "referral" : "via college"
+      } 
 ]
