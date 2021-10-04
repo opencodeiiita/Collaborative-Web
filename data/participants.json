@@ -312,5 +312,14 @@
 
        "name" : "Anushka Kalwale",
        "imageurl" : "",
- }
-]
+     },{
+
+        "name" : "Kirtee",
+        "imageurl" : "https://avatars.githubusercontent.com/u/76700116?v=4",
+        "about" : "Heya 'm a Sophomore at IIIT Allahabad, Endeavour to erudite Full stack development with React and Django.",
+        "college" : "Indian Institute of Information Technology, Allahabad",
+        "facebook" : " ",
+        "github" : "https://github.com/KIRTEE-TECH",
+        "twitter" : "https://twitter.com/moto_1902",
+        "referral" : "Seniors of IIIT Allahabad"
+     }
