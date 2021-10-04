@@ -541,7 +541,27 @@
     "github": "https://github.com/shadaanhussain",
     "twitter": "",
     "referral": "Geekhaven"
-    
+  },
+  {
+
+   "name": "Nitheesh",
+    "imageurl": "https://avatars.githubusercontent.com/u/76743080?s=400&v=4",
+    "about": "I'm a Flutter developer.",
+    "college": "IIIT Allahabad",
+    "facebook": "",
+    "github": "https://github.com/nitheesh96",
+    "twitter": "",
+    "referral": "Geekheaven"
+  },
+  {
+    "name" : "Pratik Raghuvanshi",
+    "imageurl" : "https://avatars.githubusercontent.com/u/78345693?v=4",
+    "about" : "Machine Learning Enthusiast | Competitive Programmer",
+    "college" : "MITS Gwalior",
+    "facebook" : "https://www.facebook.com/pratik.raghuwanshi.184/",
+    "github" : "https://github.com/prxtikk-18",
+    "twitter" : "https://twitter.com/Prxtikk",
+    "referral" : "Sir Ashutosh Verma"
   },
   {
    "name": "Deepika Kumari",
@@ -553,7 +573,26 @@
     "twitter": "https://twitter.com/Deepika69174799?s=08",
     "referral": ""
   },
-
+  {
+   "name": "Amiyanshu",
+    "imageurl": "https://avatars.githubusercontent.com/u/59080551?v=4",
+    "about": "Hello,I am Amiyanshu.Based in India. Front End Web Developer. ",
+    "college": "IIT BHU,Varanasi",
+    "facebook": "",
+    "github": "https://github.com/Amiyanshu-web",
+    "twitter": "",
+    "referral": ""
+  },
+  {
+    "name": "sai sumanth kumar",
+    "imageurl": "https://avatars.githubusercontent.com/u/74057515?v=4",
+    "about": "open source is ❤️",
+    "college": "Banaras Hindu University",
+    "facebook": "",
+    "github": "https://github.com/saisumanthkumar",
+    "twitter": "",
+    "referral": "None"
+  },
    {
     "name": "Pranavi Tadivalasa",
     "imageurl": "https://avatars.githubusercontent.com/u/76587467?v=4",
@@ -565,7 +604,6 @@
     "referral": "Via College"
   },
   {
-
     "name" : "Ramanpreet Singh",
     "imageurl" : "https://avatars.githubusercontent.com/u/65950878?v=4",
     "about" : "Hi, I am a MERN Stack developer who loves to create websites and web applications.",
@@ -574,6 +612,17 @@
     "github" : "https://github.com/raman5911",
     "twitter" : "",
     "referral" : "none"
+
+ },
+ {
+    "name": "Rahul Singh",
+    "imageurl": "https://avatars.githubusercontent.com/u/76691609?s=400&u=7dab68887d8b923bc67e3f0e0ee422d6466452ec&v=4",
+    "about": "I am currently learning backend development and android development.",
+    "college": "IIIT Allahabad",
+    "facebook": "https://www.facebook.com/profile.php?id=100056575987844",
+    "github": "https://github.com/rahulsingh-20",
+    "twitter": "",
+    "referral": "GeekHaven"
  },
  {
    "name": "Vijay Karanjkar",
@@ -585,5 +634,4 @@
    "twitter": "https://twitter.com/Vijay3Karanjkar",
    "referral": "none"
  }
-
 ]
