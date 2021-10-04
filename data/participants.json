@@ -1,3 +1,4 @@
+
 [
   {
     "name": "Vimal Vinayak",
@@ -513,6 +514,16 @@
     "referral": "None"
   },
   {
+    "name": "Gude Lakshmi",
+    "imageurl": "https://avatars.githubusercontent.com/u/76594886?s=400&v=4",
+    "about": "Hello I'm a web developer",
+    "college": "IIIT Allahabad",
+    "facebook": "",
+    "github": "https://github.com/gudelakshmi",
+    "twitter": "",
+    "referral": "college"
+  },
+  {
     "name" : "Shailesh Tiwari",
     "imageurl" : "https://avatars.githubusercontent.com/u/76761060?v=4",
     "about" : "Hello",
@@ -521,7 +532,8 @@
     "github" : "https://github.com/shlesh",
     "twitter" : "",
     "referral" : "Garvit sir OP"
-  },{
+  },
+  {
    "name": "Shadaan Hussain",
     "imageurl": "https://avatars.githubusercontent.com/u/75877797?v=4",
     "about": "I'm a web developer and a graphic designer.",
@@ -530,7 +542,27 @@
     "github": "https://github.com/shadaanhussain",
     "twitter": "",
     "referral": "Geekhaven"
-    
+  },
+  {
+
+   "name": "Nitheesh",
+    "imageurl": "https://avatars.githubusercontent.com/u/76743080?s=400&v=4",
+    "about": "I'm a Flutter developer.",
+    "college": "IIIT Allahabad",
+    "facebook": "",
+    "github": "https://github.com/nitheesh96",
+    "twitter": "",
+    "referral": "Geekheaven"
+  },
+  {
+    "name" : "Pratik Raghuvanshi",
+    "imageurl" : "https://avatars.githubusercontent.com/u/78345693?v=4",
+    "about" : "Machine Learning Enthusiast | Competitive Programmer",
+    "college" : "MITS Gwalior",
+    "facebook" : "https://www.facebook.com/pratik.raghuwanshi.184/",
+    "github" : "https://github.com/prxtikk-18",
+    "twitter" : "https://twitter.com/Prxtikk",
+    "referral" : "Sir Ashutosh Verma"
   },
   {
    "name": "Deepika Kumari",
@@ -551,5 +583,79 @@
     "github": "https://github.com/criticic",
     "twitter": "",
     "referral": "via devfolio"
+  },
+  {
+		"name": "Monikinderjit Singh",
+		"imageurl": "https://avatars.githubusercontent.com/u/52850691?v=4",
+		"about": "Hello I'm a mobile developer",
+		"college": "IIIT Vadodara",
+		"facebook": "https://www.facebook.com/monik.inderjitsingh.3",
+		"github": "https://github.com/Monik09",
+		"twitter": "https://twitter.com/monikIJS",
+		"referral": ""
+	},
+  {
+        "name" : "Srishti Dhir",
+        "imageurl" : "https://avatars.githubusercontent.com/u/88854623?v=4",
+        "about" : "Hey am into Web-Development",
+        "college" : "IIIT Allahabad ",
+        "facebook" : "Null",
+        "github" : "",
+        "twitter" : "",
+        "referral" : "None"
+  },
+  { 
+    "name": "Amiyanshu",
+    "imageurl": "https://avatars.githubusercontent.com/u/59080551?v=4",
+    "about": "Hello,I am Amiyanshu.Based in India. Front End Web Developer. ",
+    "college": "IIT BHU,Varanasi",
+    "facebook": "",
+    "github": "https://github.com/Amiyanshu-web",
+    "twitter": "",
+    "referral": ""
+  },
+  {
+    "name": "sai sumanth kumar",
+    "imageurl": "https://avatars.githubusercontent.com/u/74057515?v=4",
+    "about": "open source is ❤️",
+    "college": "Banaras Hindu University",
+    "facebook": "",
+    "github": "https://github.com/saisumanthkumar",
+    "twitter": "",
+    "referral": "None"
+  },
+   {
+    "name": "Pranavi Tadivalasa",
+    "imageurl": "https://avatars.githubusercontent.com/u/76587467?v=4",
+    "about": "Hello I'm a web developer",
+    "college": "IIITA",
+    "facebook": "",
+    "github": "https://github.com/Ms-Error",
+    "twitter": "",
+    "referral": "Via College"
+
+  },
+  {
+    "name" : "Ramanpreet Singh",
+    "imageurl" : "https://avatars.githubusercontent.com/u/65950878?v=4",
+    "about" : "Hi, I am a MERN Stack developer who loves to create websites and web applications.",
+    "college" : "Bhagwan Mahaveer College of Engineering and Management, Sonipat",
+    "facebook" : "",
+    "github" : "https://github.com/raman5911",
+    "twitter" : "",
+    "referral" : "none"
+
+ },
+  {
+    "name": "Rahul Singh",
+    "imageurl": "https://avatars.githubusercontent.com/u/76691609?s=400&u=7dab68887d8b923bc67e3f0e0ee422d6466452ec&v=4",
+    "about": "I am currently learning backend development and android development.",
+    "college": "IIIT Allahabad",
+    "facebook": "https://www.facebook.com/profile.php?id=100056575987844",
+    "github": "https://github.com/rahulsingh-20",
+    "twitter": "",
+    "referral": "GeekHaven"
   }
+
 ]
+
