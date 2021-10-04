@@ -123,9 +123,16 @@
         "github" : "https://github.com/underoot-iota",
         "twitter" : "",
         "referral" : "via college"
-
-      },
-      {
+      }, {
+         "name" : "Aditi Yadav",
+         "imageurl" : "https://avatars.githubusercontent.com/u/87179624?s=400&u=240c7c00075f9b3c714860efd39cbd3e7afc15de&v=4",
+         "about" : "Hi! I'm a Web Developer & Competitive Coder.",
+         "college" : "IIIT Allahabad",
+         "facebook" : "https://www.facebook.com/profile.php?id=100059538758224",
+         "github" : "https://github.com/adtoria",
+         "twitter" : "https://twitter.com/adtoriaaa",
+         "referral" : "GeekHaven"
+      }, {
 
          "name" : "Anjali Sahu",
          "imageurl" : "https://avatars.githubusercontent.com/u/76684182?v=4",
@@ -137,5 +144,3 @@
          "referral" : "via college"
       } 
 ]
-
-
