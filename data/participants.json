@@ -1334,7 +1334,18 @@
 		"github": "https://github.com/divakar932",
 		"twitter": "",
 		"referral": "college"
-	},{ "name" : "Baljot Singh",
+	},{
+
+               "name" : "YASH JAIN",
+	       "imageurl" : "https://avatars.githubusercontent.com/u/76126720?s=400&v=4",
+	       "about" : "Hello I'm a CC",
+	       "college" : "IIITA",
+	       "facebook" : "https://www.facebook.com/yash.jain.1401933/",
+	       "github" : "https://github.com/osho-20",
+	       "twitter" : "",
+	       "referral" : "Seniors of IIITA"
+   },{
+     "name" : "Baljot Singh",
         "imageurl" : "https://avatars.githubusercontent.com/u/91846360?s=40&v=4",
         "about" : "Hello I'm a web developer & competetive programer",
         "college" : "IIIT Allahabad",
@@ -1343,7 +1354,6 @@
         "twitter" : "",
         "referral" : "Geekhaven"       
     }
-
 
 ]
 
