@@ -552,5 +552,16 @@
     "github": "https://github.com/deep-ika",
     "twitter": "https://twitter.com/Deepika69174799?s=08",
     "referral": ""
-  }
+  },
+  {
+
+    "name" : "Ramanpreet Singh",
+    "imageurl" : "https://avatars.githubusercontent.com/u/65950878?v=4",
+    "about" : "Hi, I am a MERN Stack developer who loves to create websites and web applications.",
+    "college" : "Bhagwan Mahaveer College of Engineering and Management, Sonipat",
+    "facebook" : "",
+    "github" : "https://github.com/raman5911",
+    "twitter" : "",
+    "referral" : "none"
+ }
 ]
