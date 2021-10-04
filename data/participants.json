@@ -453,7 +453,8 @@
         "college" : "Indian Institute Of Information Technology, Allahabad",
         "facebook" : "Null",
         "github" : "https://github.com/Abhijeet452",
-        "twitter" : "Null",},{
+        "twitter" : "Null",}
+,{
         "name" : "Vipul Ranjan Sahu",
         "imageurl" : "https://avatars.githubusercontent.com/u/76658379?s=40&v=4",
         "about" : "Hey am into App Development and Competitive Coding",
@@ -461,7 +462,6 @@
         "facebook" : "Null",
         "github" : "https://github.com/vipulranjansahu",
         "twitter" : "Null",     
-  "referral" : "None"
      }, {
 
         "name" : "Pranav Sahu",
@@ -472,5 +472,14 @@
         "github" : "https://github.com/Pranav-22-aditya",
         "twitter" : "Null",
         "referral" : "None"
-     }
+     },{
+      "name" : "  Ashok Malhotra",
+      "imageurl" : "https://avatars.githubusercontent.com/u/75798905?v=4",
+      "about" : "I am a web developer",
+      "college" : "Indian Institute of Information Technology, Allahabad",
+      "facebook" : "",
+      "github" : "https://github.com/AshokMalhotra23",
+      "twitter" : "",
+      "referral" : "college"
+   }
 ]
