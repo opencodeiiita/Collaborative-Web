@@ -1512,5 +1512,15 @@
         "github" : "https://github.com/schandu-eng",
         "twitter" : "https://twitter.com/SauravChandawa1",
         "referral" : "Geekhaven"
-     }
+     },
+  {
+    "name": "Naman Shukla",
+    "imageurl": "https://avatars.githubusercontent.com/u/76682299?s=400&v=4",
+    "About": "Hello I'm a noob Coder",
+    "College": "IIT A",
+    "Facebook": "",
+    "Github": "https://github.com/naman-cr",
+    "Twitter": "",
+    "Referral": "IIITA"
+  },
 ]
