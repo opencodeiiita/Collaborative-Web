@@ -1331,13 +1331,22 @@
        },
 	{
 
-               "name" : "Sauhard Srivastava",
+         "name" : "Sauhard Srivastava",
 	       "imageurl" : "https://avatars.githubusercontent.com/u/73341891?s=400&u=1eeaeef21214f83505726a7afe5e2b91d995677d&v=4",
 	       "about" : "Hello I'm a Developer",
 	       "college" : "IIITA",
 	       "facebook" : "",
 	       "github" : "https://github.com/sauhard22",
-	       "twitter" : "",
+          "twitter" : "",
 	       "referral" : "Seniors of IIITA"
+  },	
+	{
+
+         "name" : "Shivansh Dwivedi",
+	       "imageurl" : "https://avatars.githubusercontent.com/u/76680346?v=4",
+	       "about" : "Hello I'm a CC",
+	       "college" : "IIITA",
+	       "facebook" : "",
+	       "github" : "https://github.com/shivansh2741",
        }
 ]
