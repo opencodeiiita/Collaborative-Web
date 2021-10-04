@@ -1,7 +1,5 @@
 [
-        
     {
-
         "name" : "Prajit Sengupta",
         "imageurl" : "https://avatars.githubusercontent.com/u/71543838?s=400&u=0aac22efe11b5464f98bef5e885a6ca7d4264d76&v=4",
         "about" : "Hey am into Web-Development. React and Django is my forte. Also am into Debating.",
@@ -19,6 +17,7 @@
         "github" : "https://github.com/The-Divyansh",
         "twitter" : "Nil",
         "referral" : "Already a student of IIITA"
+
 
      },{
         "name" : "Vimal Vinayak",
@@ -50,7 +49,6 @@
         "twitter" : "",
         "referral" : "through seniors of the college"
      }, {
-
        "name" : "Kirti",
        "imageurl" : "https://avatars.githubusercontent.com/u/76592673?v=4",
        "about" : "Hello I'm a web developer",
@@ -60,8 +58,7 @@
        "twitter" : "@KirtiSi15288647",
        "referral" : "via college"
 
-    },
-    {
+    }, {
        "name" : "Diya Waghmare",
        "imageurl" : "https://avatars.githubusercontent.com/u/56413380?s=400&u=0abc24ddde94f200e3087e81594d65762e77ef10&v=4",
        "about" : "Hello I'm a web developer",
@@ -79,6 +76,15 @@
        "github" : "https://github.com/saloni33",
        "twitter" : "",
        "referral" : "By seniors of IIITA"
+ },{
+       "name" : "Mantraraj Gotecha",
+       "imageurl" : "https://avatars.githubusercontent.com/u/76609411?v=4",
+       "about" : "Hello I'm a web developer",
+       "college" : "IIIT Allahabad",
+       "facebook" : "",
+       "github" : "https://github.com/Mantraraj8472",
+       "twitter" : "",
+       "referral" : "Already a student of IIITA"
     }, {
        "name" : "Misra Gautam Rajeev",
        "imageurl" : "https://avatars.githubusercontent.com/u/75743237?v=4",
