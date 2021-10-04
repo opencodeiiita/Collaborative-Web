@@ -1157,6 +1157,7 @@
 		"twitter": "",
 		"referral": "college"
 	},
+	
 	{
 		"name": "Shailesh Tiwari",
 		"imageurl": "https://avatars.githubusercontent.com/u/76761060?v=4",
@@ -1297,16 +1298,25 @@
 		"twitter": "",
 		"referral": ""
 	},
-   {
-    "name": "Neha Singh",
-    "imageurl": "https://avatars.githubusercontent.com/u/78967830?v=4",
-    "about": "Hello I'm a web developer",
-    "college": "IIIT Allahabad",
-    "facebook": "",
-    "github": "https://github.com/neha3001-singh",
-    "twitter": "",
-    "referral": "via college"
-  },
+      "name": "Neha Singh",
+	    	 "imageurl": "https://avatars.githubusercontent.com/u/78967830?v=4",
+		 "about": "Hello I'm a web developer",
+		 "college": "IIIT Allahabad",
+		 "facebook": "",
+		 "github": "https://github.com/neha3001-singh",
+		 "twitter": "",
+		 "referral": "via college"
+	},
+	{
+		"name": "Divakar singh",
+		"imageurl": "https://avatars.githubusercontent.com/u/76587303?v=4",
+		"about": "Hello I'm a web developer",
+		"college": "IIIT Allahabad",
+		"facebook": "",
+		"github": "https://github.com/divakar932",
+		"twitter": "",
+		"referral": "college"
+	},
 	{
     "name": "Gunwant Wankhede",
     "imageurl": "https://avatars.githubusercontent.com/u/78967830?v=4",
@@ -1316,5 +1326,5 @@
     "github": "https://github.com/gunwant11",
     "twitter": "https://twitter.com/gunwant_11",
     "referral": ""
-  },
+  }
 ]
