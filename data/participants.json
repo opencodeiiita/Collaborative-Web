@@ -1,3 +1,4 @@
+
 [
   {
     "name": "Vimal Vinayak",
@@ -574,7 +575,27 @@
     "referral": ""
   },
   {
-   "name": "Amiyanshu",
+		"name": "Monikinderjit Singh",
+		"imageurl": "https://avatars.githubusercontent.com/u/52850691?v=4",
+		"about": "Hello I'm a mobile developer",
+		"college": "IIIT Vadodara",
+		"facebook": "https://www.facebook.com/monik.inderjitsingh.3",
+		"github": "https://github.com/Monik09",
+		"twitter": "https://twitter.com/monikIJS",
+		"referral": ""
+	},
+  {
+        "name" : "Srishti Dhir",
+        "imageurl" : "https://avatars.githubusercontent.com/u/88854623?v=4",
+        "about" : "Hey am into Web-Development",
+        "college" : "IIIT Allahabad ",
+        "facebook" : "Null",
+        "github" : "",
+        "twitter" : "",
+        "referral" : "None"
+  },
+  { 
+    "name": "Amiyanshu",
     "imageurl": "https://avatars.githubusercontent.com/u/59080551?v=4",
     "about": "Hello,I am Amiyanshu.Based in India. Front End Web Developer. ",
     "college": "IIT BHU,Varanasi",
@@ -602,6 +623,7 @@
     "github": "https://github.com/Ms-Error",
     "twitter": "",
     "referral": "Via College"
+
   },
   {
     "name" : "Ramanpreet Singh",
@@ -623,8 +645,9 @@
     "github": "https://github.com/rahulsingh-20",
     "twitter": "",
     "referral": "GeekHaven"
- },
- {
+
+},
+{
    "name": "Vijay Karanjkar",
    "imageurl": "https://avatars.githubusercontent.com/u/75903092?s=400&v=4",
    "about": "I am a MERN Stack Developer.",
@@ -635,3 +658,4 @@
    "referral": "none"
  }
 ]
+
