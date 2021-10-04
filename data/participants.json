@@ -7,7 +7,7 @@
        "facebook" : "",
        "github" : "https://github.com/kaneki-ken260",
        "twitter" : "",
-       "referral" : "Via College",
+       "referral" : "Via College"
     },
     {
         "name" : "Himanshu Yadav",
@@ -227,7 +227,7 @@
         "facebook" : "",
        "github" : "https://github.com/naman-c",
        "twitter" : "",
-      "referral" : "Mentors and seniors",
+      "referral" : "Mentors and seniors"
 },
 
   {
@@ -259,5 +259,15 @@
         "github" : "github.com/medhatiwari",
         "twitter" : "https://twitter.com/medha_tiwari1",
         "referral" : ""
-     }
+     },
+   {
+      "name" : "Pranjay Vats",
+      "imageurl" : "https://drive.google.com/file/d/1nxAXTVxGlvmYrRhE0mvXa2Owr83k8JY1/view?usp=sharing",
+      "about" : "Hey, I am a third year student in GGSIPU. I have some experience in front-end devolopment and currently exploring React JS.",
+      "college" : "Dr. Akhilesh Das Gupta Institute Of Technology & Management, Delhi",
+      "facebook" : "",
+      "github" : "github.com/PranjayVats",
+      "twitter" : "",
+      "referral" : "none"
+   }
 ]
