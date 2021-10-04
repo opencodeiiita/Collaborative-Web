@@ -10,6 +10,16 @@
        "referral" : "Via College",
     },
     {
+        "name" : "Shubhajeet Pradhan",
+        "imageurl" : "https://avatars.githubusercontent.com/u/76960580?v=4",
+        "about" : "Hey I'm a Web-Development Sophomore. Flask is my proficient part. I'm a UI/UX designer too.",
+        "college" : "Indian Institute of Information Technology and Management Gwalior.",
+        "facebook" : "https://www.facebook.com/shubhojeet.pradhan",
+        "github" : "https://github.com/shubhajeet1207",
+        "twitter" : "https://twitter.com/Shubhajeet12",
+        "referral" : "None"
+    },
+    {
         "name" : "Himanshu Yadav",
         "imageurl" : "https://drive.google.com/file/d/1ch4NSpIwsAMh38Y1f4oFdLgRjplcqkWd/view?usp=sharing",
         "about" : "Hello I'm a web developer",
@@ -28,7 +38,6 @@
         "twitter" : "https://twitter.com/prajit2806",
         "referral" : "None"
      }
- 
      ,
      {
 
