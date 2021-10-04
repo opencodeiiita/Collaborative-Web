@@ -1328,6 +1328,18 @@
 	       "twitter" : "",
 	       "referral" : "Seniors of IIITA"
        },
+
+       {
+	    "name": "Karan Chhabra",
+	    "imageurl": "https://avatars.githubusercontent.com/u/76587341?s=400&u=4747e2c0ebde0b7a550ca0081ae9b2227c5ff1f6&v=4",
+	    "about": "I am a Conpititive Programmer with a keen interest in Front-end Web Development",
+	    "college": "IIIT Allahabad",
+	    "facebook": "https://www.facebook.com/karan.chhabra.9461",
+	    "github": "https://github.com/karankc23/",
+	    "twitter": "",
+	    "referral": "via college"
+	  },
+
 	{
 
          "name" : "Sauhard Srivastava",
@@ -1346,6 +1358,7 @@
 	       "about" : "Hello I'm a CC",
 	       "college" : "IIITA",
 	       "facebook" : "",
+         "twitter" : "",
 	       "github" : "https://github.com/shivansh2741",
        },
   {
@@ -1358,5 +1371,6 @@
        "twitter" : "",
        "referral" : "via college"
     }
+
 
 ]
