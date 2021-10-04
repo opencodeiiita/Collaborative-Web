@@ -1,4 +1,15 @@
+
 [
+   {
+    "name": "Neha Singh",
+    "imageurl": "https://avatars.githubusercontent.com/u/78967830?v=4",
+    "about": "Hello I'm a web developer",
+    "college": "IIIT Allahabad",
+    "facebook": "",
+    "github": "https://github.com/neha3001-singh",
+    "twitter": "",
+    "referral": "via college"
+  },
   {
     "name" : "Shubhi Pandey",
     "imageurl" : "https://avatars.githubusercontent.com/u/75926582?s=400&u=e2a8d4bb5a592aa230ca0b2ba5e54c24b5167db6&v=4",
