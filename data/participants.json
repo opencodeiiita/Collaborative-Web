@@ -1,5 +1,5 @@
- [{
-
+[
+ {
        "name" : "Ritwik Rajput",
        "imageurl" : "https://avatars.githubusercontent.com/u/76650941?v=4",
        "about" : "Hello I'm a web developer",
@@ -7,7 +7,17 @@
        "facebook" : "",
        "github" : "https://github.com/kaneki-ken260",
        "twitter" : "",
-       "referral" : "Via College",
+       "referral" : "Via College"
+    },
+    {
+        "name" : "Shubhajeet Pradhan",
+        "imageurl" : "https://avatars.githubusercontent.com/u/76960580?v=4",
+        "about" : "Hey I'm a Web-Development Sophomore. Flask is my proficient part. I'm a UI/UX designer too.",
+        "college" : "Indian Institute of Information Technology and Management Gwalior.",
+        "facebook" : "https://www.facebook.com/shubhojeet.pradhan",
+        "github" : "https://github.com/shubhajeet1207",
+        "twitter" : "https://twitter.com/Shubhajeet12",
+        "referral" : "None"
     },
     {
         "name" : "Himanshu Yadav",
@@ -27,6 +37,15 @@
         "github" : "https://github.com/Prajit-Sengupta",
         "twitter" : "https://twitter.com/prajit2806",
         "referral" : "None"
+     },{
+        "name" : "Naman Yadav",
+        "imageurl" : "https://avatars.githubusercontent.com/u/75947060?v=4",
+        "about" : "Hello I'm a web developer",
+        "college" : "IIIT A",
+        "facebook" : "",
+        "github" : "https://github.com/Naman-11",
+        "twitter" : "",
+        "referral" : "geekhaven iiita"
     }, {
         "name" : "Divyansh",
         "imageurl" : "https://avatars.githubusercontent.com/u/76586767?s=400&u=68f61bcff5a27f79f0753fa574394639cc04dd33&v=4",
@@ -36,8 +55,30 @@
         "github" : "https://github.com/The-Divyansh",
         "twitter" : "Nil",
         "referral" : "Already a student of IIITA"
-     },{
+     },
+     
+     {
 
+      "name" : "Vimal Vinayak",
+      "imageurl" : "https://avatars.githubusercontent.com/u/76625113?v=4",
+      "about" : "Hello I'm a web developer",
+      "college" : "IIIT Allahabad",
+      "facebook" : "",
+      "github" : "https://github.com/BlaZe-001",
+      "twitter" : "",
+      "referral" : "via college"
+   },
+
+     {
+        "name" : "Anushtha Bageria",
+        "imageurl" : "https://avatars.githubusercontent.com/u/76680350?s=40&v=4",
+        "about" : "hello! I am a beginner in web development",
+        "college" : "IIIT-Allahabad",
+        "facebook" : "https://www.facebook.com/anushtha.bageria/",
+        "github" : "https://github.com/anu-phoenix",
+        "twitter" : "Nil",
+        "referral" : "Already a student of IIITA"
+     },{
         "name" : "Manpreet Singh",
         "imageurl" : "https://ibb.co/ThQ4KwB",
         "about" : "Hello I'm a web developer",
@@ -73,7 +114,7 @@
         "github" : "https://github.com/Palak-2109",
         "twitter" : "",
         "referral" : "through seniors of the college"
-     }, {
+      },{
        "name" : "Kirti",
        "imageurl" : "https://avatars.githubusercontent.com/u/76592673?v=4",
        "about" : "Hello I'm a web developer",
@@ -82,8 +123,7 @@
        "github" : "https://github.com/codesanta142",
        "twitter" : "@KirtiSi15288647",
        "referral" : "via college"
-    },
-   {
+    }, {
       "name" : "Pratyush Ranjan",
       "imageurl" : "https://avatars.githubusercontent.com/u/76619629?s=400&u=a7c25d7ea693b3117300312b9add670b33c2ae51&v=4",
       "about" : "Hello I'm a keen developer with basic knowledge of html css",
@@ -173,6 +213,15 @@
       "github" : "https://github.com/ashutosh3027",
       "twitter" : "NULL",
       "referral" : "None"
+      },{
+       "name" : "Raghav Goel",
+       "imageurl" : "https://avatars.githubusercontent.com/u/75788719?s=400&u=571f037673cdef8d39cd4dfca96b8e8cd1cde04a&v=4",
+       "about" : "Hello I'm a web developer",
+       "college" : "IIIT Allahabad",
+       "facebook" : "",
+       "github" : "https://github.com/raghavgoel25",
+       "twitter" : "",
+       "referral" : "Geekhaven",
     },{
       "name" : "Hardik Arora",
       "imageurl" : "https://avatars.githubusercontent.com/u/76592673?v=4",
@@ -191,6 +240,16 @@
         "github" : "https://github.com/underoot-iota",
         "twitter" : "",
         "referral" : "via college"
+      }  ,
+   {
+       "name" : "Tanushree",
+       "imageurl" : "https://imgur.com/B382k5K",
+       "about" : "Hello I'm a technophile with major interest in App development domain",
+       "college" : "IIIT Allahabad",
+       "facebook" : "https://www.facebook.com/profile.php?id=100058886795723",
+       "github" : "https://github.com/Tanushree-coder",
+       "twitter" : "",
+       "referral" : "via college"
       }, {
          "name" : "Aditi Yadav",
          "imageurl" : "https://avatars.githubusercontent.com/u/87179624?s=400&u=240c7c00075f9b3c714860efd39cbd3e7afc15de&v=4",
@@ -227,9 +286,18 @@
         "facebook" : "",
        "github" : "https://github.com/naman-c",
        "twitter" : "",
-      "referral" : "Mentors and seniors",
-},
+      "referral" : "Mentors and seniors"
+},{
 
+   "name" : "Jeet Sarkar",
+   "imageurl" : "https://avatars.githubusercontent.com/u/76586706?v=4",
+   "about" : "I'm a full stack web developer",
+   "college" : "IIIT Allahabad",
+   "facebook" : "https://www.facebook.com/jeet.sarkar.58367",
+   "github" : "https://github.com/J-e-e-t",
+   "twitter" : "",
+   "referral" : ""
+},
   {
     "name": "Nikita Dhamapurkar",
     "imageurl": "https://avatars.githubusercontent.com/u/75804920?v=4",
@@ -277,7 +345,27 @@
         "github" : "https://github.com/Aneesh02",
         "twitter" : "",
         "referral" : ""
+}, {
 
-
-     }
+       "name" : "Anushka Kalwale",
+       "imageurl" : "",
+ }, {
+   "name": "Varun Tiwari",
+   "imageurl": "https://avatars.githubusercontent.com/u/83509023?v=4",
+   "about": "Hello I'm a web developer",
+   "college": "ABV-IIITM, Gwalior",
+   "facebook": "https://www.facebook.com/people/Varun-Tiwari/100057310502325/",
+   "github": "https://github.com/varunKT001",
+   "twitter": "",
+   "referral": "via college"
+ },{
+    "name": "Shivanshu Singh",
+    "imageurl": "https://avatars.githubusercontent.com/u/62894515?s=400&u=f6ca0cdfedef1c246291c31930d2acf1d07a592a&v=4",
+    "about": "Hey am into Web-Development. I am currently a frontend developer and am aiming to become a Full-Stack Developer.",
+    "college": "Shri Mata Vaishno Devi University ",
+    "facebook": "Null",
+    "github": "https://github.com/Shivanshu97i",
+    "twitter": "Null",
+    "referral": "None"
+  }
 ]
