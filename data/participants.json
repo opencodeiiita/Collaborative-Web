@@ -212,6 +212,16 @@
         "github" : "https://github.com/underoot-iota",
         "twitter" : "",
         "referral" : "via college"
+      }  ,
+   {
+       "name" : "Tanushree",
+       "imageurl" : "https://imgur.com/B382k5K",
+       "about" : "Hello I'm a technophile with major interest in App development domain",
+       "college" : "IIIT Allahabad",
+       "facebook" : "https://www.facebook.com/profile.php?id=100058886795723",
+       "github" : "https://github.com/Tanushree-coder",
+       "twitter" : "",
+       "referral" : "via college"
       }, {
          "name" : "Aditi Yadav",
          "imageurl" : "https://avatars.githubusercontent.com/u/87179624?s=400&u=240c7c00075f9b3c714860efd39cbd3e7afc15de&v=4",
