@@ -1,6 +1,16 @@
 
 [
   {
+    "name" : "Sourav Dey",
+    "imageurl" : "https://avatars.githubusercontent.com/u/74491716?v=4",
+    "about" : "I am a Python Developer and Machine learning Enthusiastist",
+    "college" : "Indian Institute of Information Technology, Allahabad",
+    "facebook" : "",
+    "github" : "https://github.com/souvenger",
+    "twitter" : "",
+    "referral" : "None"
+  },
+  {
     "name" : "Aditya Tyagi",
     "imageurl" : "https://github.com/adityagi02.png",
     "about" : "Hello, I'm a sophomore in Computer Science & Engineering at Indian Institute of Information Technology, Kottayam who is interested in every field of CS and love to contribute in Open Source",
