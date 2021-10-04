@@ -1,5 +1,26 @@
-[
+[{
+
+       "name" : "Ritwik Rajput",
+       "imageurl" : "https://avatars.githubusercontent.com/u/76650941?v=4",
+       "about" : "Hello I'm a web developer",
+       "college" : "IIITA",
+       "facebook" : "",
+       "github" : "https://github.com/kaneki-ken260",
+       "twitter" : "",
+       "referral" : "Via College",
+    },
     {
+
+        "name" : "Himanshu Yadav",
+        "imageurl" : "https://drive.google.com/file/d/1ch4NSpIwsAMh38Y1f4oFdLgRjplcqkWd/view?usp=sharing",
+        "about" : "Hello I'm a web developer",
+        "college" : "IIIT Allahabad",
+        "facebook" : "",
+        "github" : "https://github.com/SeriousConjurer",
+        "twitter" : "",
+        "referral" : "via college"
+    },{
+
         "name" : "Prajit Sengupta",
         "imageurl" : "https://avatars.githubusercontent.com/u/71543838?s=400&u=0aac22efe11b5464f98bef5e885a6ca7d4264d76&v=4",
         "about" : "Hey am into Web-Development. React and Django is my forte. Also am into Debating.",
@@ -17,8 +38,16 @@
         "github" : "https://github.com/The-Divyansh",
         "twitter" : "Nil",
         "referral" : "Already a student of IIITA"
+     },{
 
-
+        "name" : "Manpreet Singh",
+        "imageurl" : "https://ibb.co/ThQ4KwB",
+        "about" : "Hello I'm a web developer",
+        "college" : "IIT A",
+        "facebook" : "",
+        "github" : "https://github.com/AshuZ-dot",
+        "twitter" : "",
+        "referral" : "IIITA"
      },{
         "name" : "Vimal Vinayak",
         "imageurl" : "https://avatars.githubusercontent.com/u/76625113?v=4",
@@ -28,7 +57,6 @@
         "github" : "https://github.com/BlaZe-001",
         "twitter" : "",
         "referral" : "via college"
-
      },{
       "name" : "Agrim Vemra",
       "imageurl" : "https://avatars.githubusercontent.com/u/911344684?s=400&u=3e0ab0d735213ab04053aef3c1ae6f1cb2255ec3&v=4",
@@ -38,7 +66,6 @@
       "github" : "https://github.com/AgrimVerma",
       "twitter" : "",
       "referral" : "via college"
-
      },{
         "name" : "Palak Ahuja",
         "imageurl" : "https://avatars.githubusercontent.com/u/76587145?v=4",
@@ -57,7 +84,16 @@
        "github" : "https://github.com/codesanta142",
        "twitter" : "@KirtiSi15288647",
        "referral" : "via college"
-
+    },
+   {
+      "name" : "Pratyush Ranjan",
+      "imageurl" : "https://avatars.githubusercontent.com/u/76619629?s=400&u=a7c25d7ea693b3117300312b9add670b33c2ae51&v=4",
+      "about" : "Hello I'm a keen developer with basic knowledge of html css",
+      "college" : "IIIT Allahabad",
+      "facebook" : "https://www.facebook.com/pratyush.ranjan.5895/",
+      "github" : "https://github.com/Pratyush7901",
+      "twitter" : "",
+      "referral" : "Student of IIITA"
     }, {
        "name" : "Diya Waghmare",
        "imageurl" : "https://avatars.githubusercontent.com/u/56413380?s=400&u=0abc24ddde94f200e3087e81594d65762e77ef10&v=4",
@@ -67,6 +103,16 @@
        "github" : "github.com/diyawaghmare",
        "twitter" : "",
        "referral" : "Geekhaven"
+    },{
+
+        "name" : "Archit Dashora",
+        "imageurl" : "https://avatars.githubusercontent.com/u/76661204?v=4",
+        "about" : "Hello I am a web developer and competitive programmer ",
+        "college" : "IIITA",
+        "facebook" : "",
+        "github" : "https://github.com/Archit2002",
+        "twitter" : "",
+        "referral" : ""
      },{
        "name" : "Saloni Doshi",
        "imageurl" : "https://avatars.githubusercontent.com/u/76587223?v=4",
@@ -100,6 +146,7 @@
       "github" : "https://github.com/A-Spiral-Forge",
       "twitter" : "https://twitter.com/SpiralForge_",
       "referral" : "None"
+
    }, {
 
        "name" : "Yash Chaurasia",
@@ -110,7 +157,8 @@
        "github" : "https://github.com/Yash091",
        "twitter" : "",
        "referral" : "Through seniors of IIIT Allahabad"
-   }, { "name" : "Prakhar Jalan",
+   }, 
+  { "name" : "Prakhar Jalan",
         "imageurl" : "https://avatars.githubusercontent.com/u/75791114?v=4",
         "about" : "Hello I'm a web developer",
         "college" : "IIITA",
@@ -127,7 +175,7 @@
       "github" : "https://github.com/ashutosh3027",
       "twitter" : "NULL",
       "referral" : "None"
-      }, {
+    },{
       "name" : "Hardik Arora",
       "imageurl" : "https://avatars.githubusercontent.com/u/76592673?v=4",
       "about" : "Hi I'm a fervent web developer",
