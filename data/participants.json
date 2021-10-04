@@ -11,6 +11,16 @@
     "referral" : "Head of Technical Club of my College"
   },
   {
+    "name" : "Sudeep Paul",
+    "imageurl" : "https://avatars.githubusercontent.com/u/76279939?s=400&u=83758f7a58219d8911dd662ff91ea9eb2c4c0d0c&v=4",
+    "about" : "Hello I'm a web developer",
+    "college" : "IIT Patna",
+    "facebook" : "",
+    "github" : "https://github.com/spaul1042",
+    "twitter" : "",
+    "referral" : "mail from college authority"
+  },
+  {
     "name": "Vimal Vinayak",
     "imageurl": "https://avatars.githubusercontent.com/u/76625113?v=4",
     "about": "Hello I'm a web developer",
