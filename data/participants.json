@@ -1,5 +1,14 @@
 [
- {
+  {
+    "name": "Vimal Vinayak",
+    "imageurl": "https://avatars.githubusercontent.com/u/76625113?v=4",
+    "about": "Hello I'm a web developer",
+    "college": "IIIT Allahabad",
+    "facebook": "",
+    "github": "https://github.com/BlaZe-001",
+    "twitter": "",
+    "referral": "via college"
+  }, {
        "name" : "Ritwik Rajput",
        "imageurl" : "https://avatars.githubusercontent.com/u/76650941?v=4",
        "about" : "Hello I'm a web developer",
@@ -9,8 +18,7 @@
        "twitter" : "",
        "referral" : "Via College"
     },
-    {
-        "name" : "Shubhajeet Pradhan",
+    {"name" : "Shubhajeet Pradhan",
         "imageurl" : "https://avatars.githubusercontent.com/u/76960580?v=4",
         "about" : "Hey I'm a Web-Development Sophomore. Flask is my proficient part. I'm a UI/UX designer too.",
         "college" : "Indian Institute of Information Technology and Management Gwalior.",
@@ -33,9 +41,14 @@
         "imageurl" : "https://avatars.githubusercontent.com/u/71543838?s=400&u=0aac22efe11b5464f98bef5e885a6ca7d4264d76&v=4",
         "about" : "Hey am into Web-Development. React and Django is my forte. Also am into Debating.",
         "college" : "Thapar Institute of Engineering and Technology ",
+},{
+        "name" : "Pranav Raj",
+        "imageurl" : "https://avatars.githubusercontent.com/u/64091316?v=4",
+        "about" : "Hey am into Web-Development..",
+        "college" : "IITA",
         "facebook" : "Null",
-        "github" : "https://github.com/Prajit-Sengupta",
-        "twitter" : "https://twitter.com/prajit2806",
+        "github" : "https://github.com/rajpranav63",
+        "twitter" : "https://twitter.com/",
         "referral" : "None"
 
      },{
@@ -48,6 +61,7 @@
         "twitter" : "",
         "referral" : "geekhaven iiita"
     }, {
+
         "name" : "Divyansh",
         "imageurl" : "https://avatars.githubusercontent.com/u/76586767?s=400&u=68f61bcff5a27f79f0753fa574394639cc04dd33&v=4",
         "about" : "Hey there! I'm an Enthusiastic developer with keen interest in web and app development",
@@ -56,23 +70,7 @@
         "github" : "https://github.com/The-Divyansh",
         "twitter" : "Nil",
         "referral" : "Already a student of IIITA"
-     },
-     
-
-
-     {
-
-        "name" : "  Puja Saraf",
-        "imageurl" : "https://avatars.githubusercontent.com/u/75802818?v=4",
-        "about" : "I am into Web Development",
-        "college" : "Indian Institute of Information Technology, Allahabad",
-        "facebook" : "https://www.facebook.com/puja.saraf.505960/",
-        "github" : "https://github.com/Puja-Saraf",
-        "twitter" : "",
-        "referral" : "None"
-     }
- 
-
+     },{
       "name" : "Vimal Vinayak",
       "imageurl" : "https://avatars.githubusercontent.com/u/76625113?v=4",
       "about" : "Hello I'm a web developer",
@@ -380,6 +378,42 @@
     "facebook": "Null",
     "github": "https://github.com/Shivanshu97i",
     "twitter": "Null",
-    "referral": "None"
-  }
+ }, {
+    "name": "Amitvikram Dwivedi",
+    "imageurl": "https://i.ibb.co/L57Y5m9/photo-square.jpg",
+    "about": "Hey there am into Web-Development React and Node.js are what is use.",
+    "college": "Indian Institute of Information Technology Vadodara",
+    "facebook": "https://www.facebook.com/Amitbatflarrow/",
+    "github": "https://github.com/batflarrow",
+    "twitter": "https://twitter.com/amitbatflarrow",
+  "referral": "None"
+  },{
+
+        "name" : "James Thomas",
+        "imageurl" : "https://avatars.githubusercontent.com/u/87705437?v=4",
+        "about" : "I am a web developer",
+        "college" : "Indian Institute of Technology , Varanasi",
+        "facebook" : "",
+        "github" : "https://github.com/james3gh",
+        "twitter" : "",
+        "referral" :"college"
+     },{
+         "name" : "Rohan Babbar",
+         "imageurl" : "https://avatars.githubusercontent.com/u/77425744?s=400&u=40f9798c038e640e55dffce551bcc17f32fa93b3&v=4",
+         "about" : "I am a Java and Android Developer." ,
+         "college" : "Cluster Innovation Centre,University of Delhi" ,
+         "facebook" : "Null",
+         "github" : "https://github.com/rohanbabbar04",
+         "twitter" : "null",
+         "referral" : "Via Linkeldn"
+     },{
+        "name" : "  Puja Saraf",
+        "imageurl" : "https://avatars.githubusercontent.com/u/75802818?v=4",
+        "about" : "I am into Web Development",
+        "college" : "Indian Institute of Information Technology, Allahabad",
+        "facebook" : "https://www.facebook.com/puja.saraf.505960/",
+        "github" : "https://github.com/Puja-Saraf",
+        "twitter" : "",
+        "referral" : "None"
+     }
 ]
