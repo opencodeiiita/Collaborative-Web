@@ -1,5 +1,16 @@
+   
 
 [
+  {
+    "name" : "Sourav Dey",
+    "imageurl" : "https://avatars.githubusercontent.com/u/74491716?v=4",
+    "about" : "I am a Python Developer and Machine learning Enthusiastist",
+    "college" : "Indian Institute of Information Technology, Allahabad",
+    "facebook" : "",
+    "github" : "https://github.com/souvenger",
+    "twitter" : "",
+    "referral" : "None"
+  },
   {
     "name" : "Aditya Tyagi",
     "imageurl" : "https://github.com/adityagi02.png",
@@ -9,6 +20,16 @@
     "github" : "https://github.com/adityagi02",
     "twitter" : "https://twitter.com/AdityaT68049011",
     "referral" : "Head of Technical Club of my College"
+  },
+  {
+    "name" : "Sudeep Paul",
+    "imageurl" : "https://avatars.githubusercontent.com/u/76279939?s=400&u=83758f7a58219d8911dd662ff91ea9eb2c4c0d0c&v=4",
+    "about" : "Hello I'm a web developer",
+    "college" : "IIT Patna",
+    "facebook" : "",
+    "github" : "https://github.com/spaul1042",
+    "twitter" : "",
+    "referral" : "mail from college authority"
   },
   {
     "name": "Vimal Vinayak",
@@ -573,6 +594,17 @@
     "twitter" : "https://twitter.com/Prxtikk",
     "referral" : "Sir Ashutosh Verma"
   },
+    {
+
+            "name" : "D Akshitha",
+            "imageurl" : "https://avatars.githubusercontent.com/u/76589891?s=400&v=4",
+            "about" : "Hello I'm beginner in webd",
+            "college" : "IIIT Allahabad",
+            "facebook" : "",
+            "github" : "https://github.com/AKI35429",
+            "twitter" : "",
+            "referral" : "Student of IIITA"
+     },
   {
    "name": "Deepika Kumari",
     "imageurl": "https://avatars.githubusercontent.com/u/79990971?s=400&v=4",
@@ -1346,7 +1378,6 @@
 		"twitter": "",
 		"referral": "college"
 	},
-
 	{
 		"name" : "YASH JAIN",
 		 "imageurl" : "https://avatars.githubusercontent.com/u/76126720?s=400&v=4",
@@ -1397,7 +1428,6 @@
     "referral": "none"
   },
   {
-       
     "name": "Karan Chhabra",
     "imageurl": "https://avatars.githubusercontent.com/u/76587341?s=400&u=4747e2c0ebde0b7a550ca0081ae9b2227c5ff1f6&v=4",
     "about": "I am a Conpititive Programmer with a keen interest in Front-end Web Development",
@@ -1406,10 +1436,30 @@
     "github": "https://github.com/karankc23/",
     "twitter": "",
     "referral": "via college"
-
   },
   {
-  "name" : "Sarthak",
+    "name": "Archita Gautam",
+    "imageurl": "	https://avatars.githubusercontent.com/u/88106920?s=400&v=4",
+    "about": "I am a Web Developer",
+    "college": "Thapar Institute of Technology and Engineering",
+    "facebook": "",
+    "github": "https://github.com/Archita-13",
+    "twitter": "",
+    "referral": "via college"
+  }
+  ,
+   {
+      "name" : "Pranjay Vats",
+      "imageurl" : "https://drive.google.com/file/d/1nxAXTVxGlvmYrRhE0mvXa2Owr83k8JY1/view?usp=sharing",
+      "about" : "Hey, I am a third year student in GGSIPU. I have some experience in front-end devolopment and currently exploring React JS.",
+      "college" : "Dr. Akhilesh Das Gupta Institute Of Technology & Management, Delhi",
+      "facebook" : "",
+      "github" : "github.com/PranjayVats",
+      "twitter" : "",
+      "referral" : "none"
+   },
+  {
+       "name" : "Sarthak",
        "imageurl" : "https://avatars.githubusercontent.com/u/75336745?v=4",
        "about" : "Hello I'm a web developer",
        "college" : "IIIT Allahabad",
