@@ -90,9 +90,6 @@
        "imageurl" : "https://avatars.githubusercontent.com/u/75743237?v=4",
        "about" : "Hello I am an Android developer",
        "college" : "IIIT Allahabad",
-       "facebook" : "",
-       "github" : "https://github.com/Darkknight131714",
-       "twitter" : "",
        "referral" : "Friends"
     },{
       "name" : "Abhay Parihar",
@@ -176,5 +173,14 @@
     "github" : "https://github.com/kumarpradumn",
     "twitter" : "",
     "referral" : " opencode "
- }
+ },{
+      "name" : "Naman Kaushal",
+       "imageurl" : "https://avatars.githubusercontent.com/u/76621668?v=4",
+       "about" : "Hello I'm a web developer",
+       "college" : "IIITA",
+        "facebook" : "",
+       "github" : "https://github.com/naman-c",
+       "twitter" : "",
+      "referral" : "Mentors and seniors",
+}
 ]
