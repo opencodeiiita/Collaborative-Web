@@ -513,6 +513,16 @@
     "referral": "None"
   },
   {
+    "name": "Gude Lakshmi",
+    "imageurl": "https://avatars.githubusercontent.com/u/76594886?s=400&v=4",
+    "about": "Hello I'm a web developer",
+    "college": "IIIT Allahabad",
+    "facebook": "",
+    "github": "https://github.com/gudelakshmi",
+    "twitter": "",
+    "referral": "college"
+  },
+  {
     "name" : "Shailesh Tiwari",
     "imageurl" : "https://avatars.githubusercontent.com/u/76761060?v=4",
     "about" : "Hello",
@@ -521,7 +531,8 @@
     "github" : "https://github.com/shlesh",
     "twitter" : "",
     "referral" : "Garvit sir OP"
-  },{
+  },
+  {
    "name": "Shadaan Hussain",
     "imageurl": "https://avatars.githubusercontent.com/u/75877797?v=4",
     "about": "I'm a web developer and a graphic designer.",
@@ -530,7 +541,16 @@
     "github": "https://github.com/shadaanhussain",
     "twitter": "",
     "referral": "Geekhaven"
-    
+  },
+  {
+    "name" : "Pratik Raghuvanshi",
+    "imageurl" : "https://avatars.githubusercontent.com/u/78345693?v=4",
+    "about" : "Machine Learning Enthusiast | Competitive Programmer",
+    "college" : "MITS Gwalior",
+    "facebook" : "https://www.facebook.com/pratik.raghuwanshi.184/",
+    "github" : "https://github.com/prxtikk-18",
+    "twitter" : "https://twitter.com/Prxtikk",
+    "referral" : "Sir Ashutosh Verma"
   },
   {
    "name": "Deepika Kumari",
@@ -552,4 +572,28 @@
     "twitter": "",
     "referral": ""
   }
+
+   {
+    "name": "Pranavi Tadivalasa",
+    "imageurl": "https://avatars.githubusercontent.com/u/76587467?v=4",
+    "about": "Hello I'm a web developer",
+    "college": "IIITA",
+    "facebook": "",
+    "github": "https://github.com/Ms-Error",
+    "twitter": "",
+    "referral": "Via College"
+  },
+
+  {
+
+    "name" : "Ramanpreet Singh",
+    "imageurl" : "https://avatars.githubusercontent.com/u/65950878?v=4",
+    "about" : "Hi, I am a MERN Stack developer who loves to create websites and web applications.",
+    "college" : "Bhagwan Mahaveer College of Engineering and Management, Sonipat",
+    "facebook" : "",
+    "github" : "https://github.com/raman5911",
+    "twitter" : "",
+    "referral" : "none"
+ }
+
 ]
