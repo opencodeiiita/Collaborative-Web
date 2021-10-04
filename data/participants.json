@@ -1372,5 +1372,16 @@
 	    "twitter": "",
 	    "referral": "via college"
 	  },
+	  
+	  {
+	    "name": "Gaurav Katiyar",
+	    "imageurl": "https://github.com/gaurav1058/First_to_merge/issues/1",
+	    "about": "New to open source",
+	    "college": "IIITA",
+	    "facebook": "N/A",
+	    "github": "https://github.com/gaurav1058",
+	    "twitter": "N/A",
+	    "referral": "none"
+	  },
 
 ]
