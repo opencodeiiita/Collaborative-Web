@@ -1317,5 +1317,15 @@
 		"github": "https://github.com/divakar932",
 		"twitter": "",
 		"referral": "college"
-	}
+	},
+	{
+       "name" : "Sarthak",
+       "imageurl" : "https://avatars.githubusercontent.com/u/75336745?v=4",
+       "about" : "Hello I'm a web developer",
+       "college" : "IIIT Allahabad",
+       "facebook" : "",
+       "github" : "https://github.com/daniel-aracquine",
+       "twitter" : "",
+       "referral" : "via college"
+    }
 ]
