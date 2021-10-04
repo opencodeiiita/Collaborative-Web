@@ -1,4 +1,5 @@
 
+
     
     {
 
@@ -12,6 +13,8 @@
        "referral" : ""
     },
     
+[
+
   {
     "name": "Vimal Vinayak",
     "imageurl": "https://avatars.githubusercontent.com/u/76625113?v=4",
@@ -587,7 +590,37 @@
     "referral": ""
   },
   {
-   "name": "Amiyanshu",
+    "name": "Sagnik Mandal",
+    "imageurl": "https://github.com/criticic.png",
+    "about": "Hello I'm a web developer",
+    "college": "",
+    "facebook": "",
+    "github": "https://github.com/criticic",
+    "twitter": "",
+    "referral": "via devfolio"
+  },
+  {
+		"name": "Monikinderjit Singh",
+		"imageurl": "https://avatars.githubusercontent.com/u/52850691?v=4",
+		"about": "Hello I'm a mobile developer",
+		"college": "IIIT Vadodara",
+		"facebook": "https://www.facebook.com/monik.inderjitsingh.3",
+		"github": "https://github.com/Monik09",
+		"twitter": "https://twitter.com/monikIJS",
+		"referral": ""
+	},
+  {
+        "name" : "Srishti Dhir",
+        "imageurl" : "https://avatars.githubusercontent.com/u/88854623?v=4",
+        "about" : "Hey am into Web-Development",
+        "college" : "IIIT Allahabad ",
+        "facebook" : "Null",
+        "github" : "",
+        "twitter" : "",
+        "referral" : "None"
+  },
+  { 
+    "name": "Amiyanshu",
     "imageurl": "https://avatars.githubusercontent.com/u/59080551?v=4",
     "about": "Hello,I am Amiyanshu.Based in India. Front End Web Developer. ",
     "college": "IIT BHU,Varanasi",
@@ -615,6 +648,7 @@
     "github": "https://github.com/Ms-Error",
     "twitter": "",
     "referral": "Via College"
+
   },
   {
     "name" : "Ramanpreet Singh",
@@ -625,7 +659,8 @@
     "github" : "https://github.com/raman5911",
     "twitter" : "",
     "referral" : "none"
-  },
+
+ },
   {
     "name": "Rahul Singh",
     "imageurl": "https://avatars.githubusercontent.com/u/76691609?s=400&u=7dab68887d8b923bc67e3f0e0ee422d6466452ec&v=4",
@@ -636,4 +671,6 @@
     "twitter": "",
     "referral": "GeekHaven"
   }
+
 ]
+
