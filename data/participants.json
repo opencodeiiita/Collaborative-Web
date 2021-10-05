@@ -30,6 +30,16 @@
     "referral": "mail from college authority"
   },
   {
+       "name" : "Perisetla Sri Satwik",
+       "imageurl" : "https://s-media-cache-ak0.pinimg.com/564x/24/66/14/24661421d8216c54f9488847f1b485ff.jpg",
+       "about" : "I am interested in web development",
+       "college" : "Indian Institute of Information Technology Allahabad",
+       "facebook" : "https://www.facebook.com/profile.php?id=100008357177868",
+       "github" : "https://github.com/satwik-060",
+       "twitter" : "",
+       "referral" : "student of IIITA"
+  }
+  {
     "name": "Vimal Vinayak",
     "imageurl": "https://avatars.githubusercontent.com/u/76625113?v=4",
     "about": "Hello I'm a web developer",
