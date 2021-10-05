@@ -1,5 +1,15 @@
 [
   {
+    "name": "Anirudh Agrawal",
+    "imageurl": "https://avatars.githubusercontent.com/u/52658089?v=4",
+    "about": "I am a learner trying to build native apps in flutter and know basic c++, c, python, dart/flutter",
+    "college": "NA",
+    "facebook": "",
+    "github": "https://github.com/anirudhhhh",
+    "twitter": "",
+    "referral": "My sister"
+  },
+  {
     "name": "Sourav Dey",
     "imageurl": "https://avatars.githubusercontent.com/u/74491716?v=4",
     "about": "I am a Python Developer and Machine learning Enthusiastist",
@@ -1563,6 +1573,17 @@
        "github" : "https://github.com/hotblooded058",
        "twitter" : "https://twitter.com/KbRubul",
        "referral" : "Noone"
-  }
+
+  },
+  {
+    "name" : "Aditya Pratap Singh",
+    "imageurl" : "https://avatars.githubusercontent.com/u/58381523",
+    "about" : "Hello I'm a web developer",
+    "college" : "Indraprastha Institute of Information Technology, New Delhi",
+    "facebook" : "",
+    "github" : "https://github.com/devmrfitz",
+    "twitter" : "",
+    "referral" : ""
+ }
 
 ]
