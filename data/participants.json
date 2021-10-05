@@ -1552,7 +1552,7 @@
     "github": "https://github.com/Abhisin90",
     "twitter": "",
     "referral": "GeekHaven"
-    },
+  },
   {
     "name": "Deepa Chaurasiya",
     "imageurl": "https://avatars.githubusercontent.com/u/78865653?s=400&u=1e13625a5dc79e0c43b1932520b46e005ec96e2e&v=4",
@@ -1564,37 +1564,46 @@
     "referral": "None"
   },
   {
-       "name" : "Sarthak",
-       "imageurl" : "https://avatars.githubusercontent.com/u/75336745?v=4",
-       "about" : "Hello I'm a web developer",
-       "college" : "IIIT Allahabad",
-       "facebook" : "",
-       "github" : "https://github.com/daniel-aracquine",
-       "twitter" : "",
-       "referral" : "via college"
+    "name": "Sarthak",
+    "imageurl": "https://avatars.githubusercontent.com/u/75336745?v=4",
+    "about": "Hello I'm a web developer",
+    "college": "IIIT Allahabad",
+    "facebook": "",
+    "github": "https://github.com/daniel-aracquine",
+    "twitter": "",
+    "referral": "via college"
   },
   {
-
-       "name" : "Sachin kumar Behera",
-       "imageurl" : "https://avatars.githubusercontent.com/u/88645562?s=400&u=0126f4bde33ec5d793aa90409a257980eb4aa0de&v=4",
-       "about" : "Hello I'm a web developer",
-       "college" : "IIIT-A",
-       "facebook" : "https://www.facebook.com/sachinkumarbehara",
-       "github" : "https://github.com/hotblooded058",
-       "twitter" : "https://twitter.com/KbRubul",
-       "referral" : "Noone"
+    "name": "Sachin kumar Behera",
+    "imageurl": "https://avatars.githubusercontent.com/u/88645562?s=400&u=0126f4bde33ec5d793aa90409a257980eb4aa0de&v=4",
+    "about": "Hello I'm a web developer",
+    "college": "IIIT-A",
+    "facebook": "https://www.facebook.com/sachinkumarbehara",
+    "github": "https://github.com/hotblooded058",
+    "twitter": "https://twitter.com/KbRubul",
+    "referral": "Noone"
   },
   {
-    "name" : "Aditya Pratap Singh",
-    "imageurl" : "https://avatars.githubusercontent.com/u/58381523",
-    "about" : "Hello I'm a web developer",
-    "college" : "Indraprastha Institute of Information Technology, New Delhi",
-    "facebook" : "",
-    "github" : "https://github.com/devmrfitz",
-    "twitter" : "",
-    "referral" : "none"
- },
-   {
+    "name": "Aditya Pratap Singh",
+    "imageurl": "https://avatars.githubusercontent.com/u/58381523",
+    "about": "Hello I'm a web developer",
+    "college": "Indraprastha Institute of Information Technology, New Delhi",
+    "facebook": "",
+    "github": "https://github.com/devmrfitz",
+    "twitter": "",
+    "referral": ""
+  },
+  {
+    "name": "Niyoj Oli",
+    "imageurl": "https://avatars.githubusercontent.com/u/84063586",
+    "about": "Hello I'm a first year undergraduate student who is very interested to learn new things and contribute to open source.",
+    "college": "Thapathali Engineering Campus, Nepal",
+    "facebook": "https://www.fb.com/oli.niyoj",
+    "github": "https://github.com/niyoj",
+    "twitter": "",
+    "referral": ""
+  },
+  {
     "name": "Gauttam Goyal",
     "imageurl": "https://avatars.githubusercontent.com/u/75711430?v=4",
     "about": "Hello I'm a web developer",
@@ -1604,14 +1613,14 @@
     "twitter": "",
     "referral": "Via College"
   },
-    {
-       "name" : "Anuj Jain",
-       "imageurl" : "https://drive.google.com/file/d/1RjUFvDtUnq-AaKqhbbhkqOxnvvmEsShT/view?usp=sharing",
-       "about" : "Hello I'm a web developer",
-       "college" : "IIIT Allahabad",
-       "facebook" : "",
-       "github" : "https://github.com/anuj046/",
-       "twitter" : "",
-       "referral" : "no one"
-    }
+  {
+    "name": "Anuj Jain",
+    "imageurl": "https://drive.google.com/file/d/1RjUFvDtUnq-AaKqhbbhkqOxnvvmEsShT/view?usp=sharing",
+    "about": "Hello I'm a web developer",
+    "college": "IIIT Allahabad",
+    "facebook": "",
+    "github": "https://github.com/anuj046/",
+    "twitter": "",
+    "referral": "no one"
+  }
 ]
