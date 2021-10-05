@@ -1573,6 +1573,16 @@
     "github" : "https://github.com/devmrfitz",
     "twitter" : "",
     "referral" : ""
- }
+ },
+  {
+    "name": "Lahari",
+    "imageurl": "https://avatars.githubusercontent.com/u/76626105?v=4",
+    "about": "New to open source",
+    "college": "IIITA",
+    "facebook": "N/A",
+    "github": "https://github.com/lahari431",
+    "twitter": "N/A",
+    "referral": "none"
+  } 
 
 ]
