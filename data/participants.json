@@ -1564,5 +1564,28 @@
        "twitter" : "",
        "referral" : "via college"
 
-  }
+  },
+  {
+
+       "name" : "Sachin kumar Behera",
+       "imageurl" : "https://avatars.githubusercontent.com/u/88645562?s=400&u=0126f4bde33ec5d793aa90409a257980eb4aa0de&v=4",
+       "about" : "Hello I'm a web developer",
+       "college" : "IIIT-A",
+       "facebook" : "https://www.facebook.com/sachinkumarbehara",
+       "github" : "https://github.com/hotblooded058",
+       "twitter" : "https://twitter.com/KbRubul",
+       "referral" : "Noone"
+  },
+  {
+    "name" : "Aditya Pratap Singh",
+    "imageurl" : "https://avatars.githubusercontent.com/u/58381523",
+    "about" : "Hello I'm a web developer",
+    "college" : "Indraprastha Institute of Information Technology, New Delhi",
+    "facebook" : "",
+    "github" : "https://github.com/devmrfitz",
+    "twitter" : "",
+    "referral" : ""
+ }
+
+
 ]
