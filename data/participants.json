@@ -1,4 +1,5 @@
-[{
+[
+  {
     "name": "Sourav Dey",
     "imageurl": "https://avatars.githubusercontent.com/u/74491716?v=4",
     "about": "I am a Python Developer and Machine learning Enthusiastist",
@@ -592,7 +593,6 @@
     "referral": "Sir Ashutosh Verma"
   },
   {
-
     "name": "D Akshitha",
     "imageurl": "https://avatars.githubusercontent.com/u/76589891?s=400&v=4",
     "about": "Hello I'm beginner in webd",
@@ -1355,9 +1355,6 @@
     "twitter": "",
     "referral": ""
   },
-
-
-
   {
     "name": "Neha Singh",
     "imageurl": "https://avatars.githubusercontent.com/u/78967830?v=4",
@@ -1388,7 +1385,6 @@
     "twitter": "",
     "referral": "Seniors of IIITA"
   },
-
   {
     "name": "Sauhard Srivastava",
     "imageurl": "https://avatars.githubusercontent.com/u/73341891?s=400&u=1eeaeef21214f83505726a7afe5e2b91d995677d&v=4",
@@ -1444,11 +1440,9 @@
     "college": "Thapar Institute of Technology and Engineering",
     "facebook": "",
     "github": "https://github.com/Archita-13",
-
     "twitter": "",
     "referral": "via college"
   },
-
   {
     "name": "Karus Manisha",
     "imageurl": "",
@@ -1480,7 +1474,6 @@
     "referral": "via college"
   },
   {
-
     "name": "Vikas gupta",
     "imageurl": "https://avatars.githubusercontent.com/u/76587415?s=400&v=4",
     "about": "Hello I'm a web developer",
@@ -1509,5 +1502,15 @@
     "Github": "https://github.com/naman-cr",
     "Twitter": "",
     "Referral": "IIITA"
+  },
+  {
+    "name": "Baljot Singh",
+    "imageurl": "https://avatars.githubusercontent.com/u/91846360?s=40&v=4",
+    "about": "Hello I'm a web developer & competetive programer",
+    "college": "IIIT Allahabad",
+    "facebook": "",
+    "github": "https://github.com/Perry0107",
+    "twitter": "",
+    "referral": "Geekhaven"
   }
 ]
