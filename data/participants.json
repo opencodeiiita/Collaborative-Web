@@ -1582,7 +1582,16 @@
     "facebook" : "",
     "github" : "https://github.com/devmrfitz",
     "twitter" : "",
-    "referral" : ""
- }
-
+    "referral" : "none"
+ },
+   {
+    "name": "Gauttam Goyal",
+    "imageurl": "https://avatars.githubusercontent.com/u/75711430?v=4",
+    "about": "Hello I'm a web developer",
+    "college": "IIITA",
+    "facebook": "",
+    "github": "https://github.com/Gauttam-Goyal",
+    "twitter": "",
+    "referral": "Via College"
+  }
 ]
