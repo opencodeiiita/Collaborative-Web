@@ -1512,5 +1512,17 @@
         "github" : "https://github.com/schandu-eng",
         "twitter" : "https://twitter.com/SauravChandawa1",
         "referral" : "Geekhaven"
-     }
+     },
+  {
+
+      "name" : "Revathi Ari",
+      "imageurl" : "",
+      "about" : "Hello I'm a web developer",
+      "college" : "Indian Institute Of Information and Technology Allahabad",
+      "facebook" : "",
+      "github" : "https://github.com/Revathi2306",
+      "twitter" : "",
+      "referral" : "via college"
+    }
+
 ]
