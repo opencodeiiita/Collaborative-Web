@@ -542,3 +542,46 @@ li span {
   background-color: #ebf1fa;
   transition: 0.5s;
 }
+
+#footer .social-links{
+  text-align: center;
+}
+
+#footer .social-links a{
+  font-size: 20px;
+  width: 36px;
+  height: 36px;
+  display: inline-block;
+  box-shadow: 0 0 0 1px #413e66;
+  text-align: center;
+  border-radius: 50%;
+  padding-top: 0.2em;
+  
+  text-decoration: none;
+  color: #413e66;
+}
+
+#footer .logos-left{
+  padding-top: 0.5em;
+  display: inline-block;
+  
+}
+
+#footer .logos-left img{
+  height: 4em;
+ 
+
+}
+
+#footer .logos-right{
+  display: flex;
+  flex-direction: row-reverse;
+  padding-top: 0.5em;
+ 
+  
+}
+
+#footer .logos-right img{
+  height:4em;
+ 
+}
