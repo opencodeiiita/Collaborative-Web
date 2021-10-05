@@ -10,6 +10,16 @@
 	"referral": "via LinkedIn"
   },
   {
+    "name": "Anirudh Agrawal",
+    "imageurl": "https://avatars.githubusercontent.com/u/52658089?v=4",
+    "about": "I am a learner trying to build native apps in flutter and know basic c++, c, python, dart/flutter",
+    "college": "NA",
+    "facebook": "",
+    "github": "https://github.com/anirudhhhh",
+    "twitter": "",
+    "referral": "My sister"
+  },
+  {
     "name": "Sourav Dey",
     "imageurl": "https://avatars.githubusercontent.com/u/74491716?v=4",
     "about": "I am a Python Developer and Machine learning Enthusiastist",
@@ -1532,5 +1542,57 @@
     "github": "https://github.com/rankit2001",
     "twitter": "",
     "referral": "Geekhaven"
-  }
+  },
+  {
+    "name": "Abhinav Singh",
+    "imageurl": "https://avatars.githubusercontent.com/u/76687130?v=4",
+    "about": "Hello I am Competitive Programmer",
+    "college": "IIIT Allahabad",
+    "facebook": "https://www.facebook.com/profile.php?id=100059378544730",
+    "github": "https://github.com/Abhisin90",
+    "twitter": "",
+    "referral": "GeekHaven"
+    },
+  {
+    "name": "Deepa Chaurasiya",
+    "imageurl": "https://avatars.githubusercontent.com/u/78865653?s=400&u=1e13625a5dc79e0c43b1932520b46e005ec96e2e&v=4",
+    "about": "Hello, I'm a Third-year student and I'm trying to learn new skills ",
+    "college": "Sinhgad Institute of technology",
+    "facebook": "",
+    "github": "https://github.com/Deepa-chaurasiya01",
+    "twitter": "",
+    "referral": "None"
+  },
+  {
+       "name" : "Sarthak",
+       "imageurl" : "https://avatars.githubusercontent.com/u/75336745?v=4",
+       "about" : "Hello I'm a web developer",
+       "college" : "IIIT Allahabad",
+       "facebook" : "",
+       "github" : "https://github.com/daniel-aracquine",
+       "twitter" : "",
+       "referral" : "via college"
+  },
+  {
+
+       "name" : "Sachin kumar Behera",
+       "imageurl" : "https://avatars.githubusercontent.com/u/88645562?s=400&u=0126f4bde33ec5d793aa90409a257980eb4aa0de&v=4",
+       "about" : "Hello I'm a web developer",
+       "college" : "IIIT-A",
+       "facebook" : "https://www.facebook.com/sachinkumarbehara",
+       "github" : "https://github.com/hotblooded058",
+       "twitter" : "https://twitter.com/KbRubul",
+       "referral" : "Noone"
+  },
+  {
+    "name" : "Aditya Pratap Singh",
+    "imageurl" : "https://avatars.githubusercontent.com/u/58381523",
+    "about" : "Hello I'm a web developer",
+    "college" : "Indraprastha Institute of Information Technology, New Delhi",
+    "facebook" : "",
+    "github" : "https://github.com/devmrfitz",
+    "twitter" : "",
+    "referral" : ""
+ }
+
 ]
