@@ -1512,5 +1512,17 @@
         "github" : "https://github.com/schandu-eng",
         "twitter" : "https://twitter.com/SauravChandawa1",
         "referral" : "Geekhaven"
+     },
+
+       {
+
+        "name" : "Vishal Sharma",
+        "imageurl" : "https://avatars.githubusercontent.com/u/81310468?v=4",
+        "about" : "Hello I'm a web Developer",
+        "college" : "George College, WestBengal",
+        "facebook" : "https://www.facebook.com/profile.php?id=100049597718549",
+        "github" : "https://github.com/mrvishalsharma",
+        "twitter" : "",
+        "referral" : "Null"
      }
 ]
