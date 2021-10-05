@@ -1563,8 +1563,20 @@
        "github" : "https://github.com/hotblooded058",
        "twitter" : "https://twitter.com/KbRubul",
        "referral" : "Noone"
-  }
-{
+
+  },
+
+  {
+    "name" : "Aditya Pratap Singh",
+    "imageurl" : "https://avatars.githubusercontent.com/u/58381523",
+    "about" : "Hello I'm a web developer",
+    "college" : "Indraprastha Institute of Information Technology, New Delhi",
+    "facebook" : "",
+    "github" : "https://github.com/devmrfitz",
+    "twitter" : "",
+    "referral" : ""
+ },
+  {
     "name": "BOTTE SHREYA",
     "imageurl": "https://avatars.githubusercontent.com/u/87261538?s=96&v=4",
     "about": "I am a frontend Web developer",
@@ -1574,4 +1586,6 @@
     "twitter": "",
     "referral": ""
   }
+
 ]
+
