@@ -5,11 +5,10 @@ const BASE_URL = 'https://opencodeiiita.herokuapp.com/get-all-data/?page=1';
 const prev = document.getElementById('prev');
 const next = document.getElementById('next');
 const current = document.getElementById('current');
-
+var pointSet = new Set();
 var currentPage = 1;
 var nextPage = 2;
 var prevPage = 0;
-var lastUrl = '';
 var totalPages = 100;
 
 function getData(url, currPage) {
@@ -25,33 +24,40 @@ function getData(url, currPage) {
       return (participantsData = pageData.data);
     })
     .then(data => {
-      console.log(data);
+      data.forEach(elem => {
+        pointSet.add(elem.totalPoints);
+      });
+      return data;
+    })
+    .then(data => {
       addToTable(data);
     });
-  document.getElementById('current').innerHTML = `${currentPage}`;
-  console.log(currentPage);
-  nextPage = currentPage + 1;
-  console.log(nextPage);
-  console.log(prevPage);
 
+  document.getElementById('current').innerHTML = `${currentPage}`;
+  nextPage = currentPage + 1;
   totalPages = 250;
 }
 
 function addToTable(arr) {
-  var set = new Set();
-  for (i = 0; i < arr.length; i++) {
-    set.add(arr[i].totalPoints);
-  }
-  var i;
-  for (i = 0; i < arr.length; i++) {
-    user = arr[i].username;
-    points = arr[i].totalPoints;
-    name = arr[i].name;
-
-    rank = [...set].indexOf(arr[i].totalPoints) + 1;
+  let rank = 0;
+  for (var i = 0; i < arr.length; i++) {
+    let user = arr[i].username;
+    let points = arr[i].totalPoints;
+    let fullName = arr[i].name;
+    rank = [...pointSet].indexOf(points) + 1;
     let markup =
-      '<tr>><td>' + user + '</td><td> ' + '&nbsp;' + points + '</td><td> ' + '&nbsp;' + name + '</td></tr>';
-
+      '<tr><td>' +
+      rank +
+      '</td><td> ' +
+      '&nbsp;' +
+      user +
+      '</td><td> ' +
+      '&nbsp;' +
+      points +
+      '</td><td> ' +
+      '&nbsp;' +
+      fullName +
+      '</td></tr>';
     $('table tbody').append(markup);
   }
 }
