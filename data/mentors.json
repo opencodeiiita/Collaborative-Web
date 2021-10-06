@@ -1,11 +1,18 @@
 [
     {
-
         "name" : "Garvit Chittora",
         "imageurl" : "https://github.com/garvitchittora.png",
         "about" : "Organiser",
         "facebook" : "https://www.facebook.com/garvit.chittora.90",
         "github" : "https://github.com/garvitchittora",
         "twitter" : "https://twitter.com/ChittoraGarvit"
+    },
+    {
+        "name" : "Vishesh Mittal",
+        "imageurl" : "https://github.com/elemento24.png",
+        "about" : "Organiser",
+        "facebook" : "https://www.facebook.com/elemento24",
+        "github" : "https://github.com/elemento24",
+        "twitter" : "https://twitter.com/elemento24_"
     }  
 ]
