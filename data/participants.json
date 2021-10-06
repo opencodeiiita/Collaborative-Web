@@ -1862,4 +1862,15 @@
       "referral" : "via college"
     }
 
+  },
+  {
+    "name": "Shivam",
+    "imageurl": "https://avatars.githubusercontent.com/u/75888154?s=400&v=4",
+    "about": "Beginner",
+    "college": "IIITA",
+    "facebook": "",
+    "github": "https://github.com/Shivamcoli",
+    "twitter": "",
+    "referral": "Devfolio"
+  }
 ]
