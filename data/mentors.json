@@ -22,5 +22,13 @@
         "facebook" : "https://www.facebook.com/mudit.agarwal.1848/",
         "github" : "https://github.com/Mudit018",
         "twitter" : "https://twitter.com/mMudit5"
+    },  
+    {
+        "name" : "Denis Balan",
+        "imageurl" : "https://github.com/DenisBalan.png",
+        "about" : "Denis Balan - Mentor, Developer, Speaker, Devops ( https://denis.md/ )",
+        "facebook" : "",
+        "github" : "https://github.com/DenisBalan",
+        "twitter" : "https://twitter.com/DenisBalans"
     }
 ]
