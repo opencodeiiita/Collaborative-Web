@@ -72,7 +72,7 @@ h6 {
 --------------------------------------------------------------*/
 
 #header {
-  height: 180px;
+  height: 100px;
   transition: all 0.5s;
   z-index: 997;
   transition: all 0.5s;
@@ -87,7 +87,7 @@ h6 {
 
 #header.header-scrolled,
 #header.header-pages {
-  height: 90px;
+  height: 70px;
   padding: 15px 0;
   background-color: #fff;
   box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.3);
@@ -134,16 +134,17 @@ h6 {
   position: relative;
   background: #f5f8fd url('../img/intro-bg.jpg') center top no-repeat;
   background-size: cover;
+  color: #413E66;
 }
 
-#intro .intro-info h2 {
+#intro .intro-info h3 {
   color: #413e66;
   margin-bottom: 40px;
-  font-size: 48px;
-  font-weight: 700;
+  font-size: 45px;
+  font-weight: 500;
 }
 
-#intro .intro-info h2 span {
+#intro .intro-info h3 span {
   color: #1bb1dc;
 }
 
@@ -159,7 +160,7 @@ h6 {
   border-radius: 4px;
   transition: 0.5s;
   color: #fff;
-  background: #1bb1dc;
+  background: #413E66;
   color: #fff;
 }
 
