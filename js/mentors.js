@@ -1,4 +1,4 @@
-fetch('data/mentors.json')
+fetch('./data/mentors.json')
 .then(function (response) {
     return response.json();
 })
