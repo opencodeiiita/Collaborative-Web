@@ -1723,6 +1723,16 @@
     "twitter": "",
     "referral": "through seniors"
   },
+   {
+    "name": "Sachin kumar Behera",
+    "imageurl": "https://avatars.githubusercontent.com/u/88645562?s=40&v=4",
+    "about": "Hello I'm a web developer",
+    "college": "IIIT Allahabad",
+    "facebook": "",
+    "github": "",
+    "twitter": "",
+    "referral": "none"
+   },
   {
 
     "name": "Laalasa Krishna",
@@ -1743,5 +1753,36 @@
     "github": "https://github.com/krypton001",
     "twitter": "",
     "referral": "GeekHaven"
+  },
+  {
+    "name": "MUKILAN S",
+    "imageurl": "https://avatars.githubusercontent.com/u/65155327?v=4",
+    "about": "Hey Guys, I am Full Stack Developer",
+    "college": "NSCET, Theni",
+    "facebook": "",
+    "github": "https://github.com/MUKILAN-2003",
+    "twitter": "",
+    "referral": "Devfolio"
+
+  },
+  {
+    "name": "Shivam",
+    "imageurl": "https://avatars.githubusercontent.com/u/75888154?s=400&v=4",
+    "about": "Beginner",
+    "college": "IIITA",
+    "facebook": "",
+    "github": "https://github.com/Shivamcoli",
+    "twitter": "",
+    "referral": "Devfolio"
+  },
+  {
+    "name" : "Harsh Gupta",
+    "imageurl" : "https://avatars.githubusercontent.com/u/75782910?s=96&v=4",
+    "about" : "Hey there, I am a Web Developer and also a Competitive Coder",
+    "college" : "Indian Institute of Information Technology Guwahati",
+    "facebook" : "",
+    "github" : "https://github.com/Harshgupta5901",
+    "twitter" : "",
+    "referral" : "via a friend"
+
   }
-]
