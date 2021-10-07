@@ -10,6 +10,7 @@
   <!-- Favicons -->
   <link href="img/favicon.png" rel="icon">
   <link href="img/apple-touch-icon.png" rel="apple-touch-icon">
+  <script src="https://use.fontawesome.com/releases/v5.15.3/js/all.js" crossorigin="anonymous"></script>
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,500,600,700,700i|Montserrat:300,400,500,600,700" rel="stylesheet">
@@ -29,6 +30,7 @@
 </head>
 
 <body>
+  <a href="#" id="scroll" style="display: none;"><span></span></a>
   <!--==========================
   Header
   ============================-->
@@ -157,6 +159,31 @@
 
     </section><!-- #about -->
 
+     <!--==========================
+      Participants Section
+    ============================-->
+    <section id="participants">
+      <h1 class="participantsHeading">Participants</h1>
+      <table class="pointsTable" id="pointsTable">
+        <thead>
+          <tr>
+            <th>Rank</th>
+            <th>Username</th>
+            <th>Points</th>
+            <th>Name</th>
+          </tr>
+        </thead>
+        <tbody id="participantsList"></tbody>
+      </table>
+
+      <div class="pagination">
+        <div class="page" id="prev">Previous Page</div>
+        <div class="current" id="current">1</div>
+        <div class="page" id="next">Next Page</div>
+      </div>
+    </section>
+    <!-- #Participants -->
+
 
     
 
@@ -174,12 +201,26 @@
 
          
 
-          <div class="col-lg-6">
-
-
+          <div class="col-lg-4">
+            <img src="img/iita_logo.png" alt="" height="80" width="80" >
+            <img src="img/geekhaven.png" alt="" height="80" width="80" >
+            
+          </div>
+          <br>
+          <div class="col-lg-4 col-centered">
+            <p style="text-align: center;">
+              <br>
+            <a class="mx-2" href="https://www.facebook.com/opencodeiiita/"><i class="fab fa-facebook fa-2x"></i> </a>
+            <a class="mx-2" href="https://twitter.com/geekhaveniiita"><i class="fab fa-twitter fa-2x"></i> </a>
+            <a class="mx-2" href="https://github.com/opencodeiiita"><i class="fab fa-github fa-2x"></i> </a>
+          </p>
+          
           </div>
 
-          
+          <div class="col-lg-4 ">
+            <img src="img/oc.png" alt="Whoa" style="padding-top:10px" align="right" height="80" width="80">
+          </div>
+
 
         </div>
 
@@ -187,7 +228,7 @@
     </div>
 
     <div class="container">
-      <div class="copyright">
+      <div class="text-center p-2">
         &copy; Copyright <strong>OC</strong>. All Rights Reserved
       </div>
       
@@ -216,6 +257,8 @@
 
   <!-- Template Main Javascript File -->
   <script src="js/main.js"></script>
+  <!-- Pagination Javascript File -->
+  <script src="js/pagination.js"></script>
 
 </body>
 </html>

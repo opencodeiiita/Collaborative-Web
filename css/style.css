@@ -169,6 +169,41 @@ h6 {
 }
 
 /*--------------------------------------------------------------
+# Back to Top
+--------------------------------------------------------------*/
+#scroll {
+  position: fixed;
+  right: 10px;
+  bottom: 10px;
+  cursor: pointer;
+  width: 50px;
+  height: 50px;
+  background-color: #1bb1dc;
+  text-indent: -9999px;
+  display: none;
+  -webkit-border-radius: 60px;
+  -moz-border-radius: 60px;
+  border-radius: 60px;
+}
+#scroll span {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-left: -8px;
+  margin-top: -12px;
+  height: 0;
+  width: 0;
+  border: 8px solid transparent;
+  border-bottom-color: #ffffff;
+}
+#scroll:hover {
+  background-color: #e74c3c;
+  opacity: 1;
+  filter: 'alpha(opacity=100)';
+  -ms-filter: 'alpha(opacity=100)';
+}
+
+/*--------------------------------------------------------------
 # Navigation Menu
 --------------------------------------------------------------*/
 
@@ -542,3 +577,54 @@ li span {
   background-color: #ebf1fa;
   transition: 0.5s;
 }
+
+/* Participants Section
+--------------------------------*/
+/* .participants {
+} */
+.participantsHeading {
+  text-align: center;
+}
+#pointsTable {
+  margin-left: auto;
+  margin-right: auto;
+}
+/* 
+th,
+td {
+  padding: 0em, 5em;
+} */
+
+.pagination {
+  display: flex;
+  /* margin: 10px 30px; */
+  align-items: center;
+  justify-content: center;
+  color: #000;
+  padding-top: 3%;
+}
+
+.page {
+  padding: 20px;
+  cursor: pointer;
+}
+
+.page.disabled {
+  cursor: not-allowed;
+  color: grey;
+}
+
+.current {
+  padding: 10px 20px;
+  border-radius: 50%;
+  border: 5px solid orange;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+/* Media Queries */
+/* @media (min-width: 400px) and (max-width: 800px) {
+  #pointsTable {
+    margin: 8rem 4rem 20%; 
+  }
+} */
