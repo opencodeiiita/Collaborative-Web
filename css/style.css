@@ -72,7 +72,7 @@ h6 {
 --------------------------------------------------------------*/
 
 #header {
-  height: 110px;
+  height: 180px;
   transition: all 0.5s;
   z-index: 997;
   transition: all 0.5s;
@@ -87,7 +87,7 @@ h6 {
 
 #header.header-scrolled,
 #header.header-pages {
-  height: 70px;
+  height: 90px;
   padding: 15px 0;
   background-color: #fff;
   box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.3);
@@ -452,7 +452,7 @@ h6 {
 /* Count Down Timer Section
 --------------------------------*/
 .countdownSection {
-  background: #37383d url('../img/countdown-bg.png') center top no-repeat;
+  background:   #f5f8fd;/*#37383durl('../img/countdown-bg.png') center top no-repeat;*/
   align-items: center;
   display: flex;
   font-family: 'Montserrat', sans-serif;
@@ -473,6 +473,7 @@ h6 {
   font-weight: normal;
   letter-spacing: 0.125rem;
   text-transform: uppercase;
+  color: #413E66;
 }
 
 #countdown-time > li {
@@ -481,6 +482,7 @@ h6 {
   list-style-type: none;
   padding: 1em;
   text-transform: uppercase;
+  color: #413E66;
 }
 
 li span {
