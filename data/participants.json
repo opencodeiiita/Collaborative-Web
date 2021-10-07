@@ -1774,7 +1774,19 @@
     "twitter" : "",
     "referral" : "via a friend"
 
+  },
+  {
+    "name" : "Krishna Shah",
+    "imageurl" : "https://avatars.githubusercontent.com/u/75926051?v=4",
+    "about" : "Hey, I'm exploring Web Development!",
+    "college" : "Indian Institute of Information Technology Allahabad",
+    "facebook" : "",
+    "github" : "https://github.com/Krishna3267",
+    "twitter" : "",
+    "referral" : "GeekHaven"
+
   }
+  
 
   
 ]
