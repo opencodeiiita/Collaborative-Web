@@ -1,13 +1,13 @@
 [
   {
-    "name": "Vaibhav Sahu",
-    "imageurl": "https://avatars.githubusercontent.com/u/45689747?v=4",
-    "about": "Hello I'm a Software Developer. I know technologies like PHP, Flutter, C++.",
-    "college": "Chhatrapati Shivaji Institute Of Technology, Durg",
-    "facebook": "",
-    "github": "https://github.com/vaibhavsahu342",
-    "twitter": "https://twitter.com/vaibhav_sahu_",
-    "referral": "via LinkedIn"
+	"name": "Vaibhav Sahu",
+	"imageurl": "https://avatars.githubusercontent.com/u/45689747?v=4",
+	"about": "Hello I'm a Software Developer. I know technologies like PHP, Flutter, C++.",
+	"college": "Chhatrapati Shivaji Institute Of Technology, Durg",
+	"facebook": "",
+	"github": "https://github.com/vaibhavsahu342",
+	"twitter": "https://twitter.com/vaibhav_sahu_",
+	"referral": "via LinkedIn"
   },
   {
     "name": "Anirudh Agrawal",
@@ -745,7 +745,7 @@
   {
     "name": "Ritwik Rajput",
     "imageurl": "https://avatars.githubusercontent.com/u/76650941?v=4",
-    "about": "Hello I'm a web developer",
+    "about": "Hello I'm a web developer",	
     "college": "IIITA",
     "facebook": "",
     "github": "https://github.com/kaneki-ken260",
@@ -1723,6 +1723,16 @@
     "twitter": "",
     "referral": "through seniors"
   },
+   {
+    "name": "Sachin kumar Behera",
+    "imageurl": "https://avatars.githubusercontent.com/u/88645562?s=40&v=4",
+    "about": "Hello I'm a web developer",
+    "college": "IIIT Allahabad",
+    "facebook": "",
+    "github": "",
+    "twitter": "",
+    "referral": "none"
+   },
   {
     "name": "Shivam Katiyar",
     "imageurl": "https://avatars.githubusercontent.com/u/76717458?v=4",
@@ -1742,6 +1752,7 @@
     "github": "https://github.com/MUKILAN-2003",
     "twitter": "",
     "referral": "Devfolio"
+
   },
   {
     "name": "Shivam",
@@ -1762,6 +1773,7 @@
     "github" : "https://github.com/Harshgupta5901",
     "twitter" : "",
     "referral" : "via a friend"
+
   }
 
   
