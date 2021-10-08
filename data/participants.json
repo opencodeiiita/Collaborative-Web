@@ -1764,6 +1764,16 @@
     "referral": "Devfolio"
   },
   {
+       "name" : "Surya Kant",
+       "imageurl" : "https://avatars.githubusercontent.com/u/55610604?v=4",
+       "about" : "Hello, I am a newbie in Web Development and open source",
+       "college" : "IIITA",
+       "facebook" : "",
+       "github" : "https://github.com/KantSurya",
+       "twitter" : "https://twitter.com/SuryaSKant",
+       "referral" : "GeekHaven"
+    },
+  {
     "name" : "Harsh Gupta",
     "imageurl" : "https://avatars.githubusercontent.com/u/75782910?s=96&v=4",
     "about" : "Hey there, I am a Web Developer and also a Competitive Coder",
