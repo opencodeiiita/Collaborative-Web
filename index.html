@@ -159,9 +159,44 @@
 
     </section><!-- #about -->
 
+    <!-- Mentors! -->
+    <h1 style="text-align: center;">Mentors</h1>
+    <div id="mentors"></div>
 
+     <!--==========================
+      Participants Section
+    ============================-->
+    <section id="participants">
+      <h1 class="participantsHeading">Participants</h1>
+      <table class="pointsTable" id="pointsTable">
+        <thead>
+          <tr>
+            <th>Rank</th>
+            <th>Username</th>
+            <th>Points</th>
+            <th>Name</th>
+          </tr>
+        </thead>
+        <tbody id="participantsList"></tbody>
+      </table>
+
+      <div class="pagination">
+        <div class="page" id="prev">Previous Page</div>
+        <div class="current" id="current">1</div>
+        <div class="page" id="next">Next Page</div>
+      </div>
+    </section>
+    <!-- #Participants -->
+   
+    <!--==========================
+      Projects Section
+    ============================-->
+      <section id="projects">
+        <h1>Projects</h1>
+        <div id="projectCardsContainer"></div>
+      </section>
+      <!-- #Projects -->
     
-
   </main>
 
   <!--==========================
@@ -227,11 +262,20 @@
   <script src="lib/owlcarousel/owl.carousel.min.js"></script>
   <script src="lib/isotope/isotope.pkgd.min.js"></script>
   <script src="lib/lightbox/js/lightbox.min.js"></script>
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.7.0/d3.min.js"></script>
+  
   <!-- Contact Form JavaScript File -->
   <script src="contactform/contactform.js"></script>
 
   <!-- Template Main Javascript File -->
   <script src="js/main.js"></script>
+  <!-- Pagination Javascript File -->
+  <script src="js/pagination.js"></script>
+
+  <!-- Mentors Javascript File -->
+  <script src="js/mentors.js"></script>
+  <!-- Projects Javascript File -->
+    <script src="js/projects.js"></script>
 
 </body>
 </html>
