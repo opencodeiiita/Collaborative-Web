@@ -1742,8 +1742,7 @@
     "github": "https://github.com/krypton001",
     "twitter": "",
     "referral": "GeekHaven"
-  },
-  {
+  },{
     "name": "MUKILAN S",
     "imageurl": "https://avatars.githubusercontent.com/u/65155327?v=4",
     "about": "Hey Guys, I am Full Stack Developer",
@@ -1789,6 +1788,16 @@
     "college": "Indian Institute of Information Technology, Allahabad",
     "facebook": "",
     "github": "https://github.com/visheshjain01",
+    "twitter": "",
+    "referral": "None"
+  },
+  {
+    "name": "Pranjal Katiyar",
+    "imageurl": "https://avatars.githubusercontent.com/u/76843696?s=400&v=4",
+    "about": "Hello I am  a web developer",
+    "college": "IIIT Vadodara",
+    "facebook": "",
+    "github": "https://github.com/pranjalkatiyar",
     "twitter": "",
     "referral": "None"
   }
