@@ -1742,7 +1742,8 @@
     "github": "https://github.com/krypton001",
     "twitter": "",
     "referral": "GeekHaven"
-  },{
+  },
+  {
     "name": "MUKILAN S",
     "imageurl": "https://avatars.githubusercontent.com/u/65155327?v=4",
     "about": "Hey Guys, I am Full Stack Developer",
@@ -1850,5 +1851,15 @@
     "github" : "https://github.com/Pratik-Sarkate",
     "twitter" : "https://twitter.com/prtks_22",
     "referral" : "Geekhaven"
+  },
+  {
+    "name" : "Krishna Shah",
+    "imageurl" : "https://avatars.githubusercontent.com/u/75926051?v=4",
+    "about" : "Hey, I'm exploring Web Development!",
+    "college" : "Indian Institute of Information Technology Allahabad",
+    "facebook" : "",
+    "github" : "https://github.com/Krishna3267",
+    "twitter" : "",
+    "referral" : "GeekHaven"
   }
 ]
