@@ -1,11 +1,24 @@
 const issuesContainer = document.querySelector('.project-issues-container');
+const pageHeading = document.querySelector('.page-heading');
 const spinner = document.querySelector('.spinner-container');
 window.addEventListener('load', setup);
 
 async function setup() {
   const ownerName = 'opencodeiiita';
   const repoName = getRepoName();
-  const issues = await fetchIssues(ownerName, repoName);
+
+  //Set page heading
+  pageHeading.innerText = repoName;
+
+  let issues = await fetchIssues(ownerName, repoName);
+  //Filter issues from data
+  issues = issues.filter(issue => {
+    if (!issue['pull_request']){
+      return issue
+    }
+    return
+  })
+  
   renderIssues(issues);
 }
 

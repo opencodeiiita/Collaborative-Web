@@ -18,6 +18,9 @@ h1 {
 .issue-card h5 {
     color: var(--dark);
 }
+.issue-card p {
+    margin-bottom: 0.25em;
+}
 .issue-card h5 a {
     color: var(--dark)
 }
