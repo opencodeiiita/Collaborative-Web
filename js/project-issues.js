@@ -144,6 +144,7 @@ function spinnerOFF() {
 }
 
 function parseLinkHeader(linkHeaders) {
+  if (!linkHeaders) return {last : null, next : null};
   let parsed = linkHeaders.split(',').reduce((acc, link) => {
     let match = link.match(/<(.*)>; rel="(\w*)"/);
     let url = match[1];
