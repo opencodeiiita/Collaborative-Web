@@ -1,0 +1,32 @@
+body {
+    background-color: #f5f8fd;
+}
+
+h1 {
+    color: #413e66;
+}
+
+.spinner-container {
+    display: flex;
+    justify-content: center;
+}
+
+.issue-card {
+    background-color: #e9f4ff;
+    border-radius: 10px;
+}
+.issue-card h5 {
+    color: var(--dark);
+}
+.issue-card h5 a {
+    color: var(--dark)
+}
+.issue-card h5 a:hover {
+    color: var(--primary)
+}
+/* media queries for project issues page */
+@media (max-width: 768px) {
+    .project-issues-container {
+      width: 100% !important;
+    }
+  }
