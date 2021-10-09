@@ -43,7 +43,7 @@ function createCard(project) {
   //Removing forward slashes at the end
   const repoName = repoNameWithSlashes.split('/')[0];
   //Passing the repo name as query string to fetch the issues for the repo when the page loads
-  projectIssuesLink.setAttribute('href', `Collaborative-Web/project-issues.html?project=${repoName}`);
+  projectIssuesLink.setAttribute('href', `/Collaborative-Web/project-issues.html?project=${repoName}`);
   projectIssuesLink.innerText = "Learn more";
 
   card.append(ProjectCardContent);
