@@ -72,7 +72,10 @@ async function fetchIssues(ownerName, repoName) {
 }
 
 function renderIssues(issues) {
-  if (issues.length < 1) return;
+  if (issues.length < 1) {
+    hasNext = false;
+    return;
+  };
   issues.forEach((issue) => {
     let div = document.createElement('div');
     div.classList.add('issue-card', 'border', 'my-3');
