@@ -1,7 +1,27 @@
+//Some Elements
 const issuesContainer = document.querySelector('.project-issues-container');
 const pageHeading = document.querySelector('.page-heading');
 const spinner = document.querySelector('.spinner-container');
+//Page no.
+var PAGE = 1;
+var isFetching = true;
+var hasNext = true;
+
 window.addEventListener('load', setup);
+window.addEventListener('scroll', handleScroll);
+
+async function handleScroll() {
+  if (isFetching) return;
+  if (window.innerHeight + window.scrollY >= document.body.offsetHeight) {
+    PAGE++;
+    isFetching = true;
+    if (hasNext) {
+      await setup();
+    } else {
+      isFetching = true;
+    }
+  }
+}
 
 async function setup() {
   const ownerName = 'opencodeiiita';
@@ -11,14 +31,15 @@ async function setup() {
   pageHeading.innerText = repoName;
 
   let issues = await fetchIssues(ownerName, repoName);
+
   //Filter issues from data
-  issues = issues.filter(issue => {
-    if (!issue['pull_request']){
-      return issue
+  issues = issues.filter((issue) => {
+    if (!issue['pull_request']) {
+      return issue;
     }
-    return
-  })
-  
+    return;
+  });
+
   renderIssues(issues);
 }
 
@@ -29,15 +50,18 @@ function getRepoName() {
 }
 
 async function fetchIssues(ownerName, repoName) {
+  isFetching = true;
   spinnerON();
-  const url = `https://api.github.com/repos/${ownerName}/${repoName}/issues`;
+  const url = `https://api.github.com/repos/${ownerName}/${repoName}/issues?page=${PAGE}&state=all`;
   const response = await fetch(url);
   const data = await response.json();
+  isFetching = false;
   spinnerOFF();
   return data;
 }
 
 function renderIssues(issues) {
+  if (issues === [] || issues === {}) return;
   issues.forEach((issue) => {
     let div = document.createElement('div');
     div.classList.add('issue-card', 'border', 'my-3');
@@ -58,6 +82,10 @@ function renderIssues(issues) {
         label.color
       }; color: ${colorIsLight ? '#000' : '#FFF'}">${label.name}</span>`;
     });
+
+    if (issue.closed_at) {
+      labelsOfIssue += `<span class="badge badge-pill mx-1" style="background: #cf222e; color: #FFF">closed</span>`
+    }
 
     div.innerHTML = `<div class="card-body">
                         <h5 class="card-title font-weight-bold">
