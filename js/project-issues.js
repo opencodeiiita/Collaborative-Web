@@ -25,6 +25,9 @@ async function handleScroll() {
 }
 
 async function setup() {
+  if(!hasNext) {
+    return;
+  }
   const ownerName = 'opencodeiiita';
   const repoName = getRepoName();
 
@@ -73,6 +76,9 @@ async function fetchIssues(ownerName, repoName) {
 }
 
 function renderIssues(issues) {
+  if (issues.length < 1) {
+    loadMore();
+  }
   issues.forEach((issue) => {
     let div = document.createElement('div');
     div.classList.add('issue-card', 'border', 'my-3');
@@ -142,7 +148,10 @@ function spinnerON() {
 function spinnerOFF() {
   spinner.style.display = 'none';
 }
-
+function loadMore() {
+  PAGE++;
+  setup();
+}
 function parseLinkHeader(linkHeaders) {
   if (!linkHeaders) return {last : null, next : null};
   let parsed = linkHeaders.split(',').reduce((acc, link) => {
