@@ -1831,6 +1831,7 @@
     "twitter": "",
     "referral": "None"
   },
+
 	{
     "name": "Botte Shreya",
     "imageurl": "https://avatars.githubusercontent.com/u/87261538?v=4",
@@ -1840,5 +1841,25 @@
     "github": "https://github.com/shreya-0508",
     "twitter": "",
     "referral": "None"
+
+  {
+    "name": "Devanshu Gupta",
+    "imageurl": "https://avatars.githubusercontent.com/u/80763211?v=4",
+    "about": "Hello I'm a keen developer with knowledge of MERN stack",
+    "college": "IIIT Nagpur",
+    "facebook": "",
+    "github": "https://github.com/Devanshu236",
+    "twitter": "",
+    "referral": "Student of IIITN"
+  },
+  {
+    "name" : "Pratik Sarkate",
+    "imageurl" : "https://avatars.githubusercontent.com/u/74398075?v=4",
+    "about" : "Hi! I'm a Web Developer & Competitive Programmer",
+    "college" : "IIIT Allahabad",
+    "facebook" : "https://www.facebook.com/pratiksarkate22/",
+    "github" : "https://github.com/Pratik-Sarkate",
+    "twitter" : "https://twitter.com/prtks_22",
+    "referral" : "Geekhaven"
   }
 ]
