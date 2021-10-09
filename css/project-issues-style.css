@@ -27,6 +27,10 @@ h1 {
 .issue-card h5 a:hover {
     color: var(--primary)
 }
+
+.Error {
+    color: #cf222e;
+}
 /* media queries for project issues page */
 @media (max-width: 768px) {
     .project-issues-container {

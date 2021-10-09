@@ -6,6 +6,13 @@ const spinner = document.querySelector('.spinner-container');
 var PAGE = 1;
 var isFetching = true;
 var hasNext = true;
+//Limit Exceed
+var limitExceed = {
+  message:
+    "API rate limit exceeded for 157.34.63.7. (But here's the good news: Authenticated requests get a higher rate limit. Check out the documentation for more details.)",
+  documentation_url:
+    'https://docs.github.com/rest/overview/resources-in-the-rest-api#rate-limiting',
+};
 
 window.addEventListener('load', setup);
 window.addEventListener('scroll', handleScroll);
@@ -33,6 +40,10 @@ async function setup() {
   let issues = await fetchIssues(ownerName, repoName);
 
   //Filter issues from data
+  if (deepEqual(issues, limitExceed)) {
+    renderError()
+    return;
+  }
   issues = issues.filter((issue) => {
     if (!issue['pull_request']) {
       return issue;
@@ -61,7 +72,7 @@ async function fetchIssues(ownerName, repoName) {
 }
 
 function renderIssues(issues) {
-  if (issues === [] || issues === {}) return;
+  if (issues.length < 1) return;
   issues.forEach((issue) => {
     let div = document.createElement('div');
     div.classList.add('issue-card', 'border', 'my-3');
@@ -84,7 +95,7 @@ function renderIssues(issues) {
     });
 
     if (issue.closed_at) {
-      labelsOfIssue += `<span class="badge badge-pill mx-1" style="background: #cf222e; color: #FFF">closed</span>`
+      labelsOfIssue += `<span class="badge badge-pill mx-1" style="background: #cf222e; color: #FFF">closed</span>`;
     }
 
     div.innerHTML = `<div class="card-body">
@@ -102,6 +113,13 @@ function renderIssues(issues) {
   });
 }
 
+function renderError() {
+  let div = document.createElement('h3');
+  div.classList.add('Error', 'text-center', 'font-weight-bold', 'font-size-large', 'my-3');
+  div.innerText = 'Something went wrong';
+  issuesContainer.appendChild(div);
+}
+
 //Function credits : https://stackoverflow.com/a/51567564/15807973
 function hex_is_light(color) {
   const hex = color.replace('#', '');
@@ -117,4 +135,26 @@ function spinnerON() {
 }
 function spinnerOFF() {
   spinner.style.display = 'none';
+}
+function deepEqual(object1, object2) {
+  const keys1 = Object.keys(object1);
+  const keys2 = Object.keys(object2);
+  if (keys1.length !== keys2.length) {
+    return false;
+  }
+  for (const key of keys1) {
+    const val1 = object1[key];
+    const val2 = object2[key];
+    const areObjects = isObject(val1) && isObject(val2);
+    if (
+      (areObjects && !deepEqual(val1, val2)) ||
+      (!areObjects && val1 !== val2)
+    ) {
+      return false;
+    }
+  }
+  return true;
+}
+function isObject(object) {
+  return object != null && typeof object === 'object';
 }
