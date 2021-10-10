@@ -1765,6 +1765,16 @@
     "referral": "Devfolio"
   },
   {
+    "name": "Aman Verma",
+    "imageurl": "https://avatars.githubusercontent.com/u/76588658?s=400&v=4",
+    "about": "Newbie",
+    "college": "IIITA",
+    "facebook": "https://www.facebook.com/profile.php?id=100009937785967",
+    "github": "https://github.com/Aman-IIITA",
+    "twitter": "",
+    "referral": "Devfolio"
+  },
+  {
        "name" : "Surya Kant",
        "imageurl" : "https://avatars.githubusercontent.com/u/55610604?v=4",
        "about" : "Hello, I am a newbie in Web Development and open source",
@@ -1783,6 +1793,7 @@
     "github" : "https://github.com/Harshgupta5901",
     "twitter" : "",
     "referral" : "via a friend"
+
   },
   {
     "name": "Laalasa",
