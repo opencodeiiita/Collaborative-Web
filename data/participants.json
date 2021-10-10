@@ -1,13 +1,23 @@
-[
+[ 
+ {
+   "name" : "Dheeraj bhardwaj",
+   "imageurl" : "https://avatars.githubusercontent.com/u/77121472?v=4",
+   "about" : "Hello I'm a web developer and enthusiast learner and",
+   "college" : "IIITA",
+   "facebook" : "",
+   "github" : "https://github.com/Dheeraj096",
+   "twitter" : "",
+   "referral" : "Seniors"
+  },
   {
-	"name": "Vaibhav Sahu",
-	"imageurl": "https://avatars.githubusercontent.com/u/45689747?v=4",
-	"about": "Hello I'm a Software Developer. I know technologies like PHP, Flutter, C++.",
-	"college": "Chhatrapati Shivaji Institute Of Technology, Durg",
-	"facebook": "",
-	"github": "https://github.com/vaibhavsahu342",
-	"twitter": "https://twitter.com/vaibhav_sahu_",
-	"referral": "via LinkedIn"
+   "name": "Vaibhav Sahu",
+   "imageurl": "https://avatars.githubusercontent.com/u/45689747?v=4",
+   "about": "Hello I'm a Software Developer. I know technologies like PHP, Flutter, C++.",
+   "college": "Chhatrapati Shivaji Institute Of Technology, Durg",
+   "facebook": "",
+   "github": "https://github.com/vaibhavsahu342",
+   "twitter": "https://twitter.com/vaibhav_sahu_",
+   "referral": "via LinkedIn"
   },
   {
     "name": "Anirudh Agrawal",
@@ -320,16 +330,6 @@
     "github": "https://github.com/raghavgoel25",
     "twitter": "",
     "referral": "Geekhaven"
-  },
-  {
-    "name": "Hardik Arora",
-    "imageurl": "https://avatars.githubusercontent.com/u/76592673?v=4",
-    "about": "Hi I'm a fervent web developer",
-    "college": "IIIT ALLAHABAD",
-    "facebook": "",
-    "github": "https://github.com/hardikarora2",
-    "twitter": "",
-    "referral": "via college"
   },
   {
     "name": "Shantanu",
@@ -983,16 +983,6 @@
     "github": "https://github.com/raghavgoel25",
     "twitter": "",
     "referral": "Geekhaven"
-  },
-  {
-    "name": "Hardik Arora",
-    "imageurl": "https://avatars.githubusercontent.com/u/76592673?v=4",
-    "about": "Hi I'm a fervent web developer",
-    "college": "IIIT ALLAHABAD",
-    "facebook": "",
-    "github": "https://github.com/hardikarora2",
-    "twitter": "",
-    "referral": "via college"
   },
   {
     "name": "Shantanu",
@@ -1742,7 +1732,8 @@
     "github": "https://github.com/krypton001",
     "twitter": "",
     "referral": "GeekHaven"
-  },{
+  },
+  {
     "name": "MUKILAN S",
     "imageurl": "https://avatars.githubusercontent.com/u/65155327?v=4",
     "about": "Hey Guys, I am Full Stack Developer",
@@ -1751,7 +1742,6 @@
     "github": "https://github.com/MUKILAN-2003",
     "twitter": "",
     "referral": "Devfolio"
-
   },
   {
     "name": "Shivam",
@@ -1760,6 +1750,16 @@
     "college": "IIITA",
     "facebook": "",
     "github": "https://github.com/Shivamcoli",
+    "twitter": "",
+    "referral": "Devfolio"
+  },
+  {
+    "name": "Aman Verma",
+    "imageurl": "https://avatars.githubusercontent.com/u/76588658?s=400&v=4",
+    "about": "Newbie",
+    "college": "IIITA",
+    "facebook": "https://www.facebook.com/profile.php?id=100009937785967",
+    "github": "https://github.com/Aman-IIITA",
     "twitter": "",
     "referral": "Devfolio"
   },
@@ -1822,6 +1822,26 @@
     "referral": "None"
   },
   {
+    "name": "Saumya Jain",
+    "imageurl": "https://avatars.githubusercontent.com/u/91241298?s=400&v=4",
+    "about": "Hello I'm a web developer and a coder",
+    "college": "IIIT Allahabad",
+    "facebook": "",
+    "github": "https://github.com/saumya-jain20",
+    "twitter": "",
+    "referral": "via college"
+  },
+  {  
+    "name": "Abhishek Wani",
+    "imageurl": "https://avatars.githubusercontent.com/u/75797884?s=400&u=1bdb22d017bfb7e8312ceee6ad9783a57c8847cd&v=4",
+    "about": "Hey guys, I am a Competitive Coder and learning Enthusiast",
+    "college": "IIITA",
+    "facebook": "",
+    "github": "https://github.com/Abhishek001-1",
+    "twitter": "https://twitter.com/AbhishekWani01",
+    "referral": "GeekHaven"
+  },
+  {
     "name": "Vasanth Naik",
     "imageurl": "https://avatars.githubusercontent.com/u/76811492?s=400&v=4",
     "about": "A web developer",
@@ -1840,6 +1860,17 @@
     "github": "https://github.com/shreya-0508",
     "twitter": "",
     "referral": "None"
+  },
+  {
+    "name": "Hardik Arora",
+    "imageurl": "https://avatars.githubusercontent.com/u/76592673?v=4",
+    "about": "Hi I'm a fervent web developer",
+    "college": "IIIT ALLAHABAD",
+    "facebook": "",
+    "github": "https://github.com/hardikarora2",
+    "twitter": "",
+    "referral": "via college"
+  },
   {
     "name": "Devanshu Gupta",
     "imageurl": "https://avatars.githubusercontent.com/u/80763211?v=4",
@@ -1859,5 +1890,15 @@
     "github" : "https://github.com/Pratik-Sarkate",
     "twitter" : "https://twitter.com/prtks_22",
     "referral" : "Geekhaven"
+  },
+  {
+    "name" : "Krishna Shah",
+    "imageurl" : "https://avatars.githubusercontent.com/u/75926051?v=4",
+    "about" : "Hey, I'm exploring Web Development!",
+    "college" : "Indian Institute of Information Technology Allahabad",
+    "facebook" : "",
+    "github" : "https://github.com/Krishna3267",
+    "twitter" : "",
+    "referral" : "GeekHaven"
   }
 ]
