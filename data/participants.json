@@ -1,22 +1,23 @@
-[ {
-       "name" : "Dheeraj bhardwaj",
-       "imageurl" : "https://avatars.githubusercontent.com/u/77121472?v=4",
-       "about" : "Hello I'm a web developer and enthusiast learner and",
-       "college" : "IIITA",
-       "facebook" : "",
-       "github" : "https://github.com/Dheeraj096",
-       "twitter" : "",
-       "referral" : "Seniors"
-    },
+[ 
+ {
+		"name" : "Dheeraj bhardwaj",
+		"imageurl" : "https://avatars.githubusercontent.com/u/77121472?v=4",
+		"about" : "Hello I'm a web developer and enthusiast learner and",
+		"college" : "IIITA",
+		"facebook" : "",
+		"github" : "https://github.com/Dheeraj096",
+		"twitter" : "",
+		"referral" : "Seniors"
+  },
   {
-	"name": "Vaibhav Sahu",
-	"imageurl": "https://avatars.githubusercontent.com/u/45689747?v=4",
-	"about": "Hello I'm a Software Developer. I know technologies like PHP, Flutter, C++.",
-	"college": "Chhatrapati Shivaji Institute Of Technology, Durg",
-	"facebook": "",
-	"github": "https://github.com/vaibhavsahu342",
-	"twitter": "https://twitter.com/vaibhav_sahu_",
-	"referral": "via LinkedIn"
+		"name": "Vaibhav Sahu",
+		"imageurl": "https://avatars.githubusercontent.com/u/45689747?v=4",
+		"about": "Hello I'm a Software Developer. I know technologies like PHP, Flutter, C++.",
+		"college": "Chhatrapati Shivaji Institute Of Technology, Durg",
+		"facebook": "",
+		"github": "https://github.com/vaibhavsahu342",
+		"twitter": "https://twitter.com/vaibhav_sahu_",
+		"referral": "via LinkedIn"
   },
   {
     "name": "Anirudh Agrawal",
@@ -1890,6 +1891,5 @@
     "github" : "https://github.com/Krishna3267",
     "twitter" : "",
     "referral" : "GeekHaven"
-
   }
 ]
