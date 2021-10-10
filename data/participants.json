@@ -322,16 +322,6 @@
     "referral": "Geekhaven"
   },
   {
-    "name": "Hardik Arora",
-    "imageurl": "https://avatars.githubusercontent.com/u/76592673?v=4",
-    "about": "Hi I'm a fervent web developer",
-    "college": "IIIT ALLAHABAD",
-    "facebook": "",
-    "github": "https://github.com/hardikarora2",
-    "twitter": "",
-    "referral": "via college"
-  },
-  {
     "name": "Shantanu",
     "imageurl": "https://avatars.githubusercontent.com/u/76626284?v=4",
     "about": "Hello I'm a web developer",
@@ -983,16 +973,6 @@
     "github": "https://github.com/raghavgoel25",
     "twitter": "",
     "referral": "Geekhaven"
-  },
-  {
-    "name": "Hardik Arora",
-    "imageurl": "https://avatars.githubusercontent.com/u/76592673?v=4",
-    "about": "Hi I'm a fervent web developer",
-    "college": "IIIT ALLAHABAD",
-    "facebook": "",
-    "github": "https://github.com/hardikarora2",
-    "twitter": "",
-    "referral": "via college"
   },
   {
     "name": "Shantanu",
@@ -1862,6 +1842,17 @@
     "referral": "None"
   },
   {
+
+    "name": "Hardik Arora",
+    "imageurl": "https://avatars.githubusercontent.com/u/76592673?v=4",
+    "about": "Hi I'm a fervent web developer",
+    "college": "IIIT ALLAHABAD",
+    "facebook": "",
+    "github": "https://github.com/hardikarora2",
+    "twitter": "",
+    "referral": "via college"
+  },
+  {
     "name": "Devanshu Gupta",
     "imageurl": "https://avatars.githubusercontent.com/u/80763211?v=4",
     "about": "Hello I'm a keen developer with knowledge of MERN stack",
@@ -1890,5 +1881,6 @@
     "github" : "https://github.com/Krishna3267",
     "twitter" : "",
     "referral" : "GeekHaven"
+
   }
 ]
