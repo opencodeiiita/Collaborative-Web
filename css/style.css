@@ -72,7 +72,7 @@ h6 {
 --------------------------------------------------------------*/
 
 #header {
-  height: 110px;
+  height: 100px;
   transition: all 0.5s;
   z-index: 997;
   transition: all 0.5s;
@@ -134,16 +134,17 @@ h6 {
   position: relative;
   background: #f5f8fd url('../img/intro-bg.jpg') center top no-repeat;
   background-size: cover;
+  color: #413E66;
 }
 
-#intro .intro-info h2 {
+#intro .intro-info h3 {
   color: #413e66;
   margin-bottom: 40px;
-  font-size: 48px;
-  font-weight: 700;
+  font-size: 45px;
+  font-weight: 500;
 }
 
-#intro .intro-info h2 span {
+#intro .intro-info h3 span {
   color: #1bb1dc;
 }
 
@@ -159,7 +160,7 @@ h6 {
   border-radius: 4px;
   transition: 0.5s;
   color: #fff;
-  background: #1bb1dc;
+  background: #413E66;
   color: #fff;
 }
 
@@ -452,7 +453,7 @@ h6 {
 /* Count Down Timer Section
 --------------------------------*/
 .countdownSection {
-  background: #37383d url('../img/countdown-bg.png') center top no-repeat;
+  background:   #f5f8fd;/*#37383durl('../img/countdown-bg.png') center top no-repeat;*/
   align-items: center;
   display: flex;
   font-family: 'Montserrat', sans-serif;
@@ -473,6 +474,7 @@ h6 {
   font-weight: normal;
   letter-spacing: 0.125rem;
   text-transform: uppercase;
+  color: #413E66;
 }
 
 #countdown-time > li {
@@ -481,6 +483,7 @@ h6 {
   list-style-type: none;
   padding: 1em;
   text-transform: uppercase;
+  color: #413E66;
 }
 
 li span {
@@ -661,8 +664,68 @@ td {
   max-width: 100%;
   height: 100%;
 }
-
 /* mentors end! */
+
+* Projects */
+#projects h1 {
+  text-align: center;
+  padding: 1em;
+  font-weight: bold;
+}
+
+#projectCardsContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding: 1em 0;
+  text-align: left;
+}
+
+.ProjectCard {
+  width: 30%;
+  display: flex;
+  background: #eee;
+  padding: 0.6em 1em 0.6em 0.6em;
+  margin-bottom: 1em;
+  border-radius: 0.3em;
+  box-shadow: rgba(0, 0, 0, 0.2) 3px 6px 10px;
+  border: solid 1px #ccc;
+}
+
+.ProjectCard h3 {
+  margin: 0;
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+.ProjectCardContent p {
+  margin: 0;
+  font-size: 0.9em;
+  color: #222;
+}
+
+.ProjectCardContent a {
+  margin-right: 0.5em; 
+}
+
+@media (max-width: 820px) {
+  #projectCardsContainer {
+    min-width: auto;
+    display: block;
+  }
+  .ProjectCard {
+    width: 100%;
+  }
+}
+
+@media (max-width: 480px) {
+  .ProjectCard {
+    box-shadow: none;
+  }
+}
+
+
+
 
 /* Media Queries */
 /* @media (min-width: 400px) and (max-width: 800px) {
