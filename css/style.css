@@ -627,6 +627,10 @@ td {
 
 /*mentors*/
 
+.Mentor{
+  font-weight: 600;
+}
+
 #mentors{
   display:flex;
   justify-content: center;
@@ -634,7 +638,7 @@ td {
 .mentorDiv {
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   transition: 0.5s;
-  width: 28%;
+  width: 24%;
   margin: 25px;
   justify-content: center;
   text-align: center;
@@ -656,18 +660,18 @@ td {
 
 .mentorName{
   margin-top: 10px;
-  font-size: 1.8vw;
+  font-size: 1.6vw;
   font-weight: 600;
 }
 
 .mentorAbout{
-  font-size: 1.6vw;
+  font-size: 1.4vw;
   font-weight: 500;
 }
 
 .icon{
   margin: 10px;
-  font-size: 1.1vw;
+  font-size: 1vw;
   transition: 0.5s;
 }
 
@@ -689,7 +693,7 @@ td {
   }
 
   .mentorDiv{
-    width: 60%;
+    width: 55%;
   }
 
   .mentorName{
