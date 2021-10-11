@@ -33,9 +33,21 @@ function createCard(project) {
   const projectLink = document.createElement('a');
   projectLink.setAttribute('href', `${project["repo-url"]}`);
   projectLink.innerText = "Project Link";
+  
+  //Setting up another link for 'Learn More' page
+  const projectIssuesLink = document.createElement('a');
+  //Get the project's repo name
+  //Some of the repo names returned from here contains forward slashes in end
+  //These are needed to be removed
+  const repoNameWithSlashes = project['repo-url'].split('https://github.com/opencodeiiita/')[1];
+  //Removing forward slashes at the end
+  const repoName = repoNameWithSlashes.split('/')[0];
+  //Passing the repo name as query string to fetch the issues for the repo when the page loads
+  projectIssuesLink.setAttribute('href', `/Collaborative-Web/project-issues.html?project=${repoName}`);
+  projectIssuesLink.innerText = "Learn more";
 
   card.append(ProjectCardContent);
-  ProjectCardContent.append(projectName, projectDescription, projectLink);
+  ProjectCardContent.append(projectName, projectDescription, projectLink, projectIssuesLink);
   projectCardsContainer.append(card);
 }
 fetchGetCards();
