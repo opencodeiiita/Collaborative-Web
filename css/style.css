@@ -252,7 +252,7 @@ h6 {
   transition-delay: 1350ms;
 }
 #hoverFade span:nth-child(28) {
-  transition-delay: 9000ms;
+  transition-delay: 900ms;
 }
 #hoverFade span:nth-child(29) {
   transition-delay: 1300ms;
@@ -653,12 +653,78 @@ li span {
   font-weight: 700;
 }
 
-#about .about-content h3 {
+.TextGlow {
+  position: absolute;
+  top: 17%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 12px 48px;
+  color: rgb(20, 20, 20);
+  background: linear-gradient(to right, #a8a8a8 0, rgba(46, 45, 45, 0.829) 10%, #a8a8a8 20%);
+  background-position: 0;
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: shine 5s infinite linear;
+  animation-fill-mode: forwards;
+  -webkit-text-size-adjust: none;
+  font-weight: 600;
+  font-size: 28px;
+  text-decoration: none;
+  white-space: nowrap;
+  /* padding: 5em; */
+}
+@-moz-keyframes shine {
+  0% {
+    background-position: 0;
+  }
+  60% {
+    background-position: 280px;
+  }
+  100% {
+    background-position: 280px;
+  }
+}
+@-webkit-keyframes shine {
+  0% {
+    background-position: 0;
+  }
+  60% {
+    background-position: 280px;
+  }
+  100% {
+    background-position: 2800px;
+  }
+}
+@-o-keyframes shine {
+  0% {
+    background-position: 0;
+  }
+  60% {
+    background-position: 280px;
+  }
+  100% {
+    background-position: 280px;
+  }
+}
+@keyframes shine {
+  0% {
+    background-position: 0;
+  }
+  60% {
+    background-position: 280px;
+  }
+  100% {
+    background-position: 280px;
+  }
+}
+
+/* #about .about-content h3 {
   color: #696592;
   font-weight: 400;
   font-size: 22px;
   font-style: italic;
-}
+} */
 
 #about .about-content ul {
   list-style: none;
@@ -800,10 +866,18 @@ td {
 }
 /* mentors end! */
 
-* Projects */ #projects h1 {
+/* Projects */
+
+#projects h1 {
+  align-items: center;
   text-align: center;
-  padding: 1em;
-  font-weight: bold;
+  padding-top: 1em;
+}
+#projects h1 .typewrite {
+  align-items: center;
+  text-align: center;
+  color: rgba(0, 0, 0, 0.87);
+  font-weight: 500;
 }
 
 #projectCardsContainer {
@@ -838,7 +912,7 @@ td {
 }
 
 .ProjectCardContent a {
-  margin-right: 0.5em; 
+  margin-right: 0.5em;
 }
 
 @media (max-width: 820px) {
