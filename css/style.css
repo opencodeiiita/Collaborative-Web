@@ -704,6 +704,10 @@ td {
   color: #222;
 }
 
+.ProjectCardContent a {
+  margin-right: 0.5em; 
+}
+
 @media (max-width: 820px) {
   #projectCardsContainer {
     min-width: auto;
