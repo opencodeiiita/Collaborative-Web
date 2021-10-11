@@ -344,12 +344,12 @@ h6 {
 --------------------------------------------------------------*/
 
 /* Desktop Navigation */
-
+ /*
 .main-nav {
-  /* Drop Down */
-  /* Deep Drop Down */
+  Drop Down 
+  Deep Drop Down
 }
-
+*/
 .main-nav,
 .main-nav * {
   margin: 0;
@@ -640,11 +640,16 @@ li span {
 --------------------------------*/
 
 #about {
-  padding: 80px 0;
+  padding: 25px 0 50px 0;
+  background-image: linear-gradient(5deg, #ffffff, #f5f8fd); 
 }
 
 #about .about-content {
-  padding-top: 40px;
+  padding: 20px;
+  line-height: 1.75;
+  display: flex;
+  justify-content:center;
+  align-items: center;
 }
 
 #about .about-content h2 {
@@ -653,12 +658,17 @@ li span {
   font-weight: 700;
 }
 
+#about .about-content p{
+  margin-top: 100px;
+  color: rgb(61, 59, 59);
+}
+
 .TextGlow {
   position: absolute;
-  top: 17%;
+  top: 15%;
   left: 50%;
   transform: translate(-50%, -50%);
-  padding: 12px 48px;
+  padding: 10px 48px;
   color: rgb(20, 20, 20);
   background: linear-gradient(to right, #a8a8a8 0, rgba(46, 45, 45, 0.829) 10%, #a8a8a8 20%);
   background-position: 0;
@@ -743,22 +753,24 @@ li span {
 
 #about .about-img {
   position: relative;
-  margin: 30px 30px 30px 30px;
+  margin: auto;
+  display: flex;
+  justify-content:center;
+  align-items: center;
 }
 
 #about .about-img img {
   width: 100%;
-  border: 8px solid #fff;
   transition: 0.5s;
 }
 
 #about .about-img img:hover {
-  width: 100%;
+  width: 110%;
   -webkit-transform: scale(1.03);
   transform: scale(1.03);
 }
 
-#about .about-img::before {
+/* #about .about-img::before {
   position: absolute;
   left: -31px;
   top: -30px;
@@ -768,9 +780,9 @@ li span {
   content: '';
   background-color: #ebf1fa;
   transition: 0.5s;
-}
+} */
 
-#about .about-img::after {
+/* #about .about-img::after {
   position: absolute;
   right: -31px;
   bottom: -30px;
@@ -780,7 +792,7 @@ li span {
   content: '';
   background-color: #ebf1fa;
   transition: 0.5s;
-}
+} */
 
 /* Participants Section
 --------------------------------*/
