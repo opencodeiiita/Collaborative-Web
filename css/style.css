@@ -888,6 +888,20 @@ td {
   border-radius: 5px;
 }
 
+.flexlogo{
+  display: flex;
+  width: 25%;
+  flex-direction: row;
+  justify-content: center;
+}
+.flex-container{
+  padding:1em 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-direction: row;
+}
+
 @media(max-width:800px) {
   #mentors{
     flex-direction: column;
@@ -909,12 +923,23 @@ td {
   .icon{
     font-size: 2vw;
   }
+  .img-fluid{
+    margin-top: 9em;
+  }
+  #hoverFade{
+    font-size: 2em !important;
+  }
+
 }
 
 @media(max-width:600px){
   .mentorDiv{
     width: 70%;
   }
+  .img-fluid{
+    margin-top: 10em;
+  }
+  
 }
 
 @media(max-width:500px){
@@ -928,6 +953,19 @@ td {
 
   .icon{
     font-size: 3vw;
+  }
+  #countdown-time > li {
+    font-size: 1.1em;
+    padding: 0.4em;
+  }
+  .img-fluid{
+    margin-top: 12em;
+  }
+  .flex-container{
+    flex-direction: column;
+  }
+  .flexlogo{
+    width: 60%;
   }
 
 }
@@ -955,6 +993,7 @@ td {
   .icon{
     font-size: 3.5vw;
   }
+
 }
 /* mentors end! */
 
@@ -1022,6 +1061,8 @@ td {
     box-shadow: none;
   }
 }
+
+
 
 /* Media Queries */
 /* @media (min-width: 400px) and (max-width: 800px) {
