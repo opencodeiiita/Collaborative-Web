@@ -124,6 +124,18 @@ h6 {
   margin-top: 60px;
 }
 
+#heading-text {
+  position: absolute;
+  left: 0;
+  padding: 0 2em;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1em;
+  width: 100%;
+}
+
+
 /*--------------------------------------------------------------
 # Intro Section
 --------------------------------------------------------------*/
@@ -511,9 +523,6 @@ h6 {
 }
 
 .mobile-nav-toggle {
-  position: fixed;
-  right: 0;
-  top: 0;
   z-index: 9998;
   border: 0;
   background: none;
@@ -603,7 +612,7 @@ h6 {
   color: #fff;
   margin: 0 auto;
   text-align: center;
-  padding: 5rem;
+  padding: 5rem 1em;
 }
 
 .cd-container > h1 {
@@ -611,6 +620,10 @@ h6 {
   letter-spacing: 0.125rem;
   text-transform: uppercase;
   color: #413e66;
+}
+
+#countdown-time{
+padding: 0;
 }
 
 
@@ -649,7 +662,7 @@ h6 {
 @media (max-width: 540px){
   .cd-container h1{
     letter-spacing: 0.1rem;
-    font-size: 1.20rem;
+    font-size: 1.5rem;
   }
   #countdown-time{
     font-size: 0.25em;
@@ -657,17 +670,20 @@ h6 {
 
   }
   .countdown-time-para{
-    font-size: 1.5em;
+    font-size: 2.4em;
   }
   .countdown-time-running{
-    font-size: 2rem;
+    font-size: 3.6em;
+  }
+  .scrollto{
+    font-size: 1em;
   }
   
 }
 @media (max-width: 400px){
   .cd-container h1{
     letter-spacing: 0.05rem;
-    font-size: 0.8rem;
+    font-size: 1.5rem;
   }
   #countdown-time{
     font-size: 0.5em;
@@ -675,10 +691,10 @@ h6 {
 
   }
   .countdown-time-para{
-    font-size: 0.45rem;
+    font-size: 1.1em;
   }
   .countdown-time-running{
-    font-size: 1.00rem;
+    font-size: 1.75em;
   }
   
 }
@@ -973,6 +989,21 @@ td {
   border-radius: 5px;
 }
 
+.flexlogo{
+  display: flex;
+  width: 25%;
+  flex-direction: row;
+  justify-content: center;
+  gap: 1em;
+}
+
+.flex-container{
+  padding:1em 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-direction: row;
+}
 @media (max-width: 800px) {
   #mentors {
     flex-direction: column;
@@ -994,13 +1025,24 @@ td {
   .icon {
     font-size: 2vw;
   }
+  #hoverFade{
+    padding-top: 1em;
+    font-size: 2em !important;
+  }
+  .img-fluid{
+    margin-top: 7em;
+  }
 }
 
 @media (max-width: 600px) {
   .mentorDiv {
     width: 70%;
   }
+  .img-fluid{
+    margin-top: 7em;
+  }
 }
+
 
 @media (max-width: 500px) {
   .mentorName {
@@ -1013,6 +1055,25 @@ td {
 
   .icon {
     font-size: 3vw;
+  }
+  .flex-container{
+    flex-direction: column;
+  }
+  .flexlogo{
+    width: 60%;
+  }
+  #flexbox-to-hide{
+    display:none;
+  }
+  #flexbox-to-show{
+    display:block !important;
+  }
+  .img-fluid{
+    margin-top: 7em;
+    width: 50%;
+  }
+  #heading-text{
+    zoom:0.8;
   }
 }
 
