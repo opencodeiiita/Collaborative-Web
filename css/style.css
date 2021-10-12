@@ -973,6 +973,19 @@ td {
   border-radius: 5px;
 }
 
+.flexlogo{
+  display: flex;
+  width: 33%;
+  flex-direction: row;
+  justify-content: center;
+}
+.flex-container{
+  padding:1em 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-direction: row;
+}
 @media (max-width: 800px) {
   #mentors {
     flex-direction: column;
@@ -994,11 +1007,21 @@ td {
   .icon {
     font-size: 2vw;
   }
+  .img-fluid{
+    margin-top: 9em;
+    width:80%;
+  }
+  #hoverFade{
+    font-size: 2em !important;
+  }
 }
 
 @media (max-width: 600px) {
   .mentorDiv {
     width: 70%;
+  }
+  .img-fluid{
+    margin-top: 10em;
   }
 }
 
@@ -1013,6 +1036,12 @@ td {
 
   .icon {
     font-size: 3vw;
+  }
+  .flex-container{
+    flex-direction: column;
+  }
+  .flexlogo{
+    width: 60%;
   }
 }
 
