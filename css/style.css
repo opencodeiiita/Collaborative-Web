@@ -895,6 +895,36 @@ li span {
   margin-left: auto;
   margin-right: auto;
 }
+thead{
+  text-align: center;
+  color: white;
+  background-color: #50789e;
+  font-size: 15px;
+  text-transform: uppercase;
+}
+tbody{
+  text-align: center;
+}
+th{
+  padding: 25px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+tr{
+  border: 2px solid #fff;
+}
+td{
+  padding: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background-color: #a2d2ff4f;
+}
+table{
+  border: 1px solid black;
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  padding: 5px;
+}
 /* 
 th,
 td {
@@ -1032,6 +1062,23 @@ td {
   .img-fluid{
     margin-top: 7em;
   }
+  thead{
+      font-size: 12px;
+    }
+    tbody{
+      font-size: 13px;
+      background-color: #8de5fdd2;
+    }
+    th{
+      padding: 20px;
+      padding-top: 15px;
+      padding-bottom: 15px;
+    }
+    td{
+      padding: 15px;
+      padding-top: 3px;
+      padding-bottom: 3px;
+    }
 }
 
 @media (max-width: 600px) {
@@ -1075,6 +1122,23 @@ td {
   #heading-text{
     zoom:0.8;
   }
+  thead{
+      font-size: 10px;
+    }
+    tbody{
+      font-size: 10px;
+      background-color: #8de5fdd2;
+    }
+    th{
+      padding: 10px;
+      padding-top: 10px;
+      padding-bottom: 10px;
+    }
+    td{
+      padding: 10px;
+      padding-top: 2px;
+      padding-bottom: 2px;
+    }
 }
 
 @media (max-width: 1010px) and (min-width: 801px) {

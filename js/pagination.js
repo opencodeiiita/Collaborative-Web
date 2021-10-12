@@ -45,20 +45,73 @@ function addToTable(arr) {
     let points = arr[i].totalPoints;
     let fullName = arr[i].name;
     rank = [...pointSet].indexOf(points) + 1;
-    let markup =
-      '<tr><td>' +
-      rank +
-      '</td><td> ' +
-      '&nbsp;' +
-      user +
-      '</td><td> ' +
-      '&nbsp;' +
-      points +
-      '</td><td> ' +
-      '&nbsp;' +
-      fullName +
-      '</td></tr>';
-    $('table tbody').append(markup);
+    if(rank==1){
+      let markup =
+        '<tr style="background-color:#CAB8FF;"><td>' +
+        '<i class="fas fa-medal" style="color:#FFD700;"></i> '+
+        rank +
+        '</td><td> ' +
+        '&nbsp;' +
+        user +
+        '</td><td> ' +
+        '&nbsp;' +
+        points +
+        '</td><td> ' +
+        '&nbsp;' +
+        fullName +
+        '</td></tr>';
+        $('table tbody').append(markup);
+    }
+    else if(rank==2){
+      let markup =
+        '<tr style="background-color:#FFF47D;"><td>' +
+        '<i class="fas fa-medal" style="color:#C0C0C0;"></i> '+
+        rank +
+        '</td><td> ' +
+        '&nbsp;' +
+        user +
+        '</td><td> ' +
+        '&nbsp;' +
+        points +
+        '</td><td> ' +
+        '&nbsp;' +
+        fullName +
+        '</td></tr>';
+        $('table tbody').append(markup);
+    }
+    else if(rank==3){
+      let markup =
+        '<tr style="background-color:#E5FBB8;"><td>' +
+        '<i class="fas fa-medal" style="color:#8C7853;"></i> '+
+        rank +
+        '</td><td> ' +
+        '&nbsp;' +
+        user +
+        '</td><td> ' +
+        '&nbsp;' +
+        points +
+        '</td><td> ' +
+        '&nbsp;' +
+        fullName +
+        '</td></tr>';
+        $('table tbody').append(markup);
+    }
+    else{
+      let markup =
+        '<tr><td>' +
+        rank +
+        '</td><td> ' +
+        '&nbsp;' +
+        user +
+        '</td><td> ' +
+        '&nbsp;' +
+        points +
+        '</td><td> ' +
+        '&nbsp;' +
+        fullName +
+        '</td></tr>';
+        $('table tbody').append(markup);
+    }
   }
 }
 
