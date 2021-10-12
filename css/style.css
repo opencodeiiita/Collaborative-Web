@@ -1018,7 +1018,6 @@ td {
     width: 70%;
   }
   .img-fluid{
-    width:50%;
     margin-top: 6em;
   }
 }
@@ -1039,7 +1038,7 @@ td {
     flex-direction: column;
   }
   .flexlogo{
-    width: 60%;
+    width: 50%;
   }
 }
 
