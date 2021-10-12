@@ -882,9 +882,10 @@ li span {
 thead{
   text-align: center;
   color: white;
-  background-color: #50789e;
+  background-color: #1E3163;
   font-size: 15px;
   text-transform: uppercase;
+  transform: none;
 }
 tbody{
   text-align: center;
@@ -896,6 +897,10 @@ th{
 }
 tr{
   border: 2px solid #fff;
+}
+tr:hover{
+  transform: scale(1.02);
+  background: linear-gradient(to right, #0099f7, #f11712);
 }
 td{
   padding: 20px;
