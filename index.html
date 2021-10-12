@@ -121,10 +121,10 @@
           <h1>Opencode ends in:</h1>
           <div id="countdown">
             <ul id="countdown-time">
-              <li><span id="days"></span>days</li>
-              <li><span id="hours"></span>Hours</li>
-              <li><span id="minutes"></span>Minutes</li>
-              <li><span id="seconds"></span>Seconds</li>
+              <li><span id="days" class= "countdown-time-running"></span><p class="countdown-time-para">days</p></li>
+              <li><span id="hours" class= "countdown-time-running"></span><p class="countdown-time-para">hours</p></li>
+              <li><span id="minutes" class= "countdown-time-running"></span><p class="countdown-time-para">minutes</p></li>
+              <li><span id="seconds" class= "countdown-time-running"></span><p class="countdown-time-para">seconds</p></li>
             </ul>
           </div>
           <div id="content" class="emoji">
@@ -144,7 +144,10 @@
           <div class="row">
             <div class="col-lg-5 col-md-6">
               <div class="about-img">
-                <img src="img/about-img.jpg" alt="" />
+                <img
+                  src="https://opencodeiiita.github.io/Opencode-Collaborative-20/img/intro-img.svg"
+                  alt=""
+                />
               </div>
             </div>
 
@@ -154,7 +157,12 @@
 
                 <p>
                   OpenCode is a month of opensource where programmers, designers and innovators code, design,
-                  learn and build solutions that tackle real-world problems.
+                  and build solutions that tackle real-world problems. It is organised annually by Geekhaven,
+                  the technical society of Indian Institute of Information Technology, Allahabad. It aims at
+                  giving a hands on experience of Open source to the newbies as well as the pros. The
+                  participants compete in this month long battle of development, completing tasks of Web
+                  Development, App Development, Design, Programming, Machine Learning and many more, all
+                  wishing to see their names at the top of the glorious Leaderboard!
                 </p>
 
                 <ul></ul>
@@ -165,9 +173,9 @@
       </section>
       <!-- #about -->
 
-    <!-- Mentors! -->
-    <h1 style="text-align: center;" class="Mentor">Mentors</h1>
-    <div id="mentors"></div>
+      <!-- Mentors! -->
+      <h1 style="text-align: center" class="Mentor">Mentors</h1>
+      <div id="mentors"></div>
 
       <!--==========================
       Participants Section
@@ -203,7 +211,7 @@
           </a
           ><span class="wrap"></span>
         </h1>
-        <div id="projectCardsContainer"></div>
+        <div class="project__cards" id="project__cards"></div>
       </section>
       <!-- #Projects -->
     </main>
