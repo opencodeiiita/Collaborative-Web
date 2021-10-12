@@ -649,7 +649,7 @@ h6 {
 @media (max-width: 540px){
   .cd-container h1{
     letter-spacing: 0.1rem;
-    font-size: 1.20rem;
+    font-size: 1.5rem;
   }
   #countdown-time{
     font-size: 0.25em;
@@ -657,17 +657,17 @@ h6 {
 
   }
   .countdown-time-para{
-    font-size: 1.5em;
+    font-size: 2em;
   }
   .countdown-time-running{
-    font-size: 2rem;
+    font-size: 2.5rem;
   }
   
 }
 @media (max-width: 400px){
   .cd-container h1{
     letter-spacing: 0.05rem;
-    font-size: 0.8rem;
+    font-size: 1.5rem;
   }
   #countdown-time{
     font-size: 0.5em;
@@ -675,10 +675,10 @@ h6 {
 
   }
   .countdown-time-para{
-    font-size: 0.45rem;
+    font-size: 1.5rem;
   }
   .countdown-time-running{
-    font-size: 1.00rem;
+    font-size: 1.5rem;
   }
   
 }
@@ -1007,11 +1007,8 @@ td {
   .icon {
     font-size: 2vw;
   }
-  .img-fluid{
-    margin-top: 9em;
-    width:80%;
-  }
   #hoverFade{
+    padding-top: 1em;
     font-size: 2em !important;
   }
 }
@@ -1021,7 +1018,8 @@ td {
     width: 70%;
   }
   .img-fluid{
-    margin-top: 10em;
+    width:50%;
+    margin-top: 6em;
   }
 }
 
