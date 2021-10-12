@@ -969,6 +969,18 @@ td {
 /* mentors end! */
 
 /*/////////////// PROJECTS ////////////////////////////////////////////////////////////////*/
+#projects h1 {
+  align-items: center;
+  text-align: center;
+  padding-top: 1em;
+}
+#projects h1 .typewrite {
+  align-items: center;
+  text-align: center;
+  color: rgba(0, 0, 0, 0.87);
+  font-weight: 500;
+}
+
 .project__cards {
   display: flex;
   flex-wrap: wrap;
