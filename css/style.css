@@ -124,6 +124,18 @@ h6 {
   margin-top: 60px;
 }
 
+#heading-text {
+  position: absolute;
+  left: 0;
+  padding: 0 2em;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1em;
+  width: 100%;
+}
+
+
 /*--------------------------------------------------------------
 # Intro Section
 --------------------------------------------------------------*/
@@ -511,9 +523,6 @@ h6 {
 }
 
 .mobile-nav-toggle {
-  position: fixed;
-  right: 0;
-  top: 0;
   z-index: 9998;
   border: 0;
   background: none;
@@ -603,7 +612,7 @@ h6 {
   color: #fff;
   margin: 0 auto;
   text-align: center;
-  padding: 5rem;
+  padding: 5rem 1em;
 }
 
 .cd-container > h1 {
@@ -611,6 +620,10 @@ h6 {
   letter-spacing: 0.125rem;
   text-transform: uppercase;
   color: #413e66;
+}
+
+#countdown-time{
+padding: 0;
 }
 
 
@@ -657,10 +670,13 @@ h6 {
 
   }
   .countdown-time-para{
-    font-size: 2em;
+    font-size: 2.4em;
   }
   .countdown-time-running{
-    font-size: 2.5rem;
+    font-size: 3.6em;
+  }
+  .scrollto{
+    font-size: 1em;
   }
   
 }
@@ -675,10 +691,10 @@ h6 {
 
   }
   .countdown-time-para{
-    font-size: 1.5rem;
+    font-size: 1.1em;
   }
   .countdown-time-running{
-    font-size: 1.5rem;
+    font-size: 1.75em;
   }
   
 }
@@ -975,10 +991,12 @@ td {
 
 .flexlogo{
   display: flex;
-  width: 33%;
+  width: 25%;
   flex-direction: row;
   justify-content: center;
+  gap: 1em;
 }
+
 .flex-container{
   padding:1em 0;
   display: flex;
@@ -1011,6 +1029,9 @@ td {
     padding-top: 1em;
     font-size: 2em !important;
   }
+  .img-fluid{
+    margin-top: 7em;
+  }
 }
 
 @media (max-width: 600px) {
@@ -1018,9 +1039,10 @@ td {
     width: 70%;
   }
   .img-fluid{
-    margin-top: 6em;
+    margin-top: 7em;
   }
 }
+
 
 @media (max-width: 500px) {
   .mentorName {
@@ -1038,7 +1060,20 @@ td {
     flex-direction: column;
   }
   .flexlogo{
+    width: 60%;
+  }
+  #flexbox-to-hide{
+    display:none;
+  }
+  #flexbox-to-show{
+    display:block !important;
+  }
+  .img-fluid{
+    margin-top: 7em;
     width: 50%;
+  }
+  #heading-text{
+    zoom:0.8;
   }
 }
 
