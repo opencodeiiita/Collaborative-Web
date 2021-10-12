@@ -1,11 +1,26 @@
 [
     {
-
         "name" : "Garvit Chittora",
         "imageurl" : "https://github.com/garvitchittora.png",
         "about" : "Organiser",
         "facebook" : "https://www.facebook.com/garvit.chittora.90",
         "github" : "https://github.com/garvitchittora",
         "twitter" : "https://twitter.com/ChittoraGarvit"
-    }  
+    },
+    {
+        "name" : "Vishesh Mittal",
+        "imageurl" : "https://github.com/elemento24.png",
+        "about" : "Organiser",
+        "facebook" : "https://www.facebook.com/elemento24",
+        "github" : "https://github.com/elemento24",
+        "twitter" : "https://twitter.com/elemento24_"
+    },  
+    {
+        "name" : "Mudit Agarwal",
+        "imageurl" : "https://avatars.githubusercontent.com/u/56023615?v=4",
+        "about" : "Organiser",
+        "facebook" : "https://www.facebook.com/mudit.agarwal.1848/",
+        "github" : "https://github.com/Mudit018",
+        "twitter" : "https://twitter.com/mMudit5"
+    }
 ]
