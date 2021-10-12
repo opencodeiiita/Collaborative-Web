@@ -47,7 +47,7 @@ function addToTable(arr) {
     rank = [...pointSet].indexOf(points) + 1;
     if(rank==1){
       let markup =
-        '<tr style="background-color:#CAB8FF;"><td>' +
+        '<tr style="background-color:#14279B; color:white;"><td>' +
         '<i class="fas fa-medal" style="color:#FFD700;"></i> '+
         rank +
         '</td><td> ' +
@@ -64,7 +64,7 @@ function addToTable(arr) {
     }
     else if(rank==2){
       let markup =
-        '<tr style="background-color:#FFF47D;"><td>' +
+        '<tr style="background-color:#3D56B2; color:white;"><td>' +
         '<i class="fas fa-medal" style="color:#C0C0C0;"></i> '+
         rank +
         '</td><td> ' +
@@ -81,7 +81,7 @@ function addToTable(arr) {
     }
     else if(rank==3){
       let markup =
-        '<tr style="background-color:#E5FBB8;"><td>' +
+        '<tr style="background-color:#5C7AEA; color:white;"><td>' +
         '<i class="fas fa-medal" style="color:#8C7853;"></i> '+
         rank +
         '</td><td> ' +
