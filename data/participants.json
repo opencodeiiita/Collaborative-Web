@@ -1,23 +1,23 @@
-[ 
- {
-   "name" : "Dheeraj bhardwaj",
-   "imageurl" : "https://avatars.githubusercontent.com/u/77121472?v=4",
-   "about" : "Hello I'm a web developer and enthusiast learner and",
-   "college" : "IIITA",
-   "facebook" : "",
-   "github" : "https://github.com/Dheeraj096",
-   "twitter" : "",
-   "referral" : "Seniors"
+[
+  {
+    "name": "Dheeraj bhardwaj",
+    "imageurl": "https://avatars.githubusercontent.com/u/77121472?v=4",
+    "about": "Hello I'm a web developer and enthusiast learner and",
+    "college": "IIITA",
+    "facebook": "",
+    "github": "https://github.com/Dheeraj096",
+    "twitter": "",
+    "referral": "Seniors"
   },
   {
-   "name": "Vaibhav Sahu",
-   "imageurl": "https://avatars.githubusercontent.com/u/45689747?v=4",
-   "about": "Hello I'm a Software Developer. I know technologies like PHP, Flutter, C++.",
-   "college": "Chhatrapati Shivaji Institute Of Technology, Durg",
-   "facebook": "",
-   "github": "https://github.com/vaibhavsahu342",
-   "twitter": "https://twitter.com/vaibhav_sahu_",
-   "referral": "via LinkedIn"
+    "name": "Vaibhav Sahu",
+    "imageurl": "https://avatars.githubusercontent.com/u/45689747?v=4",
+    "about": "Hello I'm a Software Developer. I know technologies like PHP, Flutter, C++.",
+    "college": "Chhatrapati Shivaji Institute Of Technology, Durg",
+    "facebook": "",
+    "github": "https://github.com/vaibhavsahu342",
+    "twitter": "https://twitter.com/vaibhav_sahu_",
+    "referral": "via LinkedIn"
   },
   {
     "name": "Anirudh Agrawal",
@@ -745,7 +745,7 @@
   {
     "name": "Ritwik Rajput",
     "imageurl": "https://avatars.githubusercontent.com/u/76650941?v=4",
-    "about": "Hello I'm a web developer",	
+    "about": "Hello I'm a web developer",
     "college": "IIITA",
     "facebook": "",
     "github": "https://github.com/kaneki-ken260",
@@ -1713,7 +1713,7 @@
     "twitter": "",
     "referral": "through seniors"
   },
-   {
+  {
     "name": "Sachin kumar Behera",
     "imageurl": "https://avatars.githubusercontent.com/u/88645562?s=40&v=4",
     "about": "Hello I'm a web developer",
@@ -1722,7 +1722,7 @@
     "github": "",
     "twitter": "",
     "referral": "none"
-   },
+  },
   {
     "name": "Shivam Katiyar",
     "imageurl": "https://avatars.githubusercontent.com/u/76717458?v=4",
@@ -1764,24 +1764,24 @@
     "referral": "Devfolio"
   },
   {
-       "name" : "Surya Kant",
-       "imageurl" : "https://avatars.githubusercontent.com/u/55610604?v=4",
-       "about" : "Hello, I am a newbie in Web Development and open source",
-       "college" : "IIITA",
-       "facebook" : "",
-       "github" : "https://github.com/KantSurya",
-       "twitter" : "https://twitter.com/SuryaSKant",
-       "referral" : "GeekHaven"
-    },
+    "name": "Surya Kant",
+    "imageurl": "https://avatars.githubusercontent.com/u/55610604?v=4",
+    "about": "Hello, I am a newbie in Web Development and open source",
+    "college": "IIITA",
+    "facebook": "",
+    "github": "https://github.com/KantSurya",
+    "twitter": "https://twitter.com/SuryaSKant",
+    "referral": "GeekHaven"
+  },
   {
-    "name" : "Harsh Gupta",
-    "imageurl" : "https://avatars.githubusercontent.com/u/75782910?s=96&v=4",
-    "about" : "Hey there, I am a Web Developer and also a Competitive Coder",
-    "college" : "Indian Institute of Information Technology Guwahati",
-    "facebook" : "",
-    "github" : "https://github.com/Harshgupta5901",
-    "twitter" : "",
-    "referral" : "via a friend"
+    "name": "Harsh Gupta",
+    "imageurl": "https://avatars.githubusercontent.com/u/75782910?s=96&v=4",
+    "about": "Hey there, I am a Web Developer and also a Competitive Coder",
+    "college": "Indian Institute of Information Technology Guwahati",
+    "facebook": "",
+    "github": "https://github.com/Harshgupta5901",
+    "twitter": "",
+    "referral": "via a friend"
   },
   {
     "name": "Laalasa",
@@ -1792,7 +1792,8 @@
     "github": "https://github.com/Laalasa",
     "twitter": "",
     "referral": "college"
-  },{
+  },
+  {
     "name": "Bandi Meghana",
     "imageurl": "https://avatars.githubusercontent.com/u/76590483?v=4",
     "about": "Hello I'm a web developer",
@@ -1801,7 +1802,8 @@
     "github": "https://github.com/bandimeghana",
     "twitter": "",
     "referral": "through seniors"
-  },{
+  },
+  {
     "name": "Vishesh Jain",
     "imageurl": "https://avatars.githubusercontent.com/u/75686843?s=400&v=4",
     "about": "I am a coder",
@@ -1831,7 +1833,7 @@
     "twitter": "",
     "referral": "via college"
   },
-  {  
+  {
     "name": "Abhishek Wani",
     "imageurl": "https://avatars.githubusercontent.com/u/75797884?s=400&u=1bdb22d017bfb7e8312ceee6ad9783a57c8847cd&v=4",
     "about": "Hey guys, I am a Competitive Coder and learning Enthusiast",
@@ -1882,23 +1884,53 @@
     "referral": "Student of IIITN"
   },
   {
-    "name" : "Pratik Sarkate",
-    "imageurl" : "https://avatars.githubusercontent.com/u/74398075?v=4",
-    "about" : "Hi! I'm a Web Developer & Competitive Programmer",
-    "college" : "IIIT Allahabad",
-    "facebook" : "https://www.facebook.com/pratiksarkate22/",
-    "github" : "https://github.com/Pratik-Sarkate",
-    "twitter" : "https://twitter.com/prtks_22",
-    "referral" : "Geekhaven"
+    "name": "Pratik Sarkate",
+    "imageurl": "https://avatars.githubusercontent.com/u/74398075?v=4",
+    "about": "Hi! I'm a Web Developer & Competitive Programmer",
+    "college": "IIIT Allahabad",
+    "facebook": "https://www.facebook.com/pratiksarkate22/",
+    "github": "https://github.com/Pratik-Sarkate",
+    "twitter": "https://twitter.com/prtks_22",
+    "referral": "Geekhaven"
   },
   {
-    "name" : "Krishna Shah",
-    "imageurl" : "https://avatars.githubusercontent.com/u/75926051?v=4",
-    "about" : "Hey, I'm exploring Web Development!",
-    "college" : "Indian Institute of Information Technology Allahabad",
-    "facebook" : "",
-    "github" : "https://github.com/Krishna3267",
-    "twitter" : "",
-    "referral" : "GeekHaven"
-  }
+    "name": "Krishna Shah",
+    "imageurl": "https://avatars.githubusercontent.com/u/75926051?v=4",
+    "about": "Hey, I'm exploring Web Development!",
+    "college": "Indian Institute of Information Technology Allahabad",
+    "facebook": "",
+    "github": "https://github.com/Krishna3267",
+    "twitter": "",
+    "referral": "GeekHaven"
+  },
+  {
+    "name": "Miriyala Poojitha ",
+    "imageurl": "",
+    "about": "Hey there, I am a Web Developer and also a Competitive Coder",
+    "college": "Indian Institute of Information Technology Allahabad",
+    "facebook": "",
+    "github": "https://github.com/PoojithaMiriyala",
+    "twitter": "",
+    "referral": "Devfolio"
+  },
+  {
+    "name": "Shashirith ",
+    "imageurl": "",
+    "about": "Hey there, I am a Web Developer and also a Competitive Coder",
+    "college": "Indian Institute of Information Technology Allahabad",
+    "facebook": "",
+    "github": "https://github.com/shashirith",
+    "twitter": "",
+    "referral": "Devfolio"
+  },
+  {
+     "name" : "Ujjawal Sharma",
+     "imageurl" : "https://avatars.githubusercontent.com/u/64632969?v=4",
+     "about" : "Hello I'm a web developer and a Open Source Enthusiast",
+     "college" : "IIT BHU Varanasi",
+     "facebook" : "",
+     "github" : "https://www.github.com/ujju20",
+     "twitter" : "",
+     "referral" : "None"
+   }
 ]
