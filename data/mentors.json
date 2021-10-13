@@ -70,5 +70,13 @@
         "facebook" : "https://www.facebook.com/profile.php?id=100026243468466",
         "github" : "https://github.com/pankaj1707k",
         "twitter" : "https://twitter.com/PankajK47509989"
+    },
+    {
+        "name" : "Abhay Singh",
+        "imageurl" : "https://github.com/ABHAY0O7.png",
+        "about" : "Organiser",
+        "facebook" : "https://www.facebook.com/man.thakur.923/",
+        "github" : "https://github.com/ABHAY0O7",
+        "twitter" : "https://twitter.com/AbhaySi78950085"
     }
 ]
