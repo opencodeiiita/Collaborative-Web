@@ -14,7 +14,15 @@
         "facebook" : "https://www.facebook.com/elemento24",
         "github" : "https://github.com/elemento24",
         "twitter" : "https://twitter.com/elemento24_"
-    },  
+    },
+    {
+        "name" : "Shreyas Gupta",
+        "imageurl" : "https://github.com/sggts04.png",
+        "about" : "Organiser",
+        "facebook" : "https://www.facebook.com/shreyashwr/",
+        "github" : "https://github.com/sggts04",
+        "twitter" : "https://twitter.com/sggts04"
+    },
     {
         "name" : "Mudit Agarwal",
         "imageurl" : "https://avatars.githubusercontent.com/u/56023615?v=4",
