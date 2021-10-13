@@ -24,6 +24,14 @@
         "twitter" : "https://twitter.com/sggts04"
     },
     {
+        "name" : "Varun Bhardwaj",
+        "imageurl" : "https://github.com/starboi02.png",
+        "about" : "Organiser",
+        "facebook" : "https://www.facebook.com/varunbhardwaj.064/",
+        "github" : "https://github.com/starboi02",
+        "twitter" : "https://twitter.com/varunnbhardwaj_"
+    },
+    {
         "name" : "Mudit Agarwal",
         "imageurl" : "https://avatars.githubusercontent.com/u/56023615?v=4",
         "about" : "Organiser",
@@ -46,14 +54,6 @@
         "facebook" : "https://www.facebook.com/profile.php?id=100009780425358",
         "github" : "https://github.com/rag-hav",
         "twitter" : "https://twitter.com/RaghavA76503971"
-    },
-    {
-        "name" : "Varun Bhardwaj",
-        "imageurl" : "https://github.com/starboi02.png",
-        "about" : "Organiser",
-        "facebook" : "https://www.facebook.com/varunbhardwaj.064/",
-        "github" : "https://github.com/starboi02",
-        "twitter" : "https://twitter.com/varunnbhardwaj_"
     },
     {
         "name" : "Mitul Varshney",
