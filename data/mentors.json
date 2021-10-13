@@ -30,5 +30,13 @@
         "facebook" : "https://www.facebook.com/profile.php?id=100059607283259",
         "github" : "https://github.com/homewardgamer",
         "twitter" : "https://twitter.com/homewardgamer"
+    },
+       {
+        "name" : "Raghav Agarwal",
+        "imageurl" : "https://avatars.githubusercontent.com/u/60528983",
+        "about" : "Organiser",
+        "facebook" : "https://www.facebook.com/profile.php?id=100009780425358",
+        "github" : "https://github.com/rag-hav",
+        "twitter" : "https://twitter.com/RaghavA76503971"
     }
 ]
