@@ -46,5 +46,13 @@
         "facebook" : "https://www.facebook.com/varunbhardwaj.064/",
         "github" : "https://github.com/starboi02",
         "twitter" : "https://twitter.com/varunnbhardwaj_"
+    },
+    {
+        "name" : "Mitul Varshney",
+        "imageurl" : "https://github.com/Mitul16.png",
+        "about" : "Organiser",
+        "facebook" : null,
+        "github" : "https://github.com/Mitul16",
+        "twitter" : "https://twitter.com/mitul_2001"
     }
 ]
