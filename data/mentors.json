@@ -102,5 +102,13 @@
         "facebook" : null,
         "github" : "https://github.com/Srujana2505",
         "twitter" : "https://twitter.com/MarpinaSrujana"
+    },
+    {
+        "name" : "Kishan Tripathi",
+        "imageurl" : "https://github.com/GhostFoxSledgehammer",
+        "about" : "Mentor",
+        "facebook" : "https://www.facebook.com/GhostFoxSledgehammer/",
+        "github" : "https://github.com/GhostFoxSledgehammer",
+        "twitter" : "https://twitter.com/stcdalex"
     }
 ]
