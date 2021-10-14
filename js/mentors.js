@@ -20,8 +20,9 @@ for (var i = 0; i < data.length; i++) {
 
   const image = document.createElement("img");
   image.src= `${data[i].imageurl}`;
+  image.alt= `${data[i].name}`;
   image.className = "mentorImage";
-
+  
 
   imgDiv.appendChild(image);
   
