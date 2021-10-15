@@ -972,17 +972,22 @@ td {
 #mentors {
   display: flex;
   justify-content: center;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-auto-rows: auto;
+  grid-gap: 1rem;
 }
 .mentorDiv {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   transition: 0.5s;
-  width: 24%;
-
-  margin: 25px;
+  width: 80%;
+  margin-left: 10%;
+  margin-bottom: 5%;
   justify-content: center;
   text-align: center;
   border-radius: 7px;
-  background-color: rgb(229 229 238 / 35%);
+  color: white;
+  background-color: #413e66;
 }
 
 .mentorDiv:hover {
@@ -1043,10 +1048,7 @@ td {
   #mentors {
     flex-direction: column;
     align-items: center;
-  }
-
-  .mentorDiv {
-    width: 55%;
+    grid-template-columns: repeat(2, 1fr);
   }
 
   .mentorName {
@@ -1097,6 +1099,10 @@ td {
 
 
 @media (max-width: 500px) {
+  #mentors {
+    align-items: center;
+    grid-template-columns: repeat(1, 1fr);
+  }
   .mentorName {
     font-size: 5vw;
   }
