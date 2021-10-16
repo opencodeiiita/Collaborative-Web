@@ -113,10 +113,19 @@
     },
     {
         "name" : "Kishan Tripathi",
-        "imageurl" : "https://github.com/GhostFoxSledgehammer",
+        "imageurl" : "https://github.com/GhostFoxSledgehammer.png",
         "about" : "Mentor",
         "facebook" : "https://www.facebook.com/GhostFoxSledgehammer/",
         "github" : "https://github.com/GhostFoxSledgehammer",
         "twitter" : "https://twitter.com/stcdalex"
-    }
+    },
+    {
+        "name" : "Priyal Saxena",
+        "imageurl" : "https://github.com/Priyal-Saxena.png",
+        "about" : "Mentor",
+        "facebook" : "",
+        "github" : "https://github.com/Priyal-Saxena",
+        "twitter" : ""
+    },
+        
 ]
