@@ -20,8 +20,9 @@ for (var i = 0; i < data.length; i++) {
 
   const image = document.createElement("img");
   image.src= `${data[i].imageurl}`;
+  image.alt= `${data[i].name}`;
   image.className = "mentorImage";
-
+  
 
   imgDiv.appendChild(image);
   
@@ -38,6 +39,8 @@ for (var i = 0; i < data.length; i++) {
   const logoDiv=document.createElement("div");
   logoDiv.className="logoDiv";
   const fb = document.createElement("a");
+  fb.target="_blank";
+  fb.rel="noopener noreferrer"
   fb.href= `${data[i].facebook}`;
   fb.innerHTML = '<i class="fab fa-facebook fa-2x"></i>';
   fb.className = "icon";
@@ -45,12 +48,16 @@ for (var i = 0; i < data.length; i++) {
   
   const github = document.createElement("a");
   github.href= `${data[i].github}`;
+  github.target="_blank";
+  github.rel="noopener noreferrer"
   github.innerHTML = '<i class="fab fa-github fa-2x"></i>';
   github.className = "icon";
 
 
   const twitter = document.createElement("a");
   twitter.href= `${data[i].twitter}`;
+  twitter.href= `${data[i].github}`;
+  twitter.target="_blank";
   twitter.innerHTML = '<i class="fab fa-twitter fa-2x"></i>';
   twitter.className="icon";
 

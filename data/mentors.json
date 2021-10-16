@@ -14,7 +14,31 @@
         "facebook" : "https://www.facebook.com/elemento24",
         "github" : "https://github.com/elemento24",
         "twitter" : "https://twitter.com/elemento24_"
-    },  
+    },
+    {
+        "name" : "Shreyas Gupta",
+        "imageurl" : "https://github.com/sggts04.png",
+        "about" : "Organiser",
+        "facebook" : "https://www.facebook.com/shreyashwr/",
+        "github" : "https://github.com/sggts04",
+        "twitter" : "https://twitter.com/sggts04"
+    },
+    {
+        "name" : "Varun Bhardwaj",
+        "imageurl" : "https://github.com/starboi02.png",
+        "about" : "Organiser",
+        "facebook" : "https://www.facebook.com/varunbhardwaj.064/",
+        "github" : "https://github.com/starboi02",
+        "twitter" : "https://twitter.com/varunnbhardwaj_"
+    },
+    {
+        "name" : "Varun Tiwari",
+        "imageurl" : "https://github.com/VarunT11.png",
+        "about" : "Organiser",
+        "facebook" : "https://www.facebook.com/iamvt11/",
+        "github" : "https://github.com/VarunT11",
+        "twitter" : "https://twitter.com/iamvt11"
+    },    
     {
         "name" : "Mudit Agarwal",
         "imageurl" : "https://avatars.githubusercontent.com/u/56023615?v=4",
@@ -22,5 +46,86 @@
         "facebook" : "https://www.facebook.com/mudit.agarwal.1848/",
         "github" : "https://github.com/Mudit018",
         "twitter" : "https://twitter.com/mMudit5"
-    }
+    },
+    {
+        "name" : "Aditya Verma",
+        "imageurl" : "https://github.com/homewardgamer.png",
+        "about" : "Organiser",
+        "facebook" : "https://www.facebook.com/profile.php?id=100059607283259",
+        "github" : "https://github.com/homewardgamer",
+        "twitter" : "https://twitter.com/homewardgamer"
+    },
+       {
+        "name" : "Raghav Agarwal",
+        "imageurl" : "https://avatars.githubusercontent.com/u/60528983",
+        "about" : "Organiser",
+        "facebook" : "https://www.facebook.com/profile.php?id=100009780425358",
+        "github" : "https://github.com/rag-hav",
+        "twitter" : "https://twitter.com/RaghavA76503971"
+    },
+           {
+        "name" : "Ansh Gupta",
+        "imageurl" : "https://github.com/anshg0711.png",
+        "about" : "Organiser",
+        "facebook" : "https://www.facebook.com/ansh.gupta.37853/",
+        "github" : "https://github.com/anshg0711",
+        "twitter" : "https://twitter.com/AnshGup64243818"
+    },
+    {
+        "name" : "Mitul Varshney",
+        "imageurl" : "https://github.com/Mitul16.png",
+        "about" : "Organiser",
+        "facebook" : null,
+        "github" : "https://github.com/Mitul16",
+        "twitter" : "https://twitter.com/mitul_2001"
+    },
+    {
+        "name" : "Pankaj Kumar",
+        "imageurl" : "https://github.com/pankaj1707k.png",
+        "about" : "Organiser",
+        "facebook" : "https://www.facebook.com/profile.php?id=100026243468466",
+        "github" : "https://github.com/pankaj1707k",
+        "twitter" : "https://twitter.com/PankajK47509989"
+    },
+    {
+        "name" : "Aditya Narayan",
+        "imageurl" : "https://github.com/narayanaditya1007.png",
+        "about" : "Organiser",
+        "facebook" : "https://www.facebook.com/profile.php?id=100058800275122",
+        "github" : "https://github.com/narayanaditya1007",
+        "twitter" : "https://twitter.com/narayan1007adi?t=Qgi8BF1e48ws-dFjRjFr6Q&s=08"
+    },
+    {
+        "name" : "Abhay Singh",
+        "imageurl" : "https://github.com/ABHAY0O7.png",
+        "about" : "Organiser",
+        "facebook" : "https://www.facebook.com/man.thakur.923/",
+        "github" : "https://github.com/ABHAY0O7",
+        "twitter" : "https://twitter.com/AbhaySi78950085"
+    },
+    {
+        "name" : "Srujana Marpina",
+        "imageurl" : "https://github.com/Srujana2505.png",
+        "about" : "Organiser",
+        "facebook" : null,
+        "github" : "https://github.com/Srujana2505",
+        "twitter" : "https://twitter.com/MarpinaSrujana"
+    },
+    {
+        "name" : "Kishan Tripathi",
+        "imageurl" : "https://github.com/GhostFoxSledgehammer.png",
+        "about" : "Mentor",
+        "facebook" : "https://www.facebook.com/GhostFoxSledgehammer/",
+        "github" : "https://github.com/GhostFoxSledgehammer",
+        "twitter" : "https://twitter.com/stcdalex"
+    },
+    {
+        "name" : "Priyal Saxena",
+        "imageurl" : "https://github.com/Priyal-Saxena.png",
+        "about" : "Mentor",
+        "facebook" : "",
+        "github" : "https://github.com/Priyal-Saxena",
+        "twitter" : ""
+    },
+        
 ]

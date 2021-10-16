@@ -1,0 +1,42 @@
+body {
+  background-color: #f5f8fd;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 600;
+  color: #413e66;
+}
+.text-a {
+  color: var(--primary) !important;
+}
+.no-of-issues {
+  color: white;
+}
+.issue-card {
+    background-color: #e9f4ff;
+}
+.issue-card a {
+  color: #413e66;
+}
+.issue-card a:hover {
+  color: var(--primary);
+}
+.spinner-container {
+  display: none;
+  justify-content: center;
+}
+.Error {
+  color: #cf222e;
+}
+@media (max-width: 768px) {
+  .search-bar-container {
+    width: 100% !important;
+  }
+  .main-container {
+    width: 100% !important;
+  }
+}
