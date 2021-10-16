@@ -32,6 +32,14 @@
         "twitter" : "https://twitter.com/varunnbhardwaj_"
     },
     {
+        "name" : "Varun Tiwari",
+        "imageurl" : "https://github.com/VarunT11.png",
+        "about" : "Organiser",
+        "facebook" : "https://www.facebook.com/iamvt11/",
+        "github" : "https://github.com/VarunT11",
+        "twitter" : "https://twitter.com/iamvt11"
+    },    
+    {
         "name" : "Mudit Agarwal",
         "imageurl" : "https://avatars.githubusercontent.com/u/56023615?v=4",
         "about" : "Organiser",
@@ -54,6 +62,14 @@
         "facebook" : "https://www.facebook.com/profile.php?id=100009780425358",
         "github" : "https://github.com/rag-hav",
         "twitter" : "https://twitter.com/RaghavA76503971"
+    },
+           {
+        "name" : "Ansh Gupta",
+        "imageurl" : "https://github.com/anshg0711.png",
+        "about" : "Organiser",
+        "facebook" : "https://www.facebook.com/ansh.gupta.37853/",
+        "github" : "https://github.com/anshg0711",
+        "twitter" : "https://twitter.com/AnshGup64243818"
     },
     {
         "name" : "Mitul Varshney",
@@ -89,10 +105,18 @@
     },
     {
         "name" : "Srujana Marpina",
-        "imageurl" : "https://drive.google.com/file/d/1nQvsCTJbSlY6lHsZILqXYw3iMJ1EQHCM/view?usp=drivesdk",
+        "imageurl" : "https://github.com/Srujana2505.png",
         "about" : "Organiser",
         "facebook" : null,
         "github" : "https://github.com/Srujana2505",
         "twitter" : "https://twitter.com/MarpinaSrujana"
+    },
+    {
+        "name" : "Kishan Tripathi",
+        "imageurl" : "https://github.com/GhostFoxSledgehammer",
+        "about" : "Mentor",
+        "facebook" : "https://www.facebook.com/GhostFoxSledgehammer/",
+        "github" : "https://github.com/GhostFoxSledgehammer",
+        "twitter" : "https://twitter.com/stcdalex"
     }
 ]
