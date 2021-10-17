@@ -368,6 +368,12 @@ h6 {
     list-style: none;
 }
 
+.main-nav > ul {
+    position: absolute;
+    right: 0;
+    padding: 0 2em;
+}
+
 .main-nav > ul > li {
     position: relative;
     white-space: nowrap;
