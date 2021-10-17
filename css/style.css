@@ -619,6 +619,12 @@ h6 {
     text-transform: uppercase;
     color: #413e66;
 }
+.cd-container > h2 {
+    font-weight: normal;
+    letter-spacing: 0.125rem;
+    text-transform: uppercase;
+    color: #413e66;
+}
 
 #countdown-time {
     padding: 0;
@@ -836,10 +842,14 @@ li span {
     display: flex;
     justify-content: center;
     align-items: center;
+
+
+
 }
 
 #about .about-img img {
-    width: 100%;
+     width: 100%;
+     height: 100%;
     transition: 0.5s;
 }
 
@@ -1016,7 +1026,7 @@ td {
 }
 
 .mentorImage {
-    max-width: 90%;
+    width: 90%;
     height: 90%;
     margin-top: 13px;
     border-radius: 5px;
@@ -1118,7 +1128,7 @@ td {
 /* mentors end! */
 
 /*/////////////// PROJECTS ////////////////////////////////////////////////////////////////*/
-#projects h1 {
+#projects h1{
     align-items: center;
     text-align: center;
     padding-top: 1em;
