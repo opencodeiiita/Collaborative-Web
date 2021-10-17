@@ -45,7 +45,7 @@ for (var i = 0; i < data.length; i++) {
   fb.href= `${data[i].facebook}`;
   fb.innerHTML = '<i class="fab fa-facebook fa-2x"></i>';
   fb.className = "icon";
-  fb.ariaLabel="Twitter";
+  fb.ariaLabel="Facebook link";
   
   const github = document.createElement("a");
   github.href= `${data[i].github}`;
@@ -53,7 +53,7 @@ for (var i = 0; i < data.length; i++) {
   github.rel="noopener noreferrer"
   github.innerHTML = '<i class="fab fa-github fa-2x"></i>';
   github.className = "icon";
-  github.ariaLabel="Twitter";
+  github.ariaLabel="Github link";
 
   const twitter = document.createElement("a");
   twitter.href= `${data[i].twitter}`;
@@ -62,7 +62,7 @@ for (var i = 0; i < data.length; i++) {
   twitter.rel = "noopener"
   twitter.innerHTML = '<i class="fab fa-twitter fa-2x"></i>';
   twitter.className="icon";
-  twitter.ariaLabel="Twitter";
+  twitter.ariaLabel="Twitter link";
 
   logoDiv.appendChild(fb);
   logoDiv.appendChild(github);
