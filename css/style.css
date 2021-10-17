@@ -619,6 +619,12 @@ h6 {
     text-transform: uppercase;
     color: #413e66;
 }
+.cd-container > h2 {
+    font-weight: normal;
+    letter-spacing: 0.125rem;
+    text-transform: uppercase;
+    color: #413e66;
+}
 
 #countdown-time {
     padding: 0;
@@ -1122,7 +1128,7 @@ td {
 /* mentors end! */
 
 /*/////////////// PROJECTS ////////////////////////////////////////////////////////////////*/
-#projects h1 {
+#projects h1{
     align-items: center;
     text-align: center;
     padding-top: 1em;
