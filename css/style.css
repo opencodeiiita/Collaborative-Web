@@ -754,7 +754,12 @@ li span {
     transform: translate(-50%, -50%);
     padding: 10px 48px;
     color: rgb(20, 20, 20);
-    background: linear-gradient(to right, #a8a8a8 0, rgba(46, 45, 45, 0.829) 10%, #a8a8a8 20%);
+    background: linear-gradient(
+        to right,
+        #a8a8a8 0,
+        rgba(46, 45, 45, 0.829) 10%,
+        #a8a8a8 20%
+    );
     background-position: 0;
     background-clip: text;
     -webkit-background-clip: text;
@@ -842,14 +847,11 @@ li span {
     display: flex;
     justify-content: center;
     align-items: center;
-
-
-
 }
 
 #about .about-img img {
-     width: 100%;
-     height: 100%;
+    width: 100%;
+    height: 100%;
     transition: 0.5s;
 }
 
@@ -885,10 +887,12 @@ li span {
 
 /* Participants Section
 --------------------------------*/
-/* .participants {
-} */
+#participants {
+    padding: 25px 0 50px 0;
+}
 .participantsHeading {
     text-align: center;
+    margin: 30px 0;
 }
 #pointsTable {
     margin-left: auto;
@@ -973,6 +977,7 @@ td {
     flex-wrap: wrap;
     justify-content: space-evenly;
     align-items: center;
+    /* padding: 0 100px; */
 }
 .mentorDiv {
     background-color: #ccc;
@@ -1047,7 +1052,21 @@ td {
     justify-content: space-around;
     flex-direction: row;
 }
+
+@media (min-width: 1000px) {
+    #mentors {
+        padding: 0 100px;
+    }
+}
 @media (max-width: 800px) {
+    #mentors {
+        padding: 0 20px;
+    }
+}
+@media (max-width: 800px) {
+    #mentors {
+        padding: 0 10px;
+    }
     .icon {
         font-size: 10px;
     }
@@ -1128,7 +1147,10 @@ td {
 /* mentors end! */
 
 /*/////////////// PROJECTS ////////////////////////////////////////////////////////////////*/
-#projects h1{
+#projects {
+    padding: 25px 0 50px 0;
+}
+#projects h1 {
     align-items: center;
     text-align: center;
     padding-top: 1em;
@@ -1144,6 +1166,7 @@ td {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
+    padding: 0 20px;
 }
 
 .project__card {
