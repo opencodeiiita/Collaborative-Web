@@ -1059,7 +1059,7 @@ td {
     padding-bottom: 1em;
 }
 #part .typewrite{
-    padding-bottom: 1em;
+    padding-bottom: 0.8em;
 }
 @media (max-width: 800px) {
     .icon {
