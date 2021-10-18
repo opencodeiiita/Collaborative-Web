@@ -1056,7 +1056,7 @@ td {
 }
 #part{
     padding-top: 2em;
-    padding-bottom: 2em;
+    padding-bottom: 1em;
 }
 #part .typewrite{
     padding-bottom: 1em;
