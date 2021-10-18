@@ -1055,7 +1055,7 @@ td {
     flex-direction: row;
 }
 #part{
-    padding-top: 2em;
+    padding-top: 1.5em;
     padding-bottom: 1em;
 }
 #part .typewrite{
