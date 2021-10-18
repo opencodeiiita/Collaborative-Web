@@ -1,7 +1,9 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
-
+.html{
+  scroll-behavior: smooth;
+}
 body {
     background: #fff;
     color: #444;
@@ -357,7 +359,7 @@ h6 {
 /* Desktop Navigation */
 /*
 .main-nav {
-  Drop Down 
+  Drop Down
   Deep Drop Down
 }
 */
@@ -935,7 +937,7 @@ table {
     -moz-border-radius: 5px;
     padding: 5px;
 }
-/* 
+/*
 th,
 td {
   padding: 0em, 5em;
