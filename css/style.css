@@ -948,6 +948,7 @@ td {
     justify-content: center;
     color: #000;
     padding-top: 3%;
+    padding-right: 2%;
 }
 
 .page {
@@ -1142,7 +1143,7 @@ td {
 #projects h1 .typewrite {
     align-items: center;
     text-align: center;
-    color: rgba(0, 0, 0, 0.87);
+    color: #1bb1dc;
     font-weight: 500;
 }
 
