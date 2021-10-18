@@ -1054,8 +1054,12 @@ td {
     justify-content: space-around;
     flex-direction: row;
 }
-#participants{
-    margin-top: 2em;
+#part{
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+#part .typewrite{
+    padding-bottom: 1em;
 }
 @media (max-width: 800px) {
     .icon {
