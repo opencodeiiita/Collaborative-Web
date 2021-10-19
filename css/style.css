@@ -1,7 +1,9 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
-
+.html {
+    scroll-behavior: smooth;
+}
 body {
     background: #fff;
     color: #444;
@@ -357,7 +359,7 @@ h6 {
 /* Desktop Navigation */
 /*
 .main-nav {
-  Drop Down 
+  Drop Down
   Deep Drop Down
 }
 */
@@ -730,7 +732,7 @@ li span {
 --------------------------------*/
 
 #about {
-    padding: 25px 0 50px 0;
+    padding: 25px 0 35px 0;
     background-image: linear-gradient(5deg, #ffffff, #f5f8fd);
 }
 
@@ -848,14 +850,11 @@ li span {
     display: flex;
     justify-content: center;
     align-items: center;
-
-
-
 }
 
 #about .about-img img {
-     width: 100%;
-     height: 100%;
+    width: 100%;
+    height: 100%;
     transition: 0.5s;
 }
 
@@ -935,7 +934,7 @@ table {
     -moz-border-radius: 5px;
     padding: 5px;
 }
-/* 
+/*
 th,
 td {
   padding: 0em, 5em;
@@ -1054,15 +1053,31 @@ td {
     justify-content: space-around;
     flex-direction: row;
 }
-#part{
+#part {
     padding-top: 1.5em;
     padding-bottom: 1em;
 }
-#part .typewrite{
+
+#part .typewrite {
     padding-bottom: 0.8em;
     font-weight: 500;
 }
+
+@media (min-width: 1000px) {
+    #mentors {
+        padding: 0 100px;
+    }
+}
 @media (max-width: 800px) {
+    #mentors {
+        padding: 0 20px;
+    }
+}
+
+@media (max-width: 800px) {
+    #mentors {
+        padding: 0 10px;
+    }
     .icon {
         font-size: 10px;
     }
@@ -1143,7 +1158,7 @@ td {
 /* mentors end! */
 
 /*/////////////// PROJECTS ////////////////////////////////////////////////////////////////*/
-#projects h1{
+#projects h1 {
     align-items: center;
     text-align: center;
     padding-top: 1em;
@@ -1162,7 +1177,7 @@ td {
 }
 
 .project__card {
-    margin: 20px;
+    margin: 25px;
     padding: 20px;
     /*   width: 500px; */
     background: radial-gradient(#1fe4f5, #3fbafe);
