@@ -1245,6 +1245,7 @@ td {
     width: 100%;
     height: auto;
     object-fit: contain;
+    border-radius: 10%;
 }
 /* RESPONSIVE */
 

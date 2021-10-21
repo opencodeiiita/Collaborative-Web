@@ -90,7 +90,7 @@ function createCard(project) {
     };
   xhr.send();
 
-  image.style="width:100%; height: auto;"
+  image.style="width:72%; height: auto;"
   image.classList.add("projectimage");
   console.log(project.name, repotoimage[project.name]);
   //Passing the repo name as query string to fetch the issues for the repo when the page loads
