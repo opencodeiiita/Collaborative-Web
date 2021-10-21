@@ -1043,7 +1043,7 @@ td {
     width: 25%;
     flex-direction: row;
     justify-content: center;
-    gap: 1em;
+    /* gap: 1em; */
 }
 
 .flex-container {
@@ -1119,9 +1119,6 @@ td {
     }
     .flex-container {
         flex-direction: column;
-    }
-    .flexlogo {
-        width: 60%;
     }
     #flexbox-to-hide {
         display: none;
@@ -1257,5 +1254,32 @@ td {
         justify-content: center;
     }
 }
+
+/************************************** FOOTER **************************************/
+/* Some more of footter is mixed up in the media queries above and will have to be sorted later */
+footer {
+    padding-top: 0.75em;
+}
+.flexlogo {
+    padding-top: 2em;
+}
+.footerIcon {
+    transition: 0.5s;
+}
+
+.footerIcon:hover {
+    transform: translateY(-5px);
+}
+@media (max-width: 625px) {
+    .flexlogo {
+        width: 60%;
+    }
+}
+@media (max-width: 500px) {
+    .flexlogo {
+        gap: 0.4em;
+    }
+}
+/************************************** FOOTER ENDS **************************************/
 
 /*/////////////// PROJECTS ENDS////////////////////////////////////////////////////////////////*/
