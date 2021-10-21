@@ -1,64 +1,79 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8" />
-    <title>Opencode'21</title>
-    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
-    <meta content="" name="keywords" />
-    <meta content="" name="description" />
-    <link rel="icon" type="image/png" href="img/favicon-opencode.ico" />
-    <!-- Favicons -->
-    <link href="img/favicon.png" rel="icon" />
-    <link href="img/apple-touch-icon.png" rel="apple-touch-icon" />
-    <script src="https://use.fontawesome.com/releases/v5.15.3/js/all.js" crossorigin="anonymous"></script>
+<html lang="en" class="html">
 
-    <!-- Google Fonts -->
-    <link
-      href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,500,600,700,700i|Montserrat:300,400,500,600,700"
-      rel="stylesheet"
-    />
+<head>
+  <meta charset="utf-8" />
+  <title>Opencode'21</title>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+  <meta name="description"
+    content="OpenCode is a month of opensource where programmers, designers and innovators code, design, and build solutions that tackle real-world problems">
+  <meta property="og:title" content="Collaborative-Web" />
+  <meta property="og:description"
+    content="The page contains information of participants,mentors and the projects included in the opencode-A month long opensource event." />
+  <meta property="og:url" content="https://opencodeiiita.github.io/Collaborative-Web/" />
+  <meta name="twitter:title" content="about">
+  <meta name="twitter:description" content="India's biggest Student organised opensource event">
+  <meta name="twitter:image" content="https://pbs.twimg.com/profile_images/1004619078730858496/k72kqpOx_400x400.jpg">
+  <meta name="twitter:site" content="@geekhaveniiita">
 
-    <!-- Bootstrap CSS File -->
-    <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+  <link rel="icon" type="image/png" href="img/favicon-opencode.ico" rel="noopener" />
+  <!-- Favicons -->
+  <link href="img/favicon.png" rel="icon" rel="noopener" />
+  <link href="img/apple-touch-icon.png" rel="apple-touch-icon"  rel="noopener"/>
+  <script src="lib/font-awesome/js/fontawesomeAll.min.js" crossorigin="anonymous" defer rel="noopener"></script>
 
-    <!-- Libraries CSS Files -->
-    <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet" />
-    <link href="lib/animate/animate.min.css" rel="stylesheet" />
-    <link href="lib/ionicons/css/ionicons.min.css" rel="stylesheet" />
-    <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet" />
-    <link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet" />
+  <!-- Google Fonts -->
+  <link rel="preload" href="lib/GoogleFont/googlefont.min.css" as="style"
+    onload="this.rel='stylesheet'"><noscript><link rel="stylesheet" href="lib/GoogleFont/googlefont.min.css"></noscript>
+  <!-- Bootstrap CSS File -->
+  <link rel="preload" href="lib/bootstrap/css/bootstrap.min.css" as="style"
+   onload="this.rel='stylesheet'"><noscript><link rel="stylesheet" href="lib/bootstrap/css/bootstrap.min.css"></noscript>
 
-    <!-- Main Stylesheet File -->
-    <link href="css/style.css" rel="stylesheet" />
-  </head>
+  <!-- Libraries CSS Files -->
+  <link rel="preload" href="lib/font-awesome/css/font-awesome.min.css" as="style"
+   onload="this.rel='stylesheet'"><noscript><link rel="stylesheet" href="lib/font-awesome/css/font-awesome.min.css"></noscript>
+  <link rel="preload" href="lib/animate/animate.min.css" as="style"
+   onload="this.rel='stylesheet'"><noscript><link rel="stylesheet" href="lib/animate/animate.min.css"></noscript>
+  <link rel="preload" href="lib/owlcarousel/assets/owl.carousel.min.css" as="style"
+   onload="this.rel='stylesheet'"><noscript><link rel="stylesheet" href="lib/owlcarousel/assets/owl.carousel.min.css"></noscript>
+  <link rel="preload" href="lib/ionicons/css/ionicons.min.css" as="style"
+   onload="this.rel='stylesheet'"><noscript><link rel="stylesheet" href="lib/ionicons/css/ionicons.min.css"></noscript>
+  <link rel="preload" href="lib/lightbox/css/lightbox.min.css" as="style"
+   onload="this.rel='stylesheet'"><noscript><link rel="stylesheet" href="lib/lightbox/css/lightbox.min.css"></noscript>
 
-  <body>
-    <a href="#" id="scroll" style="display: none"><span></span></a>
-    <!--==========================
+  <!-- Main Stylesheet File -->
+  <link rel="preload" href="css/style.css" as="style"
+  onload="this.rel='stylesheet'"><noscript><link rel="stylesheet" href="css/style.css"></noscript>
+
+</head>
+
+<body>
+  <a aria-label="scroll page"href="#" id="scroll" style="display: none"  ><span></span></a>
+  <!--==========================
   Header
   ============================-->
-    <header id="header">
-      <div id="topbar">
-        <div class="container"></div>
+  <header id="header">
+    <div id="topbar">
+      <div class="container"></div>
+    </div>
+
+    <div class="container">
+      <div id="heading-text" class="logo float-left">
+        <h1 class="text-light">
+          <a aria-label="Opencode'21"href="#intro" class="scrollto"><span>OPENCODE'21</span></a>
+        </h1>
+        <!-- <a href="#header" class="scrollto"><img loader="lazy" loader="lazy" src="img/logo.png" alt="" class="img-fluid"></a> -->
       </div>
 
-      <div class="container">
-        <div id="heading-text" class="logo float-left">
-          <h1 class="text-light">
-            <a href="#intro" class="scrollto"><span>OPENCODE'21</span></a>
-          </h1>
-          <!-- <a href="#header" class="scrollto"><img src="img/logo.png" alt="" class="img-fluid"></a> -->
-        </div>
-
-        <nav class="main-nav float-right d-none d-lg-block">
-          <ul>
-            <li class="active"><a href="#intro">Home</a></li>
-            <li><a href="#about">About Us</a></li>
-            <!-- <li><a href="#services">Services</a></li> -->
-            <li><a href="#mentors">Mentors</a></li>
-            <li><a href="#participants">Participants</a></li>
-            <li><a href="#projects">Projects</a></li>
-            <!-- <li class="drop-down"><a href="">Drop Down</a>
+      <nav class="main-nav float-right d-none d-lg-block">
+        <ul>
+          <li class="active"><a aria-label="Home page"href="#intro" rel="noopener">Home</a></li>
+          <li><a aria-label="About us page"href="#about" rel="noopener">About Us</a></li>
+          <!-- <li><a aria-label="Twitter"href="#services">Services</a></li> -->
+          <li><a aria-label="Mentors page"href="#mentors">Mentors</a></li>
+          <li><a aria-label="Participants page" href="#participants">Participants</a></li>
+          <li><a aria-label="Projects page" href="#projects">Projects</a></li>
+          <!-- <li class="drop-down"><a aria-label="Twitter"href="">Drop Down</a>
             <ul>
               <li><a href="#">Drop Down 1</a></li>
               <li class="drop-down"><a href="#">Drop Down 2</a>
@@ -67,7 +82,7 @@
                   <li><a href="#">Deep Drop Down 2</a></li>
                   <li><a href="#">Deep Drop Down 3</a></li>
                   <li><a href="#">Deep Drop Down 4</a></li>
-                  <li><a href="#">Deep Drop Down 5</a></li>
+                  <li><ahref="#">Deep Drop Down 5</ahref=></li>
                 </ul>
               </li>
               <li><a href="#">Drop Down 3</a></li>
@@ -75,150 +90,179 @@
               <li><a href="#">Drop Down 5</a></li>
             </ul>
           </li> -->
-            <li><a href="#footer">Contact Us</a></li>
-          </ul>
-        </nav>
-        <!-- .main-nav -->
-      </div>
-    </header>
-    <!-- #header -->
+          <li><a aria-label ="Contact us page" href="#footer">Contact Us</a></li>
+        </ul>
+      </nav>
+      <!-- .main-nav -->
+    </div>
+  </header>
+  <!-- #header -->
 
-    <!--==========================
+  <!--==========================
     Intro Section
   ============================-->
-    <section id="intro" class="clearfix">
-      <div class="container d-flex h-100">
-        <div class="row justify-content-center align-self-center">
-          <div class="col-md-6 intro-img order-md-first order-first">
-            <img src="img/logo.png" alt="" class="img-fluid" />
+  <section id="intro" class="clearfix">
+    <div class="container d-flex h-100">
+      <div class="row justify-content-center align-self-center">
+        <div class="col-md-6 intro-img order-md-first order-first">
+          <img loader="lazy" loader="lazy" src="img/logo.webp" alt="Logo of Openvode" class="img-fluid" width="400px" height="350px" />
+        </div>
+
+        <div class="col-md-6 align-self-center intro-info order-md-first order-last">
+          <!-- <h3 class="hoverFade">30-days long Open Source fiesta by IIIT Allahabad</h3> -->
+          <h2 id="hoverFade">
+            <span>3</span><span>0</span><span>-</span><span>d</span><span>a</span><span>y</span><span>s</span>
+            <span>l</span><span>o</span><span>n</span><span>g</span>
+            <span>O</span><span>p</span><span>e</span><span>n</span>
+            <span>S</span><span>o</span><span>u</span><span>r</span><span>c</span><span>e</span>
+            <span>f</span><span>i</span><span>e</span><span>s</span><span>t</span><span>a</span>
+            <span>b</span><span>y</span> <span>I</span><span>I</span><span>I</span><span>T</span>
+            <span>A</span><span>l</span><span>l</span><span>a</span><span>h</span><span>a</span><span>b</span><span>a</span><span>d</span>
+          </h2>
+          <div class="row justify-content-center align-self-center">
+            <a aria-label="Detail description" href="#about" class="btn-get-started scrollto">Get Started</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- #intro -->
+  <main id="main">
+    <!--==========================
+      CountDown Section
+    ============================-->
+    <section class="countdownSection">
+      <div class="cd-container">
+        <h2>Opencode ends in:</h2>
+        <div id="countdown">
+          <ul id="countdown-time">
+            <li><span id="days" class="countdown-time-running"></span>
+              <p class="countdown-time-para">days</p>
+            </li>
+            <li><span id="hours" class="countdown-time-running"></span>
+              <p class="countdown-time-para">hours</p>
+            </li>
+            <li><span id="minutes" class="countdown-time-running"></span>
+              <p class="countdown-time-para">minutes</p>
+            </li>
+            <li><span id="seconds" class="countdown-time-running"></span>
+              <p class="countdown-time-para">seconds</p>
+            </li>
+          </ul>
+        </div>
+        <div id="content" class="emoji">
+          <span>🎉</span>
+          <span>🎉</span>
+          <span>🎉</span>
+        </div>
+      </div>
+    </section>
+    <!-- #CountDown -->
+
+    <!--==========================
+      About Us Section
+    ============================-->
+    <section id="about">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-5 col-md-6">
+            <div class="about-img">
+              <img loader="lazy" loader="lazy" src="img/intro-img.svg"
+                alt="A geeky and techy background" />
+            </div>
           </div>
 
-          <div class="col-md-6 align-self-center intro-info order-md-first order-last">
-            <!-- <h3 class="hoverFade">30-days long Open Source fiesta by IIIT Allahabad</h3> -->
-            <h3 id="hoverFade">
-              <span>3</span><span>0</span><span>-</span><span>d</span><span>a</span><span>y</span
-              ><span>s</span> <span>l</span><span>o</span><span>n</span><span>g</span> <span>O</span
-              ><span>p</span><span>e</span><span>n</span> <span>S</span><span>o</span><span>u</span
-              ><span>r</span><span>c</span><span>e</span> <span>f</span><span>i</span><span>e</span
-              ><span>s</span><span>t</span><span>a</span> <span>b</span><span>y</span> <span>I</span
-              ><span>I</span><span>I</span><span>T</span> <span>A</span><span>l</span><span>l</span
-              ><span>a</span><span>h</span><span>a</span><span>b</span><span>a</span><span>d</span>
-            </h3>
-            <div class="row justify-content-center align-self-center">
-              <a href="#about" class="btn-get-started scrollto">Get Started</a>
+          <div class="col-lg-7 col-md-6">
+            <div class="about-content">
+              <h2 class="TextGlow">About Opencode</h2>
+
+              <p>
+                OpenCode is a month of opensource where programmers, designers and innovators code, design,
+                and build solutions that tackle real-world problems. It is organised annually by Geekhaven,
+                the technical society of Indian Institute of Information Technology, Allahabad. It aims at
+                giving a hands on experience of Open source to the newbies as well as the pros. The
+                participants compete in this month long battle of development, completing tasks of Web
+                Development, App Development, Design, Programming, Machine Learning and many more, all
+                wishing to see their names at the top of the glorious Leaderboard!
+              </p>
+
+              <ul></ul>
             </div>
           </div>
         </div>
       </div>
     </section>
-    <!-- #intro -->
-    <main id="main">
-      <!--==========================
-      CountDown Section
-    ============================-->
-      <section class="countdownSection">
-        <div class="cd-container">
-          <h1>Opencode ends in:</h1>
-          <div id="countdown">
-            <ul id="countdown-time">
-              <li><span id="days" class= "countdown-time-running"></span><p class="countdown-time-para">days</p></li>
-              <li><span id="hours" class= "countdown-time-running"></span><p class="countdown-time-para">hours</p></li>
-              <li><span id="minutes" class= "countdown-time-running"></span><p class="countdown-time-para">minutes</p></li>
-              <li><span id="seconds" class= "countdown-time-running"></span><p class="countdown-time-para">seconds</p></li>
-            </ul>
-          </div>
-          <div id="content" class="emoji">
-            <span>🎉</span>
-            <span>🎉</span>
-            <span>🎉</span>
-          </div>
-        </div>
-      </section>
-      <!-- #CountDown -->
+    <!-- #about -->
 
-      <!--==========================
-      About Us Section
-    ============================-->
-      <section id="about">
-        <div class="container">
-          <div class="row">
-            <div class="col-lg-5 col-md-6">
-              <div class="about-img">
-                <img
-                  src="https://opencodeiiita.github.io/Opencode-Collaborative-20/img/intro-img.svg"
-                  alt=""
-                />
-              </div>
-            </div>
-
-            <div class="col-lg-7 col-md-6">
-              <div class="about-content">
-                <a class="TextGlow">About Opencode</a>
-
-                <p>
-                  OpenCode is a month of opensource where programmers, designers and innovators code, design,
-                  and build solutions that tackle real-world problems. It is organised annually by Geekhaven,
-                  the technical society of Indian Institute of Information Technology, Allahabad. It aims at
-                  giving a hands on experience of Open source to the newbies as well as the pros. The
-                  participants compete in this month long battle of development, completing tasks of Web
-                  Development, App Development, Design, Programming, Machine Learning and many more, all
-                  wishing to see their names at the top of the glorious Leaderboard!
-                </p>
-
-                <ul></ul>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
-      <!-- #about -->
-
-      <!-- Mentors! -->
-      <h1 style="text-align: center" class="Mentor">Mentors</h1>
-      <div id="mentors"></div>
-
-      <!--==========================
+    <!-- Mentors! -->
+    <div id="part" style="text-align: center;">
+    <h1>
+      <a href="https://github.com/opencodeiiita"
+      target="_blank"
+      class="typewrite"
+      data-period="2000"
+      data-type='[ "Our Mentors","The Guiding Ray!" ]' rel="noopener">
+      </a><span class="wrap"></span>
+    </h1>
+  </div>
+    <div id="mentors"></div>
+<br>
+<br>
+    <!--==========================
       Participants Section
     ============================-->
-      <section id="participants">
-        <h1 class="participantsHeading">Participants</h1>
-        <table class="pointsTable" id="pointsTable">
-          <thead>
-            <tr>
-              <th>Rank</th>
-              <th>Username</th>
-              <th>Points</th>
-              <th>Name</th>
-            </tr>
-          </thead>
-          <tbody id="participantsList"></tbody>
-        </table>
-        <div class="d-flex justify-content-center my-5 mx-auto">
-          <a href="/Collaborative-Web/assigned-issues.html" class="btn btn-info mx-auto">See All Assigned Issues</a>
-        </div>
-        <div class="pagination">
-          <div class="page" id="prev">Previous Page</div>
-          <div class="current" id="current">1</div>
-          <div class="page" id="next">Next Page</div>
-        </div>
-      </section>
-      <!-- #Participants -->
+    <section id="participants">
+      <div id="part" style="text-align: center;">
+      <h1>
+        <a href="https://github.com/opencodeiiita"
+        target="_blank"
+        class="typewrite"
+        data-period="2000"
+        data-type='[ "Our Participants","Check The Top Scorers!" ]' rel="noopener">
+        </a><span class="wrap"></span>
+      </h1>
+    </div>
+      <table class="pointsTable" id="pointsTable">
+        <thead>
+          <tr>
+            <th>Rank</th>
+            <th>Username</th>
+            <th>Points</th>
+            <th>Name</th>
+          </tr>
+        </thead>
+        <tbody id="participantsList"></tbody>
+      </table>
 
-      <!--==========================
-      Projects Section
-    ============================-->
-      <section id="projects">
-        <h1>
-          <a href="" class="typewrite" data-period="2000" data-type='[ "Our Projects:","Check them out!" ]'>
-          </a
-          ><span class="wrap"></span>
-        </h1>
-        <div class="project__cards" id="project__cards"></div>
-      </section>
-      <!-- #Projects -->
-    </main>
+      <div class="pagination">
+        <div class="page" id="prev">Previous Page</div>
+        <div class="current" id="current">1</div>
+        <div class="page" id="next">Next Page</div>
+      </div>
+      <div class="d-flex justify-content-center my-5 mx-auto">
+        <a aria-label ="Assigned issue page" href="/Collaborative-Web/assigned-issues.html" class="btn btn-info mx-auto" rel="noopener">See All Assigned Issues</a>
+      </div>
+    </section>
+    <!-- #Participants -->
 
     <!--==========================
+      Projects Section
+    ============================-->
+    <section id="projects" style="text-align: center;">
+      <h1>
+        <a href="https://github.com/opencodeiiita"
+        target="_blank"
+        class="typewrite"
+        data-period="2000"
+        data-type='[ "Our Projects","Check Them Out!" ]' rel="noopener">
+        </a><span class="wrap"></span>
+      </h1>
+      <div class="project__cards" id="project__cards"></div>
+    </section>
+    <!-- #Projects -->
+  </main>
+
+  <!--==========================
     Footer
   ============================-->
   <div class="footer">
@@ -228,33 +272,28 @@
           <!--row-->
           <div class="flex-container">
             <div class="flexlogo">
-              <img src="img/iita_logo.png" alt="" height="80" width="80" />
-              <img src="img/geekhaven.png" alt="" height="80" width="80" />
-              <img id="flexbox-to-show" class="flexbox" src="img/oc.png" alt="Whoa" style="display:none;" align="right" height="80" width="80"/>
+              <img  loader="lazy" src="img/iita_logo.webp" alt="Indian Institute of Information and Technology,Allahabad" height="80"
+                width="80" />
+              <img  loader="lazy" src="img/geekhaven.webp" alt="geekhaveniiita technical society logo" height="80" width="80" />
+              <img  loader="lazy" id="flexbox-to-show" class="flexbox" src="img/oc.webp" alt="Opencode Logo" style="display:none;"
+                align="right" height="80" width="80" />
             </div>
             <br />
             <div class="flexlogo">
 
-                <a class="mx-3" href="https://www.facebook.com/opencodeiiita/"
-                  ><i class="fab fa-facebook fa-2x"></i>
-                </a>
-                <a class="mx-3" href="https://twitter.com/geekhaveniiita"
-                  ><i class="fab fa-twitter fa-2x"></i>
-                </a>
-                <a class="mx-3" href="https://github.com/opencodeiiita"
-                  ><i class="fab fa-github fa-2x"></i>
-                </a>
+              <a class="mx-3" href="https://www.facebook.com/opencodeiiita/" rel="noopener" rel="noopener" aria-label="facbook link"><i class="fab fa-facebook fa-2x footerIcon"></i>
+              </a>
+              <a class="mx-3" href="https://twitter.com/geekhaveniiita" rel="noopener" rel="noopener" aria-label="twitter link"><i class="fab fa-twitter fa-2x footerIcon"></i>
+              </a>
+              <a class="mx-3" href="https://github.com/opencodeiiita" rel="noopener" rel="noopener" aria-label="github link"><i class="fab fa-github fa-2x footerIcon"></i>
+              </a>
+              <!-- <a class="mx-3" href="https://linkedin.com/company/geekhaven-iiita/" rel="noopener" rel="noopener" aria-label="linkedin link"><i class="fab fa-linkedin fa-2x"></i>
+              </a> -->
 
             </div>
 
             <div id="flexbox-to-hide" class="flexlogo">
-              <img
-                src="img/oc.png"
-                alt="Whoa"
-                align="right"
-                height="80"
-                width="80"
-              />
+              <img loader="lazy" src="img/oc.webp" alt="Logo of Opencode" align="right" height="80" width="80" />
             </div>
           </div>
           <!--row ends-->
@@ -266,36 +305,37 @@
       </div>
     </footer>
     <!-- #footer -->
-    </div>
+  </div>
 
-    <!-- Uncomment below i you want to use a preloader -->
-    <!-- <div id="preloader"></div> -->
+  <!-- Uncomment below i you want to use a preloader -->
+  <!-- <div id="preloader"></div> -->
 
-    <!-- JavaScript Libraries -->
-    <script src="lib/jquery/jquery.min.js"></script>
-    <script src="lib/jquery/jquery-migrate.min.js"></script>
-    <script src="lib/bootstrap/js/bootstrap.bundle.min.js"></script>
-    <script src="lib/easing/easing.min.js"></script>
-    <script src="lib/mobile-nav/mobile-nav.js"></script>
-    <script src="lib/wow/wow.min.js"></script>
-    <script src="lib/waypoints/waypoints.min.js"></script>
-    <script src="lib/counterup/counterup.min.js"></script>
-    <script src="lib/owlcarousel/owl.carousel.min.js"></script>
-    <script src="lib/isotope/isotope.pkgd.min.js"></script>
-    <script src="lib/lightbox/js/lightbox.min.js"></script>
-    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.7.0/d3.min.js"></script>
+  <!-- JavaScript Libraries -->
+  <script src="lib/jquery/jquery.min.js" rel="noopener"></script>
+  <script src="lib/jquery/jquery-migrate.min.js" rel="noopener"></script>
+  <script src="lib/bootstrap/js/bootstrap.bundle.min.js" rel="noopener"></script>
+  <script src="lib/easing/easing.min.js" rel="noopener"></script>
+  <script src="lib/mobile-nav/mobile-nav.js" rel="noopener"></script>
+  <script src="lib/wow/wow.min.js" rel="noopener"></script>
+  <script src="lib/waypoints/waypoints.min.js" rel="noopener"></script>
+  <script src="lib/counterup/counterup.min.js" rel="noopener"></script>
+  <script src="lib/owlcarousel/owl.carousel.min.js" rel="noopener"></script>
+  <script src="lib/isotope/isotope.pkgd.min.js" rel="noopener"></script>
+  <script src="lib/lightbox/js/lightbox.min.js" rel="noopener"></script>
+  <script type="text/javascript" src="lib/Cloudeflare/cloudeflare.min.js" rel="noopener"></script>
 
-    <!-- Contact Form JavaScript File -->
-    <script src="contactform/contactform.js"></script>
+  <!-- Contact Form JavaScript File -->
+  <!-- <script src="contactform/contactform.js"></script> -->
 
-    <!-- Template Main Javascript File -->
-    <script src="js/main.js"></script>
-    <!-- Pagination Javascript File -->
-    <script src="js/pagination.js"></script>
+  <!-- Template Main Javascript File -->
+  <script src="js/main.js"></script>
+  <!-- Pagination Javascript File -->
+  <script src="js/pagination.js"></script>
 
-    <!-- Mentors Javascript File -->
-    <script src="js/mentors.js"></script>
-    <!-- Projects Javascript File -->
-    <script src="js/projects.js"></script>
-  </body>
+  <!-- Mentors Javascript File -->
+  <script src="js/mentors.js"></script>
+  <!-- Projects Javascript File -->
+  <script src="js/projects.js"></script>
+</body>
+
 </html>
