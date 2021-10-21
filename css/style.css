@@ -1180,26 +1180,32 @@ td {
     margin: 25px;
     padding: 20px;
     /*   width: 500px; */
-    background: radial-gradient(#1fe4f5, #3fbafe);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.5em;
+    background: white;
+    
     max-width: 300px;
     min-height: 200px;
-    display: grid;
-    grid-template-rows: 20px 50px 1fr 50px;
-    border-radius: 10px;
-    box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.25);
+    border-radius: 0px;
+    box-shadow: inset 0px 0px 20px 10px lightblue;
+
     transition: all 0.2s;
 }
 
 .project__card:hover {
-    box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.4);
-    transform: scale(1.01);
+    box-shadow: inset 0px 0px 20px 10px lightblue;
+    transform: scale(1.04);
+
 }
 
 .card__link,
 .card__title {
     position: relative;
-    text-decoration: none;
-    color: rgba(255, 255, 255, 0.9);
+    text-decoration: none; 
+    color: navy;
 }
 
 .card__link::after {
@@ -1230,15 +1236,20 @@ td {
 
 .card__content {
     grid-row: 3/4;
-    font-size: 20px;
-    color: #ffffff;
+    font-size: 15px;
+    color: navy/*#ffffff*/;
 }
 
 .link__container {
     grid-row: 4/5;
     align-self: center;
 }
-
+.projectimage svg{
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+    border-radius: 10%;
+}
 /* RESPONSIVE */
 
 @media (max-width: 1600px) {
