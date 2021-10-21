@@ -80,7 +80,7 @@ function createCard(project) {
   */
   const image = document.createElement('div');
   image.setAttribute('id',`${project.name}-image`)
-  let url=`/img/projects/${repotoimage[project.name]}`;
+  let url=`https://shashwat-mittal.github.io/img/projects/${repotoimage[project.name]}`;
   var xhr = new XMLHttpRequest();
   xhr.open("GET", url);
   xhr.onreadystatechange = function() {
