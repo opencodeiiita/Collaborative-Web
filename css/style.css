@@ -1180,11 +1180,14 @@ td {
     margin: 25px;
     padding: 20px;
     /*   width: 500px; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.5em;
     background: radial-gradient(#1fe4f5, #3fbafe);
     max-width: 300px;
     min-height: 200px;
-    display: grid;
-    grid-template-rows: 20px 50px 1fr 50px;
     border-radius: 10px;
     box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.25);
     transition: all 0.2s;
@@ -1238,7 +1241,11 @@ td {
     grid-row: 4/5;
     align-self: center;
 }
-
+.projectimage svg{
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+}
 /* RESPONSIVE */
 
 @media (max-width: 1600px) {
