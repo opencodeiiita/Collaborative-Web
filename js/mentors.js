@@ -9,10 +9,10 @@ fetch('./data/mentors.json')
     console.log('error: ' + err);
 });
 function appendData(data) {
-var mainContainer = document.getElementById("mentors");
+var mainContainer = document.getElementById("mentors_cards");
 for (var i = 0; i < data.length; i++) {
   let element = document.createElement("div");
-  element.className = "mentorDiv";
+  element.className = "mentor_card";
 
   const imgDiv=document.createElement("div");
   imgDiv.className="imgDiv";
