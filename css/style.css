@@ -89,7 +89,7 @@ h6 {
 
 #header.header-scrolled,
 #header.header-pages {
-    height: 70px;
+    height: 65px;
     padding: 15px 0;
     background-color: #fff;
     box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.3);
@@ -733,7 +733,7 @@ li span {
 --------------------------------*/
 
 #about {
-    padding-top: 70px;
+    padding-top: 75px;
     background-image: linear-gradient(5deg, #ffffff, #f5f8fd);
 }
 
@@ -892,7 +892,7 @@ li span {
 /* Participants Section
 --------------------------------*/
 #participants {
-    padding-top: 70px;
+    padding-top: 75px;
 }
 .participantsHeading {
     text-align: center;
@@ -973,7 +973,7 @@ td {
 /*MENTORS SECTION*/
 
 #mentors{
-    padding-top: 70px;
+    padding-top: 75px;
 }
 
 .Mentor {
@@ -1162,7 +1162,7 @@ td {
 
 /*/////////////// PROJECTS ////////////////////////////////////////////////////////////////*/
 #projects{
-    padding-top: 70px;
+    padding-top: 75px;
 }
 
 #projects h1 {
