@@ -733,7 +733,7 @@ li span {
 --------------------------------*/
 
 #about {
-    padding-top: 65px;
+    padding-top: 70px;
     background-image: linear-gradient(5deg, #ffffff, #f5f8fd);
 }
 
@@ -892,7 +892,7 @@ li span {
 /* Participants Section
 --------------------------------*/
 #participants {
-    padding-top: 65px;
+    padding-top: 70px;
 }
 .participantsHeading {
     text-align: center;
@@ -973,7 +973,7 @@ td {
 /*MENTORS SECTION*/
 
 #mentors{
-    padding-top: 65px;
+    padding-top: 70px;
 }
 
 .Mentor {
@@ -1162,7 +1162,7 @@ td {
 
 /*/////////////// PROJECTS ////////////////////////////////////////////////////////////////*/
 #projects{
-    padding-top: 65px;
+    padding-top: 70px;
 }
 
 #projects h1 {
