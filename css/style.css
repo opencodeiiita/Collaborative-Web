@@ -895,6 +895,9 @@ li span {
     position: relative;
     padding-top: 75px;
 }
+#participantsList {
+    height: 720px;
+}
 .participantsHeading {
     text-align: center;
 }
@@ -1266,6 +1269,9 @@ td {
     left: 50%;
     transform: translate(-50%, -50%);
     margin-top: 2rem;
+}
+.participants-table-spinner-container img {
+    width: 100px;
 }
 /* RESPONSIVE */
 

@@ -133,11 +133,11 @@ function pageCall(page_number) {
 
 function loadingOn() {
   document.querySelector('#participantsList').style.opacity = 0;
-  document.querySelector('.participants-table-spinner').classList.add('d-block')
-  document.querySelector('.participants-table-spinner').classList.remove('d-none')
+  document.querySelector('.participants-table-spinner-container').classList.add('d-block')
+  document.querySelector('.participants-table-spinner-container').classList.remove('d-none')
 }
 function loadingOff() { 
   document.querySelector('#participantsList').style.opacity = 1;
-  document.querySelector('.participants-table-spinner').classList.add('d-none')
-  document.querySelector('.participants-table-spinner').classList.remove('d-block')
+  document.querySelector('.participants-table-spinner-container').classList.add('d-none')
+  document.querySelector('.participants-table-spinner-container').classList.remove('d-block')
 }
