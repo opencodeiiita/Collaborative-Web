@@ -89,7 +89,7 @@ h6 {
 
 #header.header-scrolled,
 #header.header-pages {
-    height: 70px;
+    height: 65px;
     padding: 15px 0;
     background-color: #fff;
     box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.3);
@@ -618,7 +618,8 @@ h6 {
     color: #fff;
     margin: 0 auto;
     text-align: center;
-    padding: 5rem 1em;
+    padding: 0 1em;
+    padding-top: 5em;
 }
 
 .cd-container > h1 {
@@ -732,7 +733,7 @@ li span {
 --------------------------------*/
 
 #about {
-    padding: 25px 0 35px 0;
+    padding-top: 75px;
     background-image: linear-gradient(5deg, #ffffff, #f5f8fd);
 }
 
@@ -890,8 +891,9 @@ li span {
 
 /* Participants Section
 --------------------------------*/
-/* .participants {
-} */
+#participants {
+    padding-top: 75px;
+}
 .participantsHeading {
     text-align: center;
 }
@@ -968,19 +970,23 @@ td {
     font-weight: 600;
 }
 
-/*mentors*/
+/*MENTORS SECTION*/
+
+#mentors{
+    padding-top: 75px;
+}
 
 .Mentor {
     font-weight: 600;
 }
 
-#mentors {
+#mentors_cards {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
     align-items: center;
 }
-.mentorDiv {
+.mentor_card {
     background-color: #ccc;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     transition: 0.5s;
@@ -993,7 +999,7 @@ td {
     align-items: center;
 }
 
-.mentorDiv:hover {
+.mentor_card:hover {
     box-shadow: 0 12px 24px 0 rgba(0, 0, 0, 0.2);
     transform: scale(1.03);
 }
@@ -1054,7 +1060,7 @@ td {
     flex-direction: row;
 }
 #part {
-    padding-top: 1.5em;
+    /* padding-top: 1.5em; */
     padding-bottom: 1em;
 }
 
@@ -1064,18 +1070,18 @@ td {
 }
 
 @media (min-width: 1000px) {
-    #mentors {
+    #mentors_cards {
         padding: 0 100px;
     }
 }
 @media (max-width: 800px) {
-    #mentors {
+    #mentors_cards {
         padding: 0 20px;
     }
 }
 
 @media (max-width: 800px) {
-    #mentors {
+    #mentors_cards {
         padding: 0 10px;
     }
     .icon {
@@ -1155,11 +1161,15 @@ td {
 /* mentors end! */
 
 /*/////////////// PROJECTS ////////////////////////////////////////////////////////////////*/
+#projects{
+    padding-top: 75px;
+}
+
 #projects h1 {
     align-items: center;
     text-align: center;
-    padding-top: 1em;
 }
+
 #projects h1 .typewrite {
     align-items: center;
     text-align: center;
