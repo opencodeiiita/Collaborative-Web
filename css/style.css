@@ -892,7 +892,11 @@ li span {
 /* Participants Section
 --------------------------------*/
 #participants {
+    position: relative;
     padding-top: 75px;
+}
+#participantsList {
+    height: 720px;
 }
 .participantsHeading {
     text-align: center;
@@ -944,7 +948,6 @@ td {
 
 .pagination {
     display: flex;
-    /* margin: 10px 30px; */
     align-items: center;
     justify-content: center;
     color: #000;
@@ -1256,6 +1259,19 @@ td {
     height: auto;
     object-fit: contain;
     border-radius: 10%;
+}
+.participants-table-spinner-container {
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin-top: 2rem;
+}
+.participants-table-spinner-container img {
+    width: 100px;
 }
 /* RESPONSIVE */
 
