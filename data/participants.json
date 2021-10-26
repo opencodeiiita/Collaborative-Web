@@ -1993,5 +1993,17 @@
          "github" : "https://github.com/Ksathwik03",
          "twitter" : "",
          "referral" : "IIITA"
-    }
+    },
+
+  {
+    "name": "Priyanshu kumar",
+    "imageurl": "https://avatars.githubusercontent.com/u/91563559",
+    "about": "Hello I'm a web developer",
+    "college": "IIITA",
+    "facebook": "",
+    "github": "https://github.com/Con-queror",
+    "twitter": "",
+    "referral": "Seniors"
+  },
 ]
+
