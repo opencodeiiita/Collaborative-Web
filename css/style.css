@@ -493,7 +493,7 @@ h6 {
     left: -260px;
     width: 260px;
     padding-top: 18px;
-    background: rgba(40, 38, 70, 0.8);
+    background: var(--dark);
     transition: 0.4s;
 }
 
@@ -514,7 +514,7 @@ h6 {
 .mobile-nav a:hover,
 .mobile-nav .active > a,
 .mobile-nav li:hover > a {
-    color: #8dc2fa;
+    color: var(--Orange);
     text-decoration: none;
 }
 
@@ -567,7 +567,7 @@ h6 {
     top: 0;
     left: 0;
     position: fixed;
-    background: rgba(40, 38, 70, 0.8);
+    background:#353b41d9;
     overflow: hidden;
     display: none;
 }
@@ -1031,9 +1031,7 @@ td {
 }
 .mentor_card {
     background-color: #ccc;
-    box-shadow: inset 0px 0px 10px var(--Orange),
-                0 0px 8px 0 rgba(0, 0, 0, 0.1);
-    /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); */
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     transition: all 0.150s ease-in;
     width: 225px;
     margin: 1.5vw;
@@ -1045,8 +1043,7 @@ td {
 }
 
 .mentor_card:hover {
-    box-shadow: 0px 0px 10px var(--Orange);
-    /* box-shadow: 0 12px 24px 0 rgba(0, 0, 0, 0.2); */
+    box-shadow: 0 12px 24px 0 rgba(0, 0, 0, 0.2);
     transform: scale(1.03);
 }
 
