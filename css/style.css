@@ -2,11 +2,13 @@
 # General
 --------------------------------------------------------------*/
 .html {
-    --Light-Blue: #44C4FF;
-    --Dark-Blue: #5044FF;
-    --Purple: #852DEE;
-    --Pink: #FF44A0;
-    --Red: #FF445B;
+    --Light-Blue: #CDFFFC;
+    --Dark-Blue: #193498;
+    --Pink: #FF577F;
+    --Red: #E02401;
+    --Orange: #FF884B;
+    --Light-Orange: #ffe7db;
+    --Gray: rgba(0,0,0,0.5); 
     scroll-behavior: smooth;
 }
 body {
@@ -16,14 +18,17 @@ body {
 }
 
 a {
-    color: var(--Light-Blue);
+    color: var(--Orange);
     transition: 0.5s;
 }
-
+.typewrite > span.wrap {
+    color: var(--Orange);
+    border-color: var(--Gray);
+}
 a:hover,
 a:active,
 a:focus {
-    color: var(--Dark-Blue);
+    color: var(--Pink);
     outline: none;
     text-decoration: none;
 }
@@ -117,7 +122,7 @@ h6 {
 
 #header .logo h1 a,
 #header .logo h1 a:hover {
-    background: -webkit-linear-gradient(45deg, var(--Pink), var(--Red));
+    background: -webkit-linear-gradient(45deg, var(--Orange), var(--Red));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     text-decoration: none;
@@ -181,14 +186,14 @@ h6 {
     border-radius: 4px;
     transition: 0.5s;
     color: #fff;
-    background: linear-gradient(45deg, var(--Pink), var(--Red));
+    background: linear-gradient(45deg, var(--Orange), var(--Red));
     color: #fff;
 }
 
 #intro .intro-info .btn-get-started:hover,
 #intro .intro-info .btn-services:hover {
     transform: scale(1.05);
-   /* background: linear-gradient(45deg, var(--Red), var(--Pink)); */
+   /* background: linear-gradient(45deg, var(--Red), var(--Orange)); */
 }
 
 #hoverFade {
@@ -323,7 +328,7 @@ h6 {
 }
 
 #hoverFade:hover span {
-    color: var(--Pink) !important;
+    color: var(--Orange) !important;
     opacity: 1;
 }
 
@@ -337,7 +342,7 @@ h6 {
     cursor: pointer;
     width: 50px;
     height: 50px;
-    background-color: #1bb1dc;
+    background-color: var(--Orange);
     text-indent: -9999px;
     display: none;
     -webkit-border-radius: 60px;
@@ -356,7 +361,7 @@ h6 {
     border-bottom-color: #ffffff;
 }
 #scroll:hover {
-    background-color: #e74c3c;
+    background-color: var(--Pink);
     opacity: 1;
     filter: 'alpha(opacity=100)';
     -ms-filter: 'alpha(opacity=100)';
@@ -395,7 +400,7 @@ h6 {
 .main-nav a {
     display: block;
     position: relative;
-    color: var(--Light-Blue);
+    color: rgba(0, 0, 0, 0.5);
     padding: 10px 15px;
     transition: 0.3s;
     font-size: 14px;
@@ -407,7 +412,7 @@ h6 {
 .main-nav a:hover,
 .main-nav .active > a,
 .main-nav li:hover > a {
-    color: var(--Pink);    
+    color: var(--Orange);    
     text-decoration: none;
 }
 
@@ -642,7 +647,7 @@ h6 {
     font-weight: normal;
     letter-spacing: 0.125rem;
     text-transform: uppercase;
-    color: #413e66;
+    color: var(--Orange);
 }
 
 #countdown-time {
@@ -721,7 +726,7 @@ h6 {
     list-style-type: none;
     padding: 1em;
     text-transform: uppercase;
-    color: #413e66;
+    color: var(--Gray);
 }
 
 li span {
@@ -773,7 +778,8 @@ li span {
     transform: translate(-50%, -50%);
     padding: 10px 48px;
     color: rgb(20, 20, 20);
-    background: linear-gradient(to right, #a8a8a8 0, rgba(46, 45, 45, 0.829) 10%, #a8a8a8 20%);
+    /* background: linear-gradient(to right, #a8a8a8 0, rgba(46, 45, 45, 0.829) 10%, #a8a8a8 20%); */
+    background: linear-gradient(to right, var(--Orange), var(--Red));
     background-position: 0;
     background-clip: text;
     -webkit-background-clip: text;
@@ -918,7 +924,7 @@ li span {
 thead {
     text-align: center;
     color: white;
-    background-color: #1e3163;
+    background: var(--Dark-Blue);
     font-size: 15px;
     text-transform: uppercase;
     transform: none;
@@ -932,11 +938,14 @@ th {
     padding-bottom: 20px;
 }
 tr {
-    border: 2px solid #fff;
+    /* border: 2px solid #fff; */
+    transition: transform 150ms ease-in;
 }
-tr:hover {
-    transform: scale(1.02);
-    background: linear-gradient(to right, #0099f7, #f11712);
+tbody tr:hover {
+    border-radius: 5px;
+    transform: scale(1.03);
+    box-shadow: 0 1px 8px rgba(0, 0, 0, 0.15);
+    /* background: var(--Red); */
 }
 td {
     padding: 20px;
@@ -945,7 +954,7 @@ td {
     background-color: #a2d2ff4f;
 }
 table {
-    border: 1px solid black;
+    /* border: 1px solid black; */
     border-radius: 5px;
     -moz-border-radius: 5px;
     padding: 5px;
@@ -978,7 +987,7 @@ td {
 .current {
     padding: 10px 20px;
     border-radius: 50%;
-    border: 5px solid orange;
+    border: 5px solid var(--Orange);
     font-size: 20px;
     font-weight: 600;
 }
@@ -1048,6 +1057,10 @@ td {
 
 .logoDiv {
     margin-bottom: 10px;
+}
+
+.logoDiv a {
+    color: var(--Gray);
 }
 
 .mentorImage {
@@ -1210,14 +1223,14 @@ td {
     max-width: 300px;
     min-height: 200px;
     border-radius: 0px;
-    box-shadow: inset 0px 0px 20px 10px lightblue;
+    box-shadow: inset 0px 0px 20px 10px var(--Light-Orange);
 
-    transition: all 0.2s;
+    transition: all 0.25s;
 }
 
 .project__card:hover {
-    box-shadow: inset 0px 0px 20px 10px lightblue;
-    transform: scale(1.04);
+    box-shadow: 0px 0px 20px 10px var(--Light-Orange);
+    transform: translateY(-5px) scale(1.04);
 
 }
 
@@ -1225,7 +1238,7 @@ td {
 .card__title {
     position: relative;
     text-decoration: none; 
-    color: navy;
+    color: var(--Dark-Blue);
 }
 
 .card__link::after {
