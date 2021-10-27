@@ -5,6 +5,34 @@ function fetchGetCards() {
     cardData => renderCard(cardData)
   );
 }
+const repotoimage ={
+"Collaborative-Web":"collaborative_web.svg",
+"AskUs Backend":"ask_us_back.svg",
+"AskUs Frontend":"ask_us_front.svg",
+"Auction DApp":"auction.svg"     ,
+"Coder Queen":"coder_queen.svg" ,
+"Code Trouble":"code_trouble.svg",
+"Collaborative App":"collab_app.svg",
+"Contest Countdown":"cont_count.svg",
+"Find My Roomie":"find_room.svg",
+"GeekChat":"geek_chat.svg",
+"Geek Editor Backend":"geek_edit_back.svg",
+"Geek Editor Frontend":"geek_edit_front.svg",
+"GoGit":"go_git.svg",
+"Information Chest":"info_chest.svg",
+"Leaderboard Frontend":"leader_front.svg",
+"Let's Design 2.0":"lets_design_2.svg",
+"LiblessML":"libless_ml.svg",
+"Numismatics":"numismatics.svg",
+"OpenCode Revamp":"oc_revamp.svg",
+"PanoViewer":"pano_viewer.svg",
+"PhotoStore":"photo_store.svg",
+"ProductivityTracker":"prod_track.svg",
+"Shopping Cart":"shop_cart.svg",
+"Warriors":"warriors.svg",
+}
+
+
 function setAttributes(element, attributes) {
   for (let key in attributes) {
     element.setAttribute(key, attributes[key]);
@@ -44,6 +72,27 @@ function createCard(project) {
   const repoNameWithSlashes = project['repo-url'].split('https://github.com/opencodeiiita/')[1];
   //Removing forward slashes at the end
   const repoName = repoNameWithSlashes.split('/')[0];
+  //Image
+  /*
+  const image = document.createElement('img');
+  image.src=`/img/projects/${repotoimage[project.name]}`;
+  image.style="width:100%; height: auto;"
+  */
+  const image = document.createElement('div');
+  image.setAttribute('id',`${project.name}-image`)
+  let url=`img/projects/${repotoimage[project.name]}`;
+  var xhr = new XMLHttpRequest();
+  xhr.open("GET", url);
+  xhr.onreadystatechange = function() {
+            if (xhr.readyState === XMLHttpRequest.DONE && xhr.status == 200) {
+                    document.getElementById(`${project.name}-image`).innerHTML = xhr.responseText;
+            }
+    };
+  xhr.send();
+
+  image.style="width:72%; height: auto;"
+  image.classList.add("projectimage");
+  console.log(project.name, repotoimage[project.name]);
   //Passing the repo name as query string to fetch the issues for the repo when the page loads
   projectIssuesLink.setAttribute('class', 'card__link');
   projectIssuesLink.setAttribute('href', `/Collaborative-Web/project-issues.html?project=${repoName}`);
@@ -51,7 +100,7 @@ function createCard(project) {
 
   projectLinkContainer.append(projectLink, projectIssuesLink);
 
-  card.append(projectName, projectDescription, projectLinkContainer);
+  card.append(image,projectName, projectDescription, projectLinkContainer);
 
   projectCardsContainer.append(card);
 }
