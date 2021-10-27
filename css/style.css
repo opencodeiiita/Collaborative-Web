@@ -1240,7 +1240,7 @@ td {
     justify-content: space-between;
     gap: 0.5em;
     background: white;
-    
+    color: var(--dark);
     max-width: 300px;
     min-height: 200px;
     border-radius: 0px;
@@ -1259,7 +1259,7 @@ td {
 .card__title {
     position: relative;
     text-decoration: none; 
-    color: var(--Dark-Blue);
+    color: var(--dark);
 }
 
 .card__link::after {
@@ -1291,7 +1291,7 @@ td {
 .card__content {
     grid-row: 3/4;
     font-size: 15px;
-    color: navy/*#ffffff*/;
+    color: var(--dark)/*#ffffff*/;
 }
 
 .link__container {
