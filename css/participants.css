@@ -1,3 +1,13 @@
+html {
+    --Light-Blue: #CDFFFC;
+    --Dark-Blue: #193498;
+    --Pink: #FF577F;
+    --Red: #E02401;
+    --Orange: #FF884B;
+    --Light-Orange: #ffe7db;
+    --Gray: rgba(0,0,0,0.5); 
+    scroll-behavior: smooth;
+  }
 body{
     background-color: #fff8f4;
 }
@@ -21,8 +31,7 @@ body{
     border-radius: 7px;
     background-color: rgb(229 229 238 / 35%);
     align-items: center;
-    padding: 10px;
-    padding-bottom: 50px;
+    padding: 13px;
 }
 
 .participant_card:hover {
@@ -32,7 +41,10 @@ body{
 
 .participantName {
     font-size: 1em;
-    font-weight: 400;
+    font-weight: bold;
+    text-transform: capitalize;
+    color: var(--Gray);
+    
 }
 
 .participantCollege {
@@ -40,10 +52,12 @@ body{
 }
 .participantPoints {
     font-size: 0.8em;
+    color: var(--Gray);
+    font-weight: bold;
 }
 
 .participantImage{
-    width: 90%;
+    width: 100%;
     height: auto;
     object-fit: contain;
     border-radius: 5px;
@@ -59,4 +73,10 @@ body{
 
 .icon:hover {
     transform: translateY(-5px);
+    
+}
+.imgDivvv {
+    overflow: hidden;
+    justify-content: center;
+    padding-bottom: 20px;
 }

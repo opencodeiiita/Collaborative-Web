@@ -14,8 +14,8 @@ for (var i = 0; i < data.length; i++) {
   let element = document.createElement("div");
   element.className = "participant_card";
 
-    const imgDiv = document.createElement("div");
-    imgDiv.className = "imgDiv";
+    const imgDivvv = document.createElement("div");
+    imgDivvv.className = "imgDivvv";
 
     const image = document.createElement("img");
     image.src = `https://avatars.githubusercontent.com/${data[i].username}?size=200`;
@@ -23,35 +23,26 @@ for (var i = 0; i < data.length; i++) {
     image.className = "participantImage";
     image.loader = "lazy";
 
-    imgDiv.appendChild(image);
+    imgDivvv.appendChild(image);
 
     const name = document.createElement("h3");
-    name.innerHTML = `${data[i].name}`;
+    name.innerHTML = (data[i].name&&data[i].name.toLowerCase())||(data[i].username.toLowerCase());
     name.className = "participantName";
+
 
     const points = document.createElement("h3");
     points.innerHTML = `Points: ${data[i].totalPoints}`;
     points.className = "participantPoints";
 
     let college=null;
-    if(data[i].college!="N/A" && data[i].college!="null"){
+    if(data[i].college!="N/A" && data[i].college!="null" && data[i].college){
         college = document.createElement("h4");
         college.innerHTML = `${data[i].college}`;
         college.className = "participantCollege";
     }
     const logoDiv = document.createElement("div");
     logoDiv.className = "logoDiv";
-/*
-    const logoDiv = document.createElement("div");
-    logoDiv.className = "logoDiv";
-    const fb = document.createElement("a");
-    fb.target = "_blank";
-    fb.rel = "noopener noreferrer";
-    fb.href = `${data[i].facebook}`;
-    fb.innerHTML = '<i class="fab fa-facebook fa-2x"></i>';
-    fb.className = "icon";
-    fb.ariaLabel = "Facebook link";
-*/
+
     const github = document.createElement("a");
     github.href = `https://github.com/${data[i].username}`;
     github.target = "_blank";
@@ -59,19 +50,8 @@ for (var i = 0; i < data.length; i++) {
     github.innerHTML = '<i class="fab fa-github fa-2x"></i>';
     github.className = "icony";
     github.ariaLabel = "Github link";
-/*
-    const twitter = document.createElement("a");
-    twitter.href = `${data[i].twitter}`;
-    twitter.target = "_blank";
-    twitter.rel = "noopener";
-    twitter.innerHTML = '<i class="fab fa-twitter fa-2x"></i>';
-    twitter.className = "icon";
-    twitter.ariaLabel = "Twitter link";*/
 
-    //logoDiv.appendChild(fb);
-  //  logoDiv.appendChild(github);
-    //logoDiv.appendChild(twitter);
-    element.appendChild(imgDiv);
+    element.appendChild(imgDivvv);
     element.appendChild(name);
     //element.appendChild(logoDiv);
     element.appendChild(github);
@@ -79,7 +59,47 @@ for (var i = 0; i < data.length; i++) {
     if(college!=null){
     element.appendChild(college);
     }
+    //on hover show data about the participant
     
     mainContainer.appendChild(element);
   }
 }
+
+(function ($) {
+  'use strict';
+
+  // Header scroll class
+  $(window).scroll(function () {
+    if ($(this).scrollTop() > 100) {
+      $('#header').addClass('header-scrolled');
+    } else {
+      $('#header').removeClass('header-scrolled');
+    }
+  });
+
+  if ($(window).scrollTop() > 100) {
+    $('#header').addClass('header-scrolled');
+  }
+
+  // Navigation active state on scroll
+  var nav_sections = $('section');
+  var main_nav = $('.main-nav, .mobile-nav');
+  var main_nav_height = $('#header').outerHeight();
+
+  $(window).on('scroll', function () {
+    var cur_pos = $(this).scrollTop();
+
+    nav_sections.each(function () {
+      var top = $(this).offset().top - main_nav_height,
+        bottom = top + $(this).outerHeight();
+
+      if (cur_pos >= top && cur_pos <= bottom) {
+        main_nav.find('li').removeClass('active');
+        main_nav
+          .find('a[href="#' + $(this).attr('id') + '"]')
+          .parent('li')
+          .addClass('active');
+      }
+    });
+  });
+})(jQuery);
