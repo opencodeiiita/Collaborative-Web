@@ -609,6 +609,9 @@ h6 {
     width: 50%;
 }
 
+.get-started-div{
+    justify-content: start;
+}
 /* Section with background
 --------------------------------*/
 
@@ -665,6 +668,11 @@ h6 {
 
     .container .col-md-6 {
         text-align: center;
+    }
+    .get-started-div{
+        justify-content: center;
+        width: 100%;
+        margin-left: 0px !important;
     }
 }
 @media (min-width: 540px) and (max-width: 820px) {
@@ -1074,6 +1082,7 @@ td {
 
 .icon:hover {
     transform: translateY(-5px);
+    color:var(--Pink);
 }
 
 .logoDiv {
