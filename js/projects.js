@@ -62,7 +62,7 @@ function createCard(project) {
   const projectLink = document.createElement('a');
   projectLink.setAttribute('class', 'card__link');
   projectLink.setAttribute('href', `${project['repo-url']}`);
-  projectLink.innerText = 'Project Link >';
+  projectLink.innerHTML = 'Project Link <i class="fas fa-arrow-circle-right"></i>';
 
   //Setting up another link for 'Learn More' page
   const projectIssuesLink = document.createElement('a');
@@ -96,7 +96,7 @@ function createCard(project) {
   //Passing the repo name as query string to fetch the issues for the repo when the page loads
   projectIssuesLink.setAttribute('class', 'card__link');
   projectIssuesLink.setAttribute('href', `/Collaborative-Web/project-issues.html?project=${repoName}`);
-  projectIssuesLink.innerText = 'Issues >';
+  projectIssuesLink.innerHTML = 'Issues <i class="fas fa-arrow-circle-right"></i>';
 
   projectLinkContainer.append(projectLink, projectIssuesLink);
 
