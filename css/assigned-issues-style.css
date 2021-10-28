@@ -1,5 +1,16 @@
+html {
+  --Light-Blue: #CDFFFC;
+  --Dark-Blue: #193498;
+  --Pink: #FF577F;
+  --Red: #E02401;
+  --Orange: #FF884B;
+  --Light-Orange: #ffe7db;
+  --Gray: rgba(0,0,0,0.5); 
+  scroll-behavior: smooth;
+}
+
 body {
-  background-color: #f5f8fd;
+  background-color: #ff884b0f;
 }
 
 a {
@@ -22,7 +33,24 @@ h4,
 h5,
 h6 {
   font-weight: 600;
-  color: #413e66;
+  /* color: #413e66; */
+  color: var(--Orange);
+}
+
+.heading-para {
+  color: var(--Gray);
+}
+
+.scrollto span {
+  background: -webkit-linear-gradient(45deg, var(--Orange), var(--Red));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-decoration: none;
+  color: var(--Dark-Blue)
+}
+
+.card-body .card-text a {
+  color: var(--Orange) !important;
 }
 /*--------------------------------------------------------------
 # Top Bar
@@ -148,7 +176,7 @@ h6 {
 .main-nav a {
     display: block;
     position: relative;
-    color: #413e66;
+    color: rgba(0, 0, 0, 0.5);
     padding: 10px 15px;
     transition: 0.3s;
     font-size: 14px;
@@ -159,7 +187,7 @@ h6 {
 
 .main-nav a:hover,
 .main-nav li:hover > a {
-    color: #1bb1dc;
+    color: var(--Orange);
     text-decoration: none;
 }
 
@@ -175,7 +203,7 @@ h6 {
   left: -260px;
   width: 260px;
   padding-top: 18px;
-  background: rgba(40, 38, 70, 0.8);
+  background: var(--dark);
   transition: 0.4s;
 }
 
@@ -196,7 +224,7 @@ h6 {
 .mobile-nav a:hover,
 .mobile-nav .active > a,
 .mobile-nav li:hover > a {
-  color: #8dc2fa;
+  color: var(--Orange);
   text-decoration: none;
 }
 
@@ -225,7 +253,7 @@ h6 {
   top: 0;
   left: 0;
   position: fixed;
-  background: rgba(40, 38, 70, 0.8);
+  background: #353b41d9;
   overflow: hidden;
   display: none;
 }
@@ -252,11 +280,26 @@ h6 {
 .issue-card {
     background-color: #e9f4ff;
 }
-.issue-card a {
-  color: #413e66;
+.issue-card a:hover {
+  color: var(--Orange) !important;
+}
+.issue-card .card-body .card-text a:hover {
+  text-decoration: underline;
 }
 .issue-card a:hover {
   color: var(--primary);
+}
+.issue-card .card-header {
+  background: var(--dark);
+}
+.issue-card .card-header span {
+  color: var(--Orange);
+}
+.issue-card .card-header a{
+  color: white;
+}
+.issue-card .card-body .card-title a {
+  color: var(--dark)
 }
 .spinner-container {
   display: none;

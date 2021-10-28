@@ -88,7 +88,7 @@ const parseHTML = (username, info) => {
 
   //add skeleton
   html += `<div class="card my-3">
-                <h3 class="card-header"><a href="https://github.com/${username}">${username}</a><span class="no-of-issues rounded-pill badge bg-info mx-3">${info.number}</span></h3>
+                <h3 class="card-header"><a href="https://github.com/${username}">${username}</a><span class="no-of-issues rounded-pill badge bg-light mx-3">${info.number}</span></h3>
                 <div class="card-body">${issues}</div>
             </div>`;
 
