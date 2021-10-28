@@ -80,3 +80,8 @@ body{
     justify-content: center;
     padding-bottom: 20px;
 }
+#participants_loading{
+    font-size: 50px;
+    text-align: center;
+    width: 100%;
+}

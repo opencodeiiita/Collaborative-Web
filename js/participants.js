@@ -60,9 +60,10 @@ for (var i = 0; i < data.length; i++) {
     element.appendChild(college);
     }
     //on hover show data about the participant
-    
+
     mainContainer.appendChild(element);
   }
+  $("#participants_loading").remove();
 }
 
 (function ($) {
