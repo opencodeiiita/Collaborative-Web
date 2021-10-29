@@ -29,6 +29,9 @@
   <link rel="preload" href="lib/bootstrap/css/bootstrap.min.css" as="style"
    onload="this.rel='stylesheet'"><noscript><link rel="stylesheet" href="lib/bootstrap/css/bootstrap.min.css"></noscript>
 
+   <!-- FontAwesome -->
+   <script src="https://kit.fontawesome.com/b4f1d5d3d1.js" crossorigin="anonymous"></script>
+
   <!-- Libraries CSS Files -->
   <link rel="preload" href="lib/font-awesome/css/font-awesome.min.css" as="style"
    onload="this.rel='stylesheet'"><noscript><link rel="stylesheet" href="lib/font-awesome/css/font-awesome.min.css"></noscript>
@@ -71,7 +74,7 @@
           <li><a aria-label="About us page"href="#about" rel="noopener">About Us</a></li>
           <!-- <li><a aria-label="Twitter"href="#services">Services</a></li> -->
           <li><a aria-label="Mentors page"href="#mentors">Mentors</a></li>
-          <li><a aria-label="Participants page" href="#participants">Participants</a></li>
+          <li><a aria-label="Participants page" href="#participants">Leaderboard</a></li>
           <li><a aria-label="Projects page" href="#projects">Projects</a></li>
           <!-- <li class="drop-down"><a aria-label="Twitter"href="">Drop Down</a>
             <ul>
@@ -119,7 +122,7 @@
             <span>b</span><span>y</span> <span>I</span><span>I</span><span>I</span><span>T</span>
             <span>A</span><span>l</span><span>l</span><span>a</span><span>h</span><span>a</span><span>b</span><span>a</span><span>d</span>
           </h2>
-          <div class="row justify-content-center align-self-center">
+          <div class="row get-started-div align-self-center ml-1 mt-3">
             <a aria-label="Detail description" href="#about" class="btn-get-started scrollto">Get Started</a>
           </div>
         </div>
@@ -221,7 +224,7 @@
         target="_blank"
         class="typewrite"
         data-period="2000"
-        data-type='[ "Our Participants","Check The Top Scorers!" ]' rel="noopener">
+        data-type='[ "Our Leaderboard","Check The Top Scorers!" ]' rel="noopener">
         </a><span class="wrap"></span>
       </h1>
     </div>
@@ -242,8 +245,11 @@
         <div class="current" id="current">1</div>
         <div class="page" id="next">Next Page</div>
       </div>
-      <div class="d-flex justify-content-center my-5 mx-auto">
-        <a aria-label ="Assigned issue page" href="/Collaborative-Web/assigned-issues.html" class="btn btn-info mx-auto" rel="noopener">See All Assigned Issues</a>
+      <div class="d-flex justify-content-center my-3 mx-auto">
+        <a aria-label ="Assigned issue page" href="./assigned-issues.html" class="btn-orange mx-auto" rel="noopener">See All Assigned Issues</a>
+      </div>
+      <div class="d-flex justify-content-center my-3 mx-auto">
+        <a aria-label ="Contributors page" href="./contributors.html" class="btn-orange mx-auto" rel="noopener">See All Contributors</a>
       </div>
     </section>
     <!-- #Participants -->
@@ -339,6 +345,8 @@
   <script src="js/mentors.js"></script>
   <!-- Projects Javascript File -->
   <script src="js/projects.js"></script>
+  <!--Countdown js-->
+  <script src="js/countdown.js"></script>
 </body>
 
 </html>

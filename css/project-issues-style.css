@@ -1,5 +1,16 @@
+html {
+    --Light-Blue: #CDFFFC;
+    --Dark-Blue: #193498;
+    --Pink: #FF577F;
+    --Red: #E02401;
+    --Orange: #FF884B;
+    --Light-Orange: #ffe7db;
+    --Gray: rgba(0,0,0,0.5); 
+    scroll-behavior: smooth;
+}
+
 body {
-    background-color: #f5f8fd;
+    background-color: #ff884b0f;
 }
 
 h1 {
@@ -136,7 +147,7 @@ h1 {
 .main-nav a {
     display: block;
     position: relative;
-    color: #413e66;
+    color: rgba(0, 0, 0, 0.5);
     padding: 10px 15px;
     transition: 0.3s;
     font-size: 14px;
@@ -147,7 +158,7 @@ h1 {
 
 .main-nav a:hover,
 .main-nav li:hover > a {
-    color: #1bb1dc;
+    color: var(--Orange);
     text-decoration: none;
 }
 
@@ -163,7 +174,7 @@ h1 {
     left: -260px;
     width: 260px;
     padding-top: 18px;
-    background: rgba(40, 38, 70, 0.8);
+    background: var(--dark);
     transition: 0.4s;
 }
 
@@ -183,7 +194,7 @@ h1 {
 
 .mobile-nav a:hover,
 .mobile-nav li:hover > a {
-    color: #8dc2fa;
+    color: var(--Orange);
     text-decoration: none;
 }
 
@@ -212,7 +223,7 @@ h1 {
     top: 0;
     left: 0;
     position: fixed;
-    background: rgba(40, 38, 70, 0.8);
+    background: #353b41d9;
     overflow: hidden;
     display: none;
 }
@@ -233,9 +244,22 @@ h1 {
     display: flex;
     justify-content: center;
 }
-
+.oc-logo {
+    background: -webkit-linear-gradient(45deg, var(--Orange), var(--Red));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-decoration: none;
+  color: var(--Dark-Blue)
+} 
+.page-heading {
+    color: var(--Orange);
+}
+.page-heading-para {
+    color: var(--Gray);
+}
 .issue-card {
-    background-color: #e9f4ff;
+    background-color: #fff3ed;
+    box-shadow: 0 0 1px #d2d2d2;
     border-radius: 10px;
 }
 .issue-card h5 {
@@ -248,11 +272,33 @@ h1 {
     color: var(--dark)
 }
 .issue-card h5 a:hover {
-    color: var(--primary)
+    color: var(--Orange)
 }
-
+.issue-card .card-text a {
+    color: var(--Orange)
+}
 .Error {
     color: #cf222e;
+}
+.btn-orange {
+    border: none;
+    outline: none;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 13px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 10px 32px;
+    border-radius: 4px;
+    transition: 0.5s;
+    color: #fff;
+    background: linear-gradient(45deg, var(--Orange), var(--Red));
+    color: #fff;
+}
+.btn-orange:hover {
+    color:white;
+    transform: scale(1.02);
 }
 /* media queries for project issues page */
 @media (max-width: 768px) {
