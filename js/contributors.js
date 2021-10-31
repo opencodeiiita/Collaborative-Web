@@ -1,13 +1,35 @@
-fetch("https://opencodeiiita.herokuapp.com/get-all-data/?page=-1")
-  .then(function (response) {
-    return response.json();
-  })
-  .then(function (data) {
-    appendData(data);
-  })
-  .catch(function (err) {
-    console.log("error: " + err);
-  });
+var page = 1;
+var hasNext = true;
+async function getData() {
+    let res = await fetch(`https://opencodeiiita.herokuapp.com/get-all-data/?page=${page}`);
+    let data = await res.json();
+    return data;
+}
+window.addEventListener('scroll', () => {
+    const { scrollHeight, scrollTop, clientHeight } = document.documentElement;
+    if (scrollTop + clientHeight > scrollHeight - 5) {
+        page++;
+        if (hasNext) {
+            getData().then(data => {
+                console.log(data);
+                hasNext = data.has_next;
+                appendData(data.data);
+            });
+            
+        }
+        else{
+          $("#participants_loading").remove();
+        }
+        // setTimeout(createPost, 2000);       
+    }
+
+});
+getData().then(data => {
+    console.log(data);
+    hasNext = data.has_next;
+    appendData(data.data);
+});
+
 async function appendData(data) {
 var mainContainer = document.getElementById("participants_cards");
 for (var i = 0; i < data.length; i++) {
@@ -62,8 +84,9 @@ for (var i = 0; i < data.length; i++) {
     //on hover show data about the participant
 
     mainContainer.appendChild(element);
+
   }
-  $("#participants_loading").remove();
+  
 }
 
 (function ($) {
