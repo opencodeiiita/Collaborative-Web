@@ -1,0 +1,87 @@
+html {
+    --Light-Blue: #CDFFFC;
+    --Dark-Blue: #193498;
+    --Pink: #FF577F;
+    --Red: #E02401;
+    --Orange: #FF884B;
+    --Light-Orange: #ffe7db;
+    --Gray: rgba(0,0,0,0.5); 
+    scroll-behavior: smooth;
+  }
+body{
+    background-color: #fff8f4;
+}
+
+#participants_cards{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.participant_card {
+    background-color: #ccc;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.5s;
+    width: 250px;
+    height:420px;
+    aspect-ratio: 0.66;
+    margin: 1.5vw;
+    justify-content: center;
+    text-align: center;
+    border-radius: 7px;
+    background-color: rgb(229 229 238 / 35%);
+    align-items: center;
+    padding: 13px;
+}
+
+.participant_card:hover {
+    box-shadow: 0 0 24px 0 var(--Orange);
+    transform: scale(1.03);
+}
+
+.participantName {
+    font-size: 1em;
+    font-weight: bold;
+    text-transform: capitalize;
+    color: var(--Gray);
+    
+}
+
+.participantCollege {
+    font-size: 0.8em;
+}
+.participantPoints {
+    font-size: 0.8em;
+    color: var(--Gray);
+    font-weight: bold;
+}
+
+.participantImage{
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+    border-radius: 5px;
+    vertical-align: middle;
+}
+.icony {
+    display: inline-block;
+    margin: 0 15px;
+    font-size: 13px;
+    transition: 0.5s;
+    color: var(--Gray);
+}
+
+.icon:hover {
+    transform: translateY(-5px);
+    
+}
+.imgDivvv {
+    overflow: hidden;
+    justify-content: center;
+    padding-bottom: 20px;
+}
+
+#participants_loading img{
+    width: 100%;
+    height: 100px;
+}
